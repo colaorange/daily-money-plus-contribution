@@ -1,1 +1,1 @@
-include ':studyndemo', ':resources'
+include ':resources'
