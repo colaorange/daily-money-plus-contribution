@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_name_comment_NativeChinese">English</string>
+    <string name="a1_lang_native_name" >English</string>
+    <string name="a1_lang_english_name" >English</string>
 
     <string name="act_balance_detlist">Detail list</string>
     <string name="act_balance_piechart">Pie chart</string>
@@ -9,7 +10,6 @@
     <string name="act_balance_yearly_timechart">Yearly chart</string>
     <string name="act_toggle_hierarchical_report">Toggle Hierarchical</string>
 
-    <string name="app_name">Daily Money+</string>
 
     <string name="cact_cancel">Cancel</string>
     <string name="cact_close">Close</string>
@@ -226,18 +226,12 @@
     <string name="msg_folder_cleared">Working folder %1$s was cleared</string>
     <string name="msg_no_csv">No CSV Files</string>
     <string name="msg_no_data">There is no data to backup/export</string>
-    <string name="msg_rested">Date was reset</string>
+    <string name="msg_rested">Data was reset</string>
     <string name="msg_same_from_to">From and To are the same one</string>
     <string name="msg_share_csv_content">Daily Money CSV Files</string>
     <string name="msg_share_csv_title">Daily Money %1$s</string>
     <string name="msg_working_folder_no_access">Working folder %1$s is not accessable, please allow the access right in system setting</string>
     <string name="msg_wrong_password">Wrong password!</string>
-
-    <string name="path_about">about.html</string>
-    <string name="path_contributor">contributor.html</string>
-    <string name="path_history">history.html</string>
-    <string name="path_how2use">how2use.html</string>
-    <string name="path_what_is_new">whatsnew.html</string>
 
     <string name="qmsg_clear_folder">Do you want to clear working folder %1$s? all files in the folder will be removed.</string>
     <string name="qmsg_create_default">Do you want to create default data?</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<resources>
-    <string name="a1_lang_name_comment_NativeChinese">中文</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="a1_lang_native_name" >繁體中文</string>
+    <string name="a1_lang_english_name" >Tradional Chinese</string>
 
     <string name="act_balance_detlist">明細清單</string>
     <string name="act_balance_piechart">結算圓餅圖</string>
@@ -9,7 +10,7 @@
     <string name="act_balance_yearly_timechart">每月結算年度圖</string>
     <string name="act_toggle_hierarchical_report">切換階層式報表</string>
 
-    <string name="app_name">每日記帳本+</string>
+    <string name="app_name" tools:ignore="ExtraTranslation">每日記帳本+</string>
 
     <string name="cact_cancel">取消</string>
     <string name="cact_close">關閉</string>
@@ -233,10 +234,10 @@
     <string name="msg_working_folder_no_access">工作目錄 %1$s 無法存取, 請到系統設定開啟存取權限</string>
     <string name="msg_wrong_password">錯誤的密碼!</string>
 
-    <string name="path_about">about_zh.html</string>
-    <string name="path_history">history_zh.html</string>
-    <string name="path_how2use">how2use_zh.html</string>
-    <string name="path_what_is_new">whatsnew_zh.html</string>
+    <string name="path_about" tools:ignore="ExtraTranslation">zh/about.html</string>
+    <string name="path_history" tools:ignore="ExtraTranslation">zh/history.html</string>
+    <string name="path_how2use" tools:ignore="ExtraTranslation">zh/how2use.html</string>
+    <string name="path_what_is_new" tools:ignore="ExtraTranslation">zh/whatsnew.html</string>
 
     <string name="qmsg_clear_folder">您想要清除工作目錄%1$s嗎?所有的目錄內的檔案將被移除</string>
     <string name="qmsg_create_default">您想要建立預設的資料(帳戶)嗎?</string>

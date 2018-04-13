@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_name_comment_NativeChinese">土耳其文</string>
+    <string name="a1_lang_native_name" >Türk</string>
+    <string name="a1_lang_english_name" >Turkish</string>
 
     <string name="act_balance_detlist">Ayrýntý listesi</string>
     <string name="act_balance_piechart">Daire grafik</string>
@@ -9,7 +10,7 @@
     <string name="act_balance_yearly_timechart">Yýllýk grafik</string>
     <string name="act_toggle_hierarchical_report">Hiyerarþik Geçiþ</string>
 
-    <string name="app_name">Para Günlüðü+</string>
+
 
     <string name="cact_cancel">Ýptal</string>
     <string name="cact_close">Kapat</string>
@@ -214,10 +215,6 @@
     <string name="msg_share_csv_content">Para Günlüðü CSV belgeleri</string>
     <string name="msg_share_csv_title">Para Günlüðü %1$s</string>
     <string name="msg_wrong_password">Þifre yanlýþ!</string>
-
-    <string name="path_about">about.html</string>
-    <string name="path_how2use">how2use.html</string>
-    <string name="path_what_is_new">whatsnew.html</string>
 
     <string name="qmsg_clear_folder">Seçili %1$s dizinini temizlemek istiyor musunuz? Tüm CSV belgeleri silinecek</string>
     <string name="qmsg_create_default">Varsayýlan veriyi oluþturmak istiyor musunuz?</string>

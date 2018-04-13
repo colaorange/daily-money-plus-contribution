@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_name_comment_NativeChinese">希臘文</string>
+    <string name="a1_lang_native_name" >Ελληνικά</string>
+    <string name="a1_lang_english_name" >Greek</string>
 
     <string name="act_balance_detlist">Λίστα συναλλαγών</string>
     <string name="act_balance_piechart">Γράφημα πίτας</string>
@@ -8,7 +9,7 @@
     <string name="act_balance_yearly_runchart">Ετήσιο Asset-Liability run γράφημα</string>
     <string name="act_balance_yearly_timechart">Ετήσιο γράφημα</string>
 
-    <string name="app_name">Daily Money+</string>
+
 
     <string name="cact_cancel">Άκυρο</string>
     <string name="cact_close">Κλείσιμο</string>
@@ -222,10 +223,6 @@
     <string name="msg_share_csv_content">Daily Money CSV Αρχεία</string>
     <string name="msg_share_csv_title">Daily Money %1$s</string>
     <string name="msg_wrong_password">Λάθος Κωδικός !</string>
-
-    <string name="path_about">about.html</string>
-    <string name="path_how2use">how2use.html</string>
-    <string name="path_what_is_new">whatsnew.html</string>
 
     <string name="qmsg_clear_folder">Θέλετε να διαγράψετε το φάκελο %1$s; Θα χαθούν όλα τα αρχεία CSV και backup</string>
     <string name="qmsg_create_default">Θέλετε να δημιουργήσετε προεπιλεγμένα δεδομένα;</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_name_comment_NativeChinese">西班牙文</string>
+    <string name="a1_lang_native_name" >Español</string>
+    <string name="a1_lang_english_name" >Spanish</string>
 
     <string name="act_balance_detlist">Lista de movimientos</string>
     <string name="act_balance_piechart">Gráfico circular</string>
@@ -9,7 +10,7 @@
     <string name="act_balance_yearly_timechart">Gráfico anual</string>
     <string name="act_toggle_hierarchical_report">Mostrar jerarquía</string>
 
-    <string name="app_name">Daily Money+</string>
+
 
     <string name="cact_cancel">Cancelar</string>
     <string name="cact_close">Cerrar</string>
@@ -214,10 +215,6 @@
     <string name="msg_share_csv_content">Archivos CSV de Daily Money</string>
     <string name="msg_share_csv_title">Daily Money %1$s</string>
     <string name="msg_wrong_password">¡Contraseña incorrecta!</string>
-
-    <string name="path_about">about.html</string>
-    <string name="path_how2use">how2use.html</string>
-    <string name="path_what_is_new">whatsnew.html</string>
 
     <string name="qmsg_clear_folder">¿Desea limpiar la carpeta de trabajo %1$s? Todos los CSV se borrarán</string>
     <string name="qmsg_create_default">¿Desea crear datos por defecto?</string>

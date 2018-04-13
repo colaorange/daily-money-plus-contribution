@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<resources>
-    <string name="a1_lang_name_comment_NativeChinese">越南文</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="a1_lang_native_name" >Tiếng Việt</string>
+    <string name="a1_lang_english_name" >Vietnamese</string>
 
     <string name="act_balance_detlist">Danh sách chi tiết</string>
     <string name="act_balance_piechart">Biểu đồ tròn</string>
@@ -8,8 +9,6 @@
     <string name="act_balance_yearly_runchart">Tài sản-Khoản vay theo năm thể hiện bằng biểu đồ </string>
     <string name="act_balance_yearly_timechart">Biểu đồ hàng năm</string>
     <string name="act_toggle_hierarchical_report">Chuyển đổi theo thứ bậc</string>
-
-    <string name="app_name">Quản lý tiền hằng ngày+</string>
 
     <string name="cact_cancel">Hủy bỏ</string>
     <string name="cact_close">Đóng</string>
@@ -224,10 +223,8 @@
     <string name="msg_working_folder_no_access">Thư mục đang hoạt động %1$s không thể truy cập được, vui lòng mở quyền truy cập trong Cài đặt Hệ thống</string>
     <string name="msg_wrong_password">Sai mật khẩu!</string>
 
-    <string name="path_about">about_vi.html</string>
-    <string name="path_history">history.html</string>
-    <string name="path_how2use">how2use_vi.html</string>
-    <string name="path_what_is_new">whatsnew.html</string>
+    <string name="path_about" tools:ignore="ExtraTranslation">vi/about.html</string>
+    <string name="path_how2use" tools:ignore="ExtraTranslation">vi/how2use.html</string>
 
     <string name="qmsg_clear_folder">Bạn có muốn dọn thư mục đang hoạt động %1$s? Tất cả các tập tin trong thư mục sẽ bị xóa.</string>
     <string name="qmsg_create_default">Bạn có muốn tạo dữ liệu mặc định?</string>
@@ -258,4 +255,7 @@
     <string name="title_detmgnt">Quản lý Chi tiết</string>
     <string name="title_pdprotection">Mật khẩu bảo vệ</string>
     <string name="title_prefs">Tùy chọn</string>
+
+    <string name="label_about">Trong khoảng</string>
+    <string name="label_how2use">Cách sử dụng</string>
 </resources>

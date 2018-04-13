@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<resources>
-    <string name="a1_lang_name_comment_NativeChinese">中文</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="a1_lang_native_name" >簡体中文</string>
+    <string name="a1_lang_english_name" >Simplified Chinese</string>
 
     <string name="act_balance_detlist">明细清单</string>
     <string name="act_balance_piechart">结算图饼图</string>
@@ -8,7 +9,7 @@
     <string name="act_balance_yearly_runchart">资产债务趋势图</string>
     <string name="act_balance_yearly_timechart">每月结算年度图</string>
 
-    <string name="app_name">每日记账本+</string>
+    <string name="app_name" tools:ignore="ExtraTranslation">每日记账本+</string>
 
     <string name="cact_cancel">取消</string>
     <string name="cact_close">关闭</string>
@@ -174,8 +175,10 @@
     <string name="msg_share_csv_title">Daily Money %1$s</string>
     <string name="msg_wrong_password">密码错误!</string>
 
-    <string name="path_about">about_zh.html</string>
-    <string name="path_what_is_new">whatsnew_zh.html</string>
+    <string name="path_about" tools:ignore="ExtraTranslation">zh/about.html</string>
+    <string name="path_history" tools:ignore="ExtraTranslation">zh/history.html</string>
+    <string name="path_how2use" tools:ignore="ExtraTranslation">zh/how2use.html</string>
+    <string name="path_what_is_new" tools:ignore="ExtraTranslation">zh/whatsnew.html</string>
 
     <string name="qmsg_clear_folder">您想要清除工作目录%1$s吗?所有目录內的档案將被移除</string>
     <string name="qmsg_create_default">您想要建立预设的资料(账户)吗?</string>

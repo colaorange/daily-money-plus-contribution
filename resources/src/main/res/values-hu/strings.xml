@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_name_comment_NativeChinese">匈牙利語</string>
+    <string name="a1_lang_native_name" >Magyar</string>
+    <string name="a1_lang_english_name" >Hungarian</string>
 
     <string name="act_balance_detlist">Tétel lista</string>
     <string name="act_balance_piechart">Kördiagram</string>
@@ -9,7 +10,7 @@
     <string name="act_balance_yearly_timechart">Éves diagram</string>
     <string name="act_toggle_hierarchical_report">Hierarchikus jelentés</string>
 
-    <string name="app_name">Daily Money+</string>
+
 
     <string name="cact_cancel">Mégse</string>
     <string name="cact_close">Bezár</string>
@@ -215,9 +216,6 @@
     <string name="msg_share_csv_title">Daily Money %1$s</string>
     <string name="msg_wrong_password">Hibás jelszó!</string>
 
-    <string name="path_about">about.html</string>
-    <string name="path_how2use">how2use.html</string>
-    <string name="path_what_is_new">whatsnew.html</string>
 
     <string name="qmsg_clear_folder">Tényleg törlöd a %1$s munkakönyvtárt? Minden CSV törlődik!</string>
     <string name="qmsg_create_default">Létrehozzuk az alapértelmezett adatokat?</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_name_comment_NativeChinese">德文</string>
+    <string name="a1_lang_native_name" >Deutsch</string>
+    <string name="a1_lang_english_name" >German</string>
 
     <string name="act_balance_detlist">Eintragsliste</string>
     <string name="act_balance_piechart">Tortendiagramm</string>
@@ -8,7 +9,7 @@
     <string name="act_balance_yearly_runchart">Jährliche Vermögen-Schulden Diagramm</string>
     <string name="act_balance_yearly_timechart">Jahresdiagramm</string>
 
-    <string name="app_name">Daily Money+</string>
+
 
     <string name="cact_cancel">Abbrechen</string>
     <string name="cact_close">Schließen</string>
@@ -213,10 +214,6 @@
     <string name="msg_share_csv_content">Daily Money CSV Datei</string>
     <string name="msg_share_csv_title">Daily Money %1$s</string>
     <string name="msg_wrong_password">Falsches Passwort!</string>
-
-    <string name="path_about">about.html</string>
-    <string name="path_how2use">how2use.html</string>
-    <string name="path_what_is_new">whatsnew.html</string>
 
     <string name="qmsg_clear_folder">Willst du Arbeitsordner leeren %1$s? Alle CSV Dateien werden gelöscht</string>
     <string name="qmsg_create_default">Willst du die Standarddaten erstellen?</string>

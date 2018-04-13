@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_name_comment_NativeChinese">俄文</string>
+    <string name="a1_lang_native_name" >Pусский</string>
+    <string name="a1_lang_english_name" >Russian</string>
 
     <string name="act_balance_detlist">Список описаний</string>
     <string name="act_balance_piechart">Круговая диаграмма</string>
@@ -8,7 +9,7 @@
     <string name="act_balance_yearly_runchart">Годовые Активы-Обязательство запустить диаграмму</string>
     <string name="act_balance_yearly_timechart">Годовая диаграмма</string>
 
-    <string name="app_name">Daily Money+</string>
+
 
     <string name="defacc_bank1">Банк.A</string>
     <string name="defacc_bank2">Банк.B</string>
@@ -167,9 +168,6 @@
     <string name="msg_share_csv_content">Daily Money CSV Файлы</string>
     <string name="msg_share_csv_title">Daily Money %1$s</string>
     <string name="msg_wrong_password">Пароль неверный!</string>
-
-    <string name="path_about">about.html</string>
-    <string name="path_what_is_new">whatsnew.html</string>
 
     <string name="qmsg_clear_folder">Вы действительно хотите очистить каталог %1$s?</string>
     <string name="qmsg_create_default">Вы хотите создать данные по умолчанию?</string>
