@@ -135,7 +135,7 @@
     <string name="label_position_after">Sonra</string>
     <string name="label_position_front">Ön</string>
     <string name="label_position_none">Gösterme</string>
-    <string name="label_prefcat_accounting_period">Accounting peroid</string>
+    <string name="label_prefcat_accounting">Accounting</string>
     <string name="label_prefcat_contribution">Contribution</string>
     <string name="label_prefcat_csv">CSV</string>
     <string name="label_prefcat_data">Data</string>

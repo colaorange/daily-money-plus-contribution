@@ -125,7 +125,7 @@
     <string name="label_monthly_expense">Mensili : %1$s</string>
     <string name="label_note">Note</string>
     <string name="label_other">Altro</string>
-    <string name="label_prefcat_accounting_period">Accounting peroid</string>
+    <string name="label_prefcat_accounting">Accounting</string>
     <string name="label_prefcat_contribution">Contribution</string>
     <string name="label_prefcat_csv">CSV</string>
     <string name="label_prefcat_data">Data</string>

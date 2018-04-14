@@ -137,7 +137,7 @@
     <string name="label_position_after">Μετά</string>
     <string name="label_position_front">Πριν</string>
     <string name="label_position_none">Χωρίς εμφάνιση συμβόλου</string>
-    <string name="label_prefcat_accounting_period">Accounting peroid</string>
+    <string name="label_prefcat_accounting">Accounting</string>
     <string name="label_prefcat_contribution">Contribution</string>
     <string name="label_prefcat_csv">CSV</string>
     <string name="label_prefcat_data">Data</string>

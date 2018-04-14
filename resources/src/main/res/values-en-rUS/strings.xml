@@ -140,7 +140,7 @@
     <string name="label_position_after">After</string>
     <string name="label_position_front">Front</string>
     <string name="label_position_none">No Display</string>
-    <string name="label_prefcat_accounting_period">Accounting peroid</string>
+    <string name="label_prefcat_accounting">Accounting</string>
     <string name="label_prefcat_contribution">Contribution</string>
     <string name="label_prefcat_csv">CSV</string>
     <string name="label_prefcat_data">Data</string>

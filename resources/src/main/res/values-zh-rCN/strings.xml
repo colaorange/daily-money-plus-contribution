@@ -206,7 +206,7 @@
         <string name="default_prefs_format_month">digital</string>
 
         <string name="label_prefcat_security">安全</string>
-        <string name="label_prefcat_accounting_period">会计期间</string>
+        <string name="label_prefcat_accounting">会计</string>
         <string name="label_prefcat_display">显示</string>
         <string name="label_prefcat_data">资料</string>
         <string name="label_prefcat_developer">开发者</string>

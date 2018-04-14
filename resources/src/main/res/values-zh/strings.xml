@@ -141,7 +141,7 @@
     <string name="label_position_after">在後面</string>
     <string name="label_position_front">在前面</string>
     <string name="label_position_none">不呈現</string>
-    <string name="label_prefcat_accounting_period">會計期間</string>
+    <string name="label_prefcat_accounting">會計</string>
     <string name="label_prefcat_contribution">貢獻</string>
     <string name="label_prefcat_csv">CSV</string>
     <string name="label_prefcat_data">資料</string>

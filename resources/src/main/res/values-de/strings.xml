@@ -134,7 +134,7 @@
     <string name="label_position_after">Danach</string>
     <string name="label_position_front">Davor</string>
     <string name="label_position_none">Keine Ansicht</string>
-    <string name="label_prefcat_accounting_period">Accounting peroid</string>
+    <string name="label_prefcat_accounting">Accounting</string>
     <string name="label_prefcat_contribution">Contribution</string>
     <string name="label_prefcat_csv">CSV</string>
     <string name="label_prefcat_data">Data</string>
