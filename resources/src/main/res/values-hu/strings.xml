@@ -85,8 +85,8 @@
     <string name="label_asset">Vagyon</string>
     <string name="label_balance_mode_month">%1$s hó (%2$s-%3$s)</string>
     <string name="label_balance_mode_month_total">Egyenleg %1$s-ig (-%2$s)</string>
-    <string name="label_balance_mode_year">%1$s évi egyenleg</string>
-    <string name="label_balance_mode_year_total">Egyenleg %1$s évig</string>
+    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
+    <string name="label_balance_mode_year_total">Egyenleg %1$s évig (%2$s)</string>
     <string name="label_balance_tasset">Vagyon egyenleg</string>
     <string name="label_balance_texpense">Kiadás egyenleg</string>
     <string name="label_balance_tincome">Bevétel egyenleg</string>

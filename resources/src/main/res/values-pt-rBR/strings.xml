@@ -85,8 +85,8 @@
     <string name="label_asset">Recursos</string>
     <string name="label_balance_mode_month">De %1$s (%2$s-%3$s)</string>
     <string name="label_balance_mode_month_total">Até %1$s (-%2$s)</string>
-    <string name="label_balance_mode_year">Balanço anual %1$s</string>
-    <string name="label_balance_mode_year_total">Balanço até o ano %1$s</string>
+    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
+    <string name="label_balance_mode_year_total">Balanço até o ano %1$s (%2$s)</string>
     <string name="label_balance_tasset">Balanço de Recursos</string>
     <string name="label_balance_texpense">Balanço de Despesas</string>
     <string name="label_balance_tincome">Balanço de Entradas</string>

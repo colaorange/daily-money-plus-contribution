@@ -54,8 +54,8 @@
     <string name="label_balance">Баланс</string>
     <string name="label_balance_mode_month">за %1$s (%2$s-%3$s)</string>
     <string name="label_balance_mode_month_total">до %1$s (%2$s)</string>
-    <string name="label_balance_mode_year">Баланс за год %1$s</string>
-    <string name="label_balance_mode_year_total">Баланс до %1$s года</string>
+    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
+    <string name="label_balance_mode_year_total">Баланс до %1$s года (%2$s)</string>
     <string name="label_balance_tasset">Активы баланса</string>
     <string name="label_balance_texpense">Расходы баланса</string>
     <string name="label_balance_tincome">Баланс доходов</string>

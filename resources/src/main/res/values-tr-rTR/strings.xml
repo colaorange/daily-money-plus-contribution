@@ -85,8 +85,8 @@
     <string name="label_asset">Varlýk</string>
     <string name="label_balance_mode_month">%1$s ayýnda (%2$s-%3$s)</string>
     <string name="label_balance_mode_month_total">Þu aya kadar %1$s (-%2$s)</string>
-    <string name="label_balance_mode_year">Yýllýk denge %1$s</string>
-    <string name="label_balance_mode_year_total">Þu yýla kadar denge %1$s</string>
+    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
+    <string name="label_balance_mode_year_total">Þu yýla kadar denge %1$s (%2$s)</string>
     <string name="label_balance_tasset">Varlýk dengesi</string>
     <string name="label_balance_texpense">Gider dengesi</string>
     <string name="label_balance_tincome">Gelir dengesi</string>

@@ -85,8 +85,8 @@
     <string name="label_balance">Bilanz</string>
     <string name="label_balance_mode_month">In %1$s (%2$s-%3$s)</string>
     <string name="label_balance_mode_month_total">bis %1$s (-%2$s)</string>
-    <string name="label_balance_mode_year">Bilanz des Jahres %1$s</string>
-    <string name="label_balance_mode_year_total">Bilanz bis ins Jahr %1$s</string>
+    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
+    <string name="label_balance_mode_year_total">Bilanz bis ins Jahr %1$s (%2$s)</string>
     <string name="label_balance_tasset">Vermögensbilanz</string>
     <string name="label_balance_texpense">Ausgabensbilanz</string>
     <string name="label_balance_tincome">Einkommensbilanz</string>

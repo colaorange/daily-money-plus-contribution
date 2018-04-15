@@ -81,8 +81,8 @@
     <string name="label_balance">Bilancio</string>
     <string name="label_balance_mode_month">%1$s (%2$s-%3$s)</string>
     <string name="label_balance_mode_month_total">fino al %1$s (%2$s)</string>
-    <string name="label_balance_mode_year">Bilancio anno %1$s</string>
-    <string name="label_balance_mode_year_total">Bilancio fino all’anno %1$s</string>
+    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
+    <string name="label_balance_mode_year_total">Bilancio fino all’anno %1$s (%2$s)</string>
     <string name="label_balance_tasset">Bilancio Conti</string>
     <string name="label_balance_texpense">Bilancio Spese</string>
     <string name="label_balance_tincome">Bilancio Entrate</string>

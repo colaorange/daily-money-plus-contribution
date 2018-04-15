@@ -86,8 +86,8 @@
     <string name="label_backup_data">Backup δεδομένων</string>
     <string name="label_balance_mode_month">%1$s (%2$s-%3$s)</string>
     <string name="label_balance_mode_month_total">Μέχρι %1$s (%2$s)</string>
-    <string name="label_balance_mode_year">Ισοζύγιο του έτους %1$s</string>
-    <string name="label_balance_mode_year_total">Ισοζύγιο μέχρι το έτος %1$s</string>
+    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
+    <string name="label_balance_mode_year_total">Ισοζύγιο μέχρι το έτος %1$s (%2$s)</string>
     <string name="label_balance_tasset">Περιουσία</string>
     <string name="label_balance_texpense">Δαπάνες</string>
     <string name="label_balance_tincome">Εισοδήματα</string>

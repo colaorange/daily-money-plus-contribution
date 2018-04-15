@@ -85,8 +85,8 @@
     <string name="label_asset">Activos</string>
     <string name="label_balance_mode_month">En %1$s (%2$s-%3$s)</string>
     <string name="label_balance_mode_month_total">Hasta %1$s (-%2$s)</string>
-    <string name="label_balance_mode_year">Balance del año %1$s</string>
-    <string name="label_balance_mode_year_total">Balance hasta el año %1$s</string>
+    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
+    <string name="label_balance_mode_year_total">Balance hasta el año %1$s (%2$s)</string>
     <string name="label_balance_tasset">Balance de activos</string>
     <string name="label_balance_texpense">Balance de gastos</string>
     <string name="label_balance_tincome">Balance de ingresos</string>

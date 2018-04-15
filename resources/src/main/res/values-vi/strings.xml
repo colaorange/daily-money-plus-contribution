@@ -84,8 +84,8 @@
     <string name="label_backup_data">Sao lưu dữ liệu</string>
     <string name="label_balance_mode_month">Trong %1$s (%2$s-%3$s)</string>
     <string name="label_balance_mode_month_total">Cho đến %1$s (-%2$s)</string>
-    <string name="label_balance_mode_year">Số dư trong năm %1$s</string>
-    <string name="label_balance_mode_year_total">Số dư cho đến năm %1$s</string>
+    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
+    <string name="label_balance_mode_year_total">Số dư cho đến năm %1$s (%2$s)</string>
     <string name="label_balance_tasset">Số dư Tài sản</string>
     <string name="label_balance_texpense">Số dư Chi tiêu</string>
     <string name="label_balance_tincome">Số dư Thu nhập</string>

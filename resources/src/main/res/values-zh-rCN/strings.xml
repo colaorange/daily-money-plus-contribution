@@ -79,8 +79,8 @@
     <string name="label_balance">结算</string>
     <string name="label_balance_mode_month">%1$s - (%2$s-%3$s)</string>
     <string name="label_balance_mode_month_total">到 %1$s(%2$s)</string>
-    <string name="label_balance_mode_year">%1$s - 年结算</string>
-    <string name="label_balance_mode_year_total">到 %1$s年底</string>
+    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
+    <string name="label_balance_mode_year_total">到 %1$s (%2$s)</string>
     <string name="label_balance_tasset">资产总计</string>
     <string name="label_balance_texpense">花费总计</string>
     <string name="label_balance_tincome">收入总计</string>

@@ -88,8 +88,8 @@
     <string name="label_balance">结算</string>
     <string name="label_balance_mode_month">%1$s - (%2$s-%3$s)</string>
     <string name="label_balance_mode_month_total">到 %1$s(%2$s)</string>
-    <string name="label_balance_mode_year">%1$s-單年結算</string>
-    <string name="label_balance_mode_year_total">到 %1$s年底</string>
+    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
+    <string name="label_balance_mode_year_total">到 %1$s (%2$s)</string>
     <string name="label_balance_tasset">資產總結算</string>
     <string name="label_balance_texpense">花費總結算</string>
     <string name="label_balance_tincome">收入總結算</string>
@@ -182,8 +182,8 @@
     <string name="label_prefs_passwordvd_sum">輸入相同的密碼來啟動密碼保護</string>
     <string name="label_prefs_startday_month">月的第一天</string>
     <string name="label_prefs_startday_month_sum">設定每個月的第一天(數值在1 - 28)中間</string>
-    <string name="label_prefs_startday_year">年度的第一天</string>
-    <string name="label_prefs_startday_year_sum">設定年度的第一天(MMDD 格式, 例如 0501)</string>
+    <string name="label_prefcat_startday_year">年度的第一天</string>
+    <string name="label_prefcat_startday_year_sum">設定年度的第一天(例如 7月1日)</string>
     <string name="label_prefs_testsdekstop">測試桌面</string>
     <string name="label_prefs_testsdekstop_sum">啟用測試桌面, 僅供開發者使用</string>
     <string name="label_prefs_workingfolder">工作目錄</string>
