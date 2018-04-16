@@ -50,9 +50,9 @@
     <string name="defacc_otherincome">Altre entrate</string>
     <string name="defacc_salary">Stipendio</string>
 
-    <string name="default_prefs_format_date">M/D/Y</string>
-    <string name="default_prefs_format_month">digital</string>
-    <string name="default_prefs_format_time">12</string>
+    <string name="default_pref_format_date">M/D/Y</string>
+    <string name="default_pref_format_month">digital</string>
+    <string name="default_pref_format_time">12</string>
 
     <string name="dt_main">Principale</string>
     <string name="dt_reports">Rapporti</string>

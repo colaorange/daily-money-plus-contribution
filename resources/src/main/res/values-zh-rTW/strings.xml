@@ -54,9 +54,9 @@
     <string name="defacc_otherincome">其他收入</string>
     <string name="defacc_salary">薪水</string>
 
-    <string name="default_prefs_format_date">Y/M/D</string>
-    <string name="default_prefs_format_month">digital</string>
-    <string name="default_prefs_format_time">24</string>
+    <string name="default_pref_format_date">Y/M/D</string>
+    <string name="default_pref_format_month">digital</string>
+    <string name="default_pref_format_time">24</string>
 
     <string name="dt_main">主要桌面</string>
     <string name="dt_reports">報表桌面</string>

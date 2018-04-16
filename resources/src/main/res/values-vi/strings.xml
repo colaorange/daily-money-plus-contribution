@@ -52,9 +52,9 @@
     <string name="defacc_otherincome">Thu nhập khác</string>
     <string name="defacc_salary">Lương</string>
 
-    <string name="default_prefs_format_date">M/D/Y</string>
-    <string name="default_prefs_format_month">digital</string>
-    <string name="default_prefs_format_time">12</string>
+    <string name="default_pref_format_date">M/D/Y</string>
+    <string name="default_pref_format_month">digital</string>
+    <string name="default_pref_format_time">12</string>
 
     <string name="dt_main">Chính</string>
     <string name="dt_reports">Các báo cáo</string>

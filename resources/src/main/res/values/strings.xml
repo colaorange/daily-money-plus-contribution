@@ -53,9 +53,9 @@
     <string name="defacc_otherincome">Other income</string>
     <string name="defacc_salary">Salary</string>
 
-    <string name="default_prefs_format_date">M/D/Y</string>
-    <string name="default_prefs_format_month">digital</string>
-    <string name="default_prefs_format_time">12</string>
+    <string name="default_pref_format_date">M/D/Y</string>
+    <string name="default_pref_format_month">digital</string>
+    <string name="default_pref_format_time">12</string>
 
     <string name="dt_main">Main</string>
     <string name="dt_reports">Reports</string>

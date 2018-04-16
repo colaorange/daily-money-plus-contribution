@@ -201,9 +201,9 @@
     <string name="title_pdprotection">密码保护</string>
     <string name="title_prefs">喜好设定</string>
 
-    <string name="default_prefs_format_date">Y/M/D</string>
-        <string name="default_prefs_format_time">24</string>
-        <string name="default_prefs_format_month">digital</string>
+    <string name="default_pref_format_date">Y/M/D</string>
+        <string name="default_pref_format_time">24</string>
+        <string name="default_pref_format_month">digital</string>
 
         <string name="label_prefcat_security">安全</string>
         <string name="label_prefcat_accounting">会计</string>
