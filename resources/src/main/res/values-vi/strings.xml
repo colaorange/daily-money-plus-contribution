@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="a1_lang_native_name" >Tiếng Việt</string>
-    <string name="a1_lang_english_name" >Vietnamese</string>
+    <string name="a1_lang_english_name">Vietnamese</string>
+    <string name="a1_lang_native_name">Tiếng Việt</string>
 
     <string name="act_balance_detlist">Danh sách chi tiết</string>
     <string name="act_balance_piechart">Biểu đồ tròn</string>
@@ -75,6 +75,7 @@
     <string name="dtitem_report_search">Tìm kiếm</string>
     <string name="dtitem_report_yearly_balance">Số dư năm</string>
 
+    <string name="label_about">Trong khoảng</string>
     <string name="label_accdetlist_dateinfo">%1$s đến %2$s</string>
     <string name="label_account">Tài khoản</string>
     <string name="label_account_only">Chỉ tài khoản </string>
@@ -123,6 +124,7 @@
     <string name="label_firstday_sun">Chủ Nhật</string>
     <string name="label_from_account">Từ</string>
     <string name="label_from_date">từ Ngày</string>
+    <string name="label_how2use">Cách sử dụng</string>
     <string name="label_import_csv">Nhập CSV</string>
     <string name="label_income">Thu nhập</string>
     <string name="label_initial_value">Ban đầu</string>
@@ -255,7 +257,4 @@
     <string name="title_detmgnt">Quản lý Chi tiết</string>
     <string name="title_pdprotection">Mật khẩu bảo vệ</string>
     <string name="title_prefs">Tùy chọn</string>
-
-    <string name="label_about">Trong khoảng</string>
-    <string name="label_how2use">Cách sử dụng</string>
 </resources>

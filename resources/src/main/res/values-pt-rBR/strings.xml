@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_native_name" >Português</string>
-    <string name="a1_lang_english_name" >Portuguese</string>
+    <string name="a1_lang_english_name">Portuguese</string>
+    <string name="a1_lang_native_name">Português</string>
 
     <string name="act_balance_detlist">Lista de Detalhes</string>
     <string name="act_balance_piechart">Gráfico Pizza</string>
@@ -9,8 +9,6 @@
     <string name="act_balance_yearly_runchart">Evolução Ativo-Empréstimo</string>
     <string name="act_balance_yearly_timechart">Gráfico anual</string>
     <string name="act_toggle_hierarchical_report">Alternar modo hierárquico</string>
-
-
 
     <string name="cact_cancel">Cancelar</string>
     <string name="cact_close">Fechar</string>

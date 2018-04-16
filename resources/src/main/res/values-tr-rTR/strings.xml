@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_native_name" >Türk</string>
-    <string name="a1_lang_english_name" >Turkish</string>
+    <string name="a1_lang_english_name">Turkish</string>
+    <string name="a1_lang_native_name">Türk</string>
 
     <string name="act_balance_detlist">Ayrýntý listesi</string>
     <string name="act_balance_piechart">Daire grafik</string>
@@ -9,8 +9,6 @@
     <string name="act_balance_yearly_runchart">Yýllýk varlýk-borç çalýþma grafiði</string>
     <string name="act_balance_yearly_timechart">Yýllýk grafik</string>
     <string name="act_toggle_hierarchical_report">Hiyerarþik Geçiþ</string>
-
-
 
     <string name="cact_cancel">Ýptal</string>
     <string name="cact_close">Kapat</string>

@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_native_name" >Pусский</string>
-    <string name="a1_lang_english_name" >Russian</string>
+    <string name="a1_lang_english_name">Russian</string>
+    <string name="a1_lang_native_name">Pусский</string>
 
     <string name="act_balance_detlist">Список описаний</string>
     <string name="act_balance_piechart">Круговая диаграмма</string>
     <string name="act_balance_yearly_cumulative_timechart">Годовая диаграмма(совокупно)</string>
     <string name="act_balance_yearly_runchart">Годовые Активы-Обязательство запустить диаграмму</string>
     <string name="act_balance_yearly_timechart">Годовая диаграмма</string>
-
-
 
     <string name="defacc_bank1">Банк.A</string>
     <string name="defacc_bank2">Банк.B</string>

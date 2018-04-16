@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_native_name">English</string>
     <string name="a1_lang_english_name">English</string>
-
+    <string name="a1_lang_native_name">English</string>
 
     <string name="act_balance_detlist">Detail list</string>
     <string name="act_balance_piechart">Pie chart</string>
@@ -148,10 +147,18 @@
     <string name="label_prefcat_display">Display</string>
     <string name="label_prefcat_others">Others</string>
     <string name="label_prefcat_security">Security</string>
+    <string name="label_prefcat_startday_year">Start day of a year</string>
+    <string name="label_prefcat_startday_year_sum">Set the start day of a year(month and month-day)</string>
     <string name="label_prefs_allow_analytics">Send google analytics</string>
     <string name="label_prefs_allow_analytics_sum">[Will not send any other data] Sending usage to help me improve application</string>
+    <string name="label_prefs_auto_backup">Auto backup</string>
+    <string name="label_prefs_auto_backup_at_hours">Auto backup at hours in a day</string>
+    <string name="label_prefs_auto_backup_at_hours_sum">Select hours that you want to run backup</string>
+    <string name="label_prefs_auto_backup_sum">Enables auto-backup at week days and hours</string>
+    <string name="label_prefs_auto_backup_weekdays">Auto backup on days in a week</string>
+    <string name="label_prefs_auto_backup_weekdays_sum">Select days that you want to run backup</string>
     <string name="label_prefs_backup_with_timestamp">Backup with timestamp</string>
-    <string name="label_prefs_backup_with_timestamp_sum">Copy and append timestamp to files (Recommended)</string>
+    <string name="label_prefs_backup_with_timestamp_sum">Also copy files to a timestamp folder (Recommended)</string>
     <string name="label_prefs_csv_encoding">CSV Encoding</string>
     <string name="label_prefs_csv_encoding_sum">Do not change this if you have no idea what this is</string>
     <string name="label_prefs_detlayout">Detail layout</string>
@@ -172,7 +179,11 @@
     <string name="label_prefs_format_time_sum">12 or 24</string>
     <string name="label_prefs_improvider">In-memory-provider</string>
     <string name="label_prefs_improvider_sum">For trying this application, data in this mode will not be persisted</string>
+    <string name="label_prefs_lang_contribution">Contribute language translation</string>
+    <string name="label_prefs_lang_contribution_sum">Mail me to contribute language translation</string>
     <string name="label_prefs_lastbackup">Last Data Backup Time</string>
+    <string name="label_prefs_like">Like DM+ </string>
+    <string name="label_prefs_like_sum">Like DM+ on Facebook page</string>
     <string name="label_prefs_maxrecords">Maximum records</string>
     <string name="label_prefs_maxrecords_sum">Set number of max records in detail list, -1 means no limit</string>
     <string name="label_prefs_password">Password protection-1</string>
@@ -181,10 +192,14 @@
     <string name="label_prefs_passwordvd_sum">Set same password again to enable protection</string>
     <string name="label_prefs_startday_month">Start day of a month</string>
     <string name="label_prefs_startday_month_sum">Set the start day of a month(between 1 - 28)</string>
-    <string name="label_prefcat_startday_year">Start day of a year</string>
-    <string name="label_prefcat_startday_year_sum">Set the start day of a year(month and month-day)</string>
+    <string name="label_prefs_startday_year_month">Start month of year</string>
+    <string name="label_prefs_startday_year_month_day">Start month-day of year</string>
+    <string name="label_prefs_startday_year_month_day_sum">Set the start month-day of the accounting year</string>
+    <string name="label_prefs_startday_year_month_sum">Set the start month of the accounting year</string>
     <string name="label_prefs_testsdekstop">Open tests desktop</string>
     <string name="label_prefs_testsdekstop_sum">open the tests desktop, for developer only</string>
+    <string name="label_prefs_vote">Vote me stars</string>
+    <string name="label_prefs_vote_sum">Vote stars (★★★★★) if you like DM+</string>
     <string name="label_prefs_workingfolder">Working folder</string>
     <string name="label_reports">Reports</string>
     <string name="label_request_storage_permission">Request storage permission</string>
@@ -262,19 +277,4 @@
     <string name="title_detmgnt">Detail Manager</string>
     <string name="title_pdprotection">Password protection</string>
     <string name="title_prefs">Preferences</string>
-
-    <!--new-->
-    <string name="label_prefs_lang_contribution">Contribute language translation</string>
-    <string name="label_prefs_lang_contribution_sum">Mail me to contribute language translation</string>
-    <string name="label_prefs_vote_sum">Vote stars (★★★★★) if you like DM+</string>
-    <string name="label_prefs_vote">Vote me stars</string>
-    <string name="label_prefs_like_sum">Like DM+ on Facebook page</string>
-    <string name="label_prefs_like">Like DM+ </string>
-    <string name="label_prefs_startday_year_month_sum">Set the start month of the accounting year</string>
-    <string name="label_prefs_startday_year_month">Start month of year</string>
-    <string name="label_prefs_startday_year_month_day_sum">Set the start month-day of the accounting year</string>
-    <string name="label_prefs_startday_year_month_day">Start month-day of year</string>
-
-
-
 </resources>

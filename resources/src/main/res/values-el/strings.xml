@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_native_name" >Ελληνικά</string>
-    <string name="a1_lang_english_name" >Greek</string>
+    <string name="a1_lang_english_name">Greek</string>
+    <string name="a1_lang_native_name">Ελληνικά</string>
 
     <string name="act_balance_detlist">Λίστα συναλλαγών</string>
     <string name="act_balance_piechart">Γράφημα πίτας</string>
     <string name="act_balance_yearly_cumulative_timechart">Ετήσιο διάγραμμα (σωρευτικό)</string>
     <string name="act_balance_yearly_runchart">Ετήσιο Asset-Liability run γράφημα</string>
     <string name="act_balance_yearly_timechart">Ετήσιο γράφημα</string>
-
-
 
     <string name="cact_cancel">Άκυρο</string>
     <string name="cact_close">Κλείσιμο</string>

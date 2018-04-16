@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_native_name" >Deutsch</string>
-    <string name="a1_lang_english_name" >German</string>
+    <string name="a1_lang_english_name">German</string>
+    <string name="a1_lang_native_name">Deutsch</string>
 
     <string name="act_balance_detlist">Eintragsliste</string>
     <string name="act_balance_piechart">Tortendiagramm</string>
     <string name="act_balance_yearly_cumulative_timechart">Jahresdiagramm(Kumulativ)</string>
     <string name="act_balance_yearly_runchart">Jährliche Vermögen-Schulden Diagramm</string>
     <string name="act_balance_yearly_timechart">Jahresdiagramm</string>
-
-
 
     <string name="cact_cancel">Abbrechen</string>
     <string name="cact_close">Schließen</string>

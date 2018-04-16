@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_native_name" >Español</string>
-    <string name="a1_lang_english_name" >Spanish</string>
+    <string name="a1_lang_english_name">Spanish</string>
+    <string name="a1_lang_native_name">Español</string>
 
     <string name="act_balance_detlist">Lista de movimientos</string>
     <string name="act_balance_piechart">Gráfico circular</string>
@@ -9,8 +9,6 @@
     <string name="act_balance_yearly_runchart">Gráfico de ejecución Deudas-Activos</string>
     <string name="act_balance_yearly_timechart">Gráfico anual</string>
     <string name="act_toggle_hierarchical_report">Mostrar jerarquía</string>
-
-
 
     <string name="cact_cancel">Cancelar</string>
     <string name="cact_close">Cerrar</string>

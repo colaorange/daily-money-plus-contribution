@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="a1_lang_native_name" >Italiano</string>
-    <string name="a1_lang_english_name" >Italian</string>
+    <string name="a1_lang_english_name">Italian</string>
+    <string name="a1_lang_native_name">Italiano</string>
 
     <string name="act_balance_detlist">Lista Dettagli</string>
     <string name="act_balance_piechart">Grafico a torta</string>
     <string name="act_balance_yearly_cumulative_timechart">Grafico annuale (cumulativo)</string>
     <string name="act_balance_yearly_runchart">Grafico Patrimonio annuale - Debiti</string>
     <string name="act_balance_yearly_timechart">Grafico annulae</string>
-
-
 
     <string name="cact_cancel">Annulla</string>
     <string name="cact_close">Chiudi</string>
@@ -195,7 +193,6 @@
     <string name="msg_share_csv_content">Daily Money CSV Files</string>
     <string name="msg_share_csv_title">Daily Money %1$s</string>
     <string name="msg_wrong_password">Password Errata!</string>
-
 
     <string name="qmsg_clear_folder">Vuoi pulire la cartella di lavoro %1$s?</string>
     <string name="qmsg_create_default">Vuoi creare i dati di default?</string>
