@@ -188,8 +188,8 @@
     <string name="label_prefs_like_sum">到每日記帳本+按讚, 簽到一下或提問</string>
     <string name="label_prefs_maxrecords">最大筆數</string>
     <string name="label_prefs_maxrecords_sum">設定明細列表的最大呈現筆數, -1 表示不限制</string>
-    <string name="label_prefs_password">密碼保護-1</string>
-    <string name="label_prefs_password_sum">設定進入應用程式的密碼, 空值表示不用密碼保謢</string>
+    <string name="label_prefs_password">密碼保護</string>
+    <string name="label_prefs_password_sum">設定進入應用程式的密碼</string>
     <string name="label_prefs_passwordvd">密碼保護-2</string>
     <string name="label_prefs_passwordvd_sum">輸入相同的密碼來啟動密碼保護</string>
     <string name="label_prefs_startday_month">月份的第一天</string>

@@ -168,8 +168,8 @@
     <string name="label_prefs_lastbackup">Χρόνος τελευταίου Backup</string>
     <string name="label_prefs_maxrecords">Maximum εγγραφές</string>
     <string name="label_prefs_maxrecords_sum">Ορίστε τον μέγιστο αριθμό εγγραφών στη λίστα συναλλαγών, -1 σημαίνει κανένα όριο</string>
-    <string name="label_prefs_password">Προστασία με κωδικό-1</string>
-    <string name="label_prefs_password_sum">Ορίστε τον κωδικό πρόσβασης της εφαρμογής, το κενό σημαίνει ότι δεν υπάρχει προστασία</string>
+    <string name="label_prefs_password">Προστασία με κωδικό</string>
+    <string name="label_prefs_password_sum">Ορίστε τον κωδικό πρόσβασης της εφαρμογής</string>
     <string name="label_prefs_passwordvd">Προστασία με κωδικό-2</string>
     <string name="label_prefs_passwordvd_sum">Ορίστε ξανά τον ίδιο κωδικό πρόσβασης για να ενεργοποιήσετε την προστασία</string>
     <string name="label_prefs_startday_month">Πρώτη μέρα του μήνα</string>

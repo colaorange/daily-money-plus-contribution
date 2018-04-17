@@ -165,8 +165,8 @@
     <string name="label_prefs_improvider_sum">Ambiente de teste, dados nesse modo não serão salvos</string>
     <string name="label_prefs_maxrecords">Número máximo de registros</string>
     <string name="label_prefs_maxrecords_sum">Escolha o número máximo de registro na lista de detalhes, -1 significa sem limite</string>
-    <string name="label_prefs_password">Proteção por senha-1</string>
-    <string name="label_prefs_password_sum">Escolha uma senha para a aplicação, vazio signifca sem proteção de senha</string>
+    <string name="label_prefs_password">Proteção por senha</string>
+    <string name="label_prefs_password_sum">Escolha uma senha para a aplicação</string>
     <string name="label_prefs_passwordvd">Proteção por senha-2</string>
     <string name="label_prefs_passwordvd_sum">Digite novamente a senha para ativar a proteção</string>
     <string name="label_prefs_startday_month">Inicie o dia do mês</string>

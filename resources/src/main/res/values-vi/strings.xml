@@ -170,8 +170,8 @@
     <string name="label_prefs_lastbackup">Thời gian sao lưu dữ liệu gần đây nhất</string>
     <string name="label_prefs_maxrecords">Các ghi chép tối đa</string>
     <string name="label_prefs_maxrecords_sum">Thiết lập số lượng ghi chép tối đa, -1 có nghĩa là không giới hạn</string>
-    <string name="label_prefs_password">Mật khẩu bảo vệ-1</string>
-    <string name="label_prefs_password_sum">Thiết lập mật khẩu cho ứng dụng, trống là không có sự bảo vệ </string>
+    <string name="label_prefs_password">Mật khẩu bảo vệ</string>
+    <string name="label_prefs_password_sum">Thiết lập mật khẩu cho ứng dụng</string>
     <string name="label_prefs_passwordvd">Mật khẩu bảo vệ-2</string>
     <string name="label_prefs_passwordvd_sum">Thiết lập lại cùng mật khẩu để kích hoạt sự bảo vệ</string>
     <string name="label_prefs_startday_month">Ngày đầu tiên của tháng</string>

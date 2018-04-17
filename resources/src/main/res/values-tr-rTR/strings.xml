@@ -165,8 +165,8 @@
     <string name="label_prefs_improvider_sum">Uygulama deneme amaçlý çalýstýrýldýðýndan veriler kalýcý olmayacak</string>
     <string name="label_prefs_maxrecords">Azami kayýtlar</string>
     <string name="label_prefs_maxrecords_sum">Ayrýntý listesindeki azami kayýt sayýsýný belirle, -1 limit yok demektir</string>
-    <string name="label_prefs_password">Þifre korumasý-1</string>
-    <string name="label_prefs_password_sum">Uygulama þifresini ayarla, þifre koymamak için boþ býrakýn</string>
+    <string name="label_prefs_password">Þifre korumasý</string>
+    <string name="label_prefs_password_sum">Uygulama þifresini ayarla</string>
     <string name="label_prefs_passwordvd">Þifre korumasý-2</string>
     <string name="label_prefs_passwordvd_sum">Koruma için ayný þifreyi tekrar girin</string>
     <string name="label_prefs_startday_month">Ayýn baþlangýç günü</string>

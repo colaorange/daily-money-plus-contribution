@@ -166,8 +166,8 @@
     <string name="label_prefs_like_sum">到每日记帐本+按赞, 签到一下或提问</string>
     <string name="label_prefs_maxrecords">最大笔數</string>
     <string name="label_prefs_maxrecords_sum">设定明细列表的最大呈现笔數, -1 表示不限制</string>
-    <string name="label_prefs_password">密码保护-1</string>
-    <string name="label_prefs_password_sum">设定进入软件的密码, 空值表示不用密码保护</string>
+    <string name="label_prefs_password">密码保护</string>
+    <string name="label_prefs_password_sum">设定进入软件的密码</string>
     <string name="label_prefs_passwordvd">密码保护-2</string>
     <string name="label_prefs_passwordvd_sum">输入相同的密码來启动密码保护</string>
     <string name="label_prefs_startday_year_month">年度的开始月份</string>

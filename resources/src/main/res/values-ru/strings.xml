@@ -128,8 +128,8 @@
     <string name="label_prefs_improvider_sum">Для выполнения этого приложения, данные в этом режиме не будет сохранены</string>
     <string name="label_prefs_maxrecords">Макс. записей</string>
     <string name="label_prefs_maxrecords_sum">Установить количество макс записи подробно список, -1 без ограничений</string>
-    <string name="label_prefs_password">Защита паролем-1</string>
-    <string name="label_prefs_password_sum">Установите пароль приложения, пусто - защита выключена</string>
+    <string name="label_prefs_password">Защита паролем</string>
+    <string name="label_prefs_password_sum">Установите пароль приложения</string>
     <string name="label_prefs_passwordvd">Защита паролем-2</string>
     <string name="label_prefs_passwordvd_sum">Установите тот же пароль еще раз, чтобы включить защиту</string>
     <string name="label_prefs_testsdekstop">Открыть экран тестирования</string>

@@ -165,8 +165,8 @@
     <string name="label_prefs_improvider_sum">Ebben a módban az adatok nem maradnak meg.</string>
     <string name="label_prefs_maxrecords">Maximum rekordszám</string>
     <string name="label_prefs_maxrecords_sum">Rekordok maximális száma. -1 esetén nincs limit</string>
-    <string name="label_prefs_password">Jelszó védelem-1</string>
-    <string name="label_prefs_password_sum">Program jelszó beállítása, üres: nincs jelszó</string>
+    <string name="label_prefs_password">Jelszó védelem</string>
+    <string name="label_prefs_password_sum">Program jelszó beállítása</string>
     <string name="label_prefs_passwordvd">Jelszó védelem-2</string>
     <string name="label_prefs_passwordvd_sum">Írd be újra a jelszót a védelem aktiválásához</string>
     <string name="label_prefs_startday_month">Hónap kezdőnapja</string>

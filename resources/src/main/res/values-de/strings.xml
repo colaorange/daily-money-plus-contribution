@@ -165,7 +165,7 @@
     <string name="label_prefs_maxrecords">Maximale Anzahl von Einträgen</string>
     <string name="label_prefs_maxrecords_sum">Wähle die maximale Anzahl von Eintrögen in der Detail-Liste. -1 bedeutet: Kein Limit</string>
     <string name="label_prefs_password">Passwort</string>
-    <string name="label_prefs_password_sum">Setze ein Passwort, Leer bedeutet: Kein Passwort</string>
+    <string name="label_prefs_password_sum">Setze dein Passwort</string>
     <string name="label_prefs_passwordvd">Passwort erneut eingeben</string>
     <string name="label_prefs_passwordvd_sum">Bitte das gleiche Passwort nocheinmal eingeben um den Passwortschutz zu aktivieren</string>
     <string name="label_prefs_startday_month">Erster Tag des Monats</string>

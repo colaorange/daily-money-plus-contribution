@@ -165,8 +165,8 @@
     <string name="label_prefs_improvider_sum">Para probar esta aplicación, los datos en este modo no se guardarán</string>
     <string name="label_prefs_maxrecords">Número máximo de registros</string>
     <string name="label_prefs_maxrecords_sum">Establece el número máximo de registros en la vista de movimientos, -1 significa sin límite</string>
-    <string name="label_prefs_password">Protección por contraseña-1</string>
-    <string name="label_prefs_password_sum">Establece la contraseña de la aplicación, vacio significa sin protección</string>
+    <string name="label_prefs_password">Protección por contraseña</string>
+    <string name="label_prefs_password_sum">Establece la contraseña de la aplicación</string>
     <string name="label_prefs_passwordvd">Protección por contraseña-2</string>
     <string name="label_prefs_passwordvd_sum">Establece de nuevo la misma contraseña para activar la protección</string>
     <string name="label_prefs_startday_month">Primer día del mes</string>

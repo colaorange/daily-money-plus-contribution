@@ -186,8 +186,8 @@
     <string name="label_prefs_like_sum">Like DM+ on Facebook page</string>
     <string name="label_prefs_maxrecords">Maximum records</string>
     <string name="label_prefs_maxrecords_sum">Set number of max records in detail list, -1 means no limit</string>
-    <string name="label_prefs_password">Password protection-1</string>
-    <string name="label_prefs_password_sum">Set application password, empty means no protection</string>
+    <string name="label_prefs_password">Password protection</string>
+    <string name="label_prefs_password_sum">Set application password</string>
     <string name="label_prefs_passwordvd">Password protection-2</string>
     <string name="label_prefs_passwordvd_sum">Set same password again to enable protection</string>
     <string name="label_prefs_startday_month">Start day of a month</string>
@@ -277,4 +277,7 @@
     <string name="title_detmgnt">Detail Manager</string>
     <string name="title_pdprotection">Password protection</string>
     <string name="title_prefs">Preferences</string>
+
+    <!--new-->
+    <string name="msg_wrong_password_validation">Invalid, the password has to be the same</string>
 </resources>

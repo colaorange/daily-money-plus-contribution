@@ -155,8 +155,8 @@
     <string name="label_prefs_improvider_sum">Modalità di prova; i dati inseriti non saranno persistenti</string>
     <string name="label_prefs_maxrecords">Numero massimo di record</string>
     <string name="label_prefs_maxrecords_sum">Scegli il numero massimo di record nella lista dei dettagli, -1 per non avere un limite</string>
-    <string name="label_prefs_password">Password di protezione-1</string>
-    <string name="label_prefs_password_sum">Imposta una password di protezione per l’applicazione, lasciare vuota per non avere protezione</string>
+    <string name="label_prefs_password">Password di protezione</string>
+    <string name="label_prefs_password_sum">Imposta una password di protezione per l’applicazione</string>
     <string name="label_prefs_passwordvd">Password di protezione-2</string>
     <string name="label_prefs_passwordvd_sum">Reinserisci la stessa password per attivare la protezione</string>
     <string name="label_prefs_testsdekstop">Apri scrivania prove</string>
