@@ -158,7 +158,7 @@
     <string name="label_prefs_auto_backup_weekdays">Auto backup on days in a week</string>
     <string name="label_prefs_auto_backup_weekdays_sum">Select days that you want to run backup</string>
     <string name="label_prefs_backup_with_timestamp">Backup with timestamp</string>
-    <string name="label_prefs_backup_with_timestamp_sum">Also copy files to a timestamp folder (Recommended)</string>
+    <string name="label_prefs_backup_with_timestamp_sum">Also copy files to a timestamp folder, it cost extra storage size</string>
     <string name="label_prefs_csv_encoding">CSV Encoding</string>
     <string name="label_prefs_csv_encoding_sum">Do not change this if you have no idea what this is</string>
     <string name="label_prefs_detlayout">Detail layout</string>

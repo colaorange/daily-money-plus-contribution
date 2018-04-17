@@ -139,7 +139,7 @@
     <string name="label_prefs_auto_backup_weekdays">自动备份的日期</string>
     <string name="label_prefs_auto_backup_weekdays_sum">指定自动备份的日期</string>
     <string name="label_prefs_backup_with_timestamp">时戳备份</string>
-    <string name="label_prefs_backup_with_timestamp_sum">当备份时,同时复制档案到含时戳的目录(推荐开启)</string>
+    <string name="label_prefs_backup_with_timestamp_sum">当备份时，同时复制档案到含时戳的目录，会占用额外的空间</string>
     <string name="label_prefs_csv_encoding">CSV 编码</string>
     <string name="label_prefs_csv_encoding_sum">勿任意更改,将影响导入导出CSV</string>
     <string name="label_prefs_detlayout">明细排版</string>

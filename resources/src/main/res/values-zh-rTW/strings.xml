@@ -155,12 +155,12 @@
     <string name="label_prefs_allow_analytics_sum">[不會傳送任何其他資料] 傳送使用狀況將協助改善這個軟體</string>
     <string name="label_prefs_auto_backup">自動備份</string>
     <string name="label_prefs_auto_backup_at_hours">自動備份的時間</string>
-    <string name="label_prefs_auto_backup_at_hours_sum">指定自動備份的時間</string>
-    <string name="label_prefs_auto_backup_sum">啟用自動備份, 在指定的日期及時間, 執行備份</string>
-    <string name="label_prefs_auto_backup_weekdays">自動備份的日期</string>
-    <string name="label_prefs_auto_backup_weekdays_sum">指定自動備份的日期</string>
+    <string name="label_prefs_auto_backup_at_hours_sum">指定自動備份的時間(0-23)</string>
+    <string name="label_prefs_auto_backup_sum">啟用自動備份, 在指定的星期日期及時間, 執行備份</string>
+    <string name="label_prefs_auto_backup_weekdays">自動備份的星期日期</string>
+    <string name="label_prefs_auto_backup_weekdays_sum">指定自動備份的星期日期(周一到周日)</string>
     <string name="label_prefs_backup_with_timestamp">時戳備份</string>
-    <string name="label_prefs_backup_with_timestamp_sum">當備份時,同時複製檔案到含時戳的目錄(推薦開啟)</string>
+    <string name="label_prefs_backup_with_timestamp_sum">當備份時,同時複製檔案到含時戳的目錄, 會佔用額外的空間</string>
     <string name="label_prefs_csv_encoding">CSV 編碼</string>
     <string name="label_prefs_csv_encoding_sum">勿任意更改,將影響匯入匯出CSV</string>
     <string name="label_prefs_detlayout">明細排版</string>
