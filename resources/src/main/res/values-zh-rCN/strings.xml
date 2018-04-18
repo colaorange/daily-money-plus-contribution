@@ -237,4 +237,6 @@
     <string name="title_detmgnt">明细管理器</string>
     <string name="title_pdprotection">密码保护</string>
     <string name="title_prefs">喜好设定</string>
+
+    <string name="msg_wrong_password_validation">验证的密码必需一致</string>
 </resources>

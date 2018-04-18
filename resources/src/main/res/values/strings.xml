@@ -279,5 +279,5 @@
     <string name="title_prefs">Preferences</string>
 
     <!--new-->
-    <string name="msg_wrong_password_validation">Invalid, the password has to be the same</string>
+    <string name="msg_wrong_password_validation">The 2nd password has to be the same as the first</string>
 </resources>
