@@ -1,18 +1,8 @@
-# ABOUT
+# SPONSOR BADGE
 Updated 20180419
 
 ---
-Daily Money is a simple & easy , free & no ad financial application.
-
-### Features
- * Record your daily expense, income, asset and liability.
- * Count balance of money.
- * Export/Import to CSV.
- * Export Database to SD and restore when new installation.
- * Balance pie chart & time chart.
- * Password protection.
-
-
+TODO
 
 
 ---
