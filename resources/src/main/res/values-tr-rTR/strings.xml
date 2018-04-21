@@ -21,7 +21,7 @@
     <string name="cact_stop">Dur</string>
     <string name="cact_update">Güncelle</string>
 
-    <string name="cat_set_working_book">Kullanýlan defteri belirle</string>
+    <string name="act_set_working_book">Kullanýlan defteri belirle</string>
 
     <string name="clabel_alert">Uyarý</string>
     <string name="clabel_all">Tümü</string>
@@ -240,4 +240,41 @@
     <string name="title_detmgnt">Ayrýntý Düzenleyicisi</string>
     <string name="title_pdprotection">Þifre korumasý</string>
     <string name="title_prefs">Tercihler</string>
+    <string name="dtitem_report_search">Search</string>
+    <string name="label_backup_data">備份資料</string>
+    <string name="label_contributor">Contributor</string>
+    <string name="label_balance">Balance</string>
+    <string name="label_from_date">from Date</string>
+    <string name="label_history">History</string>
+    <string name="label_prefcat_startday_year">Start day of a year</string>
+    <string name="label_prefcat_startday_year_sum">Set the start day of a year(month and month-day)</string>
+    <string name="label_prefs_auto_backup">Auto backup</string>
+    <string name="label_prefs_auto_backup_at_hours">Auto backup at hours in a day</string>
+    <string name="label_prefs_auto_backup_at_hours_sum">Select hours that you want to run backup</string>
+    <string name="label_prefs_auto_backup_sum">Enables auto-backup at week days and hours</string>
+    <string name="label_prefs_auto_backup_weekdays">Auto backup on days in a week</string>
+    <string name="label_prefs_auto_backup_weekdays_sum">Select days that you want to run backup</string>
+    <string name="label_prefs_backup_with_timestamp">Backup with timestamp</string>
+    <string name="label_prefs_backup_with_timestamp_sum">Also copy files to a timestamp folder, it cost extra storage size</string>
+    <string name="label_prefs_lang_contribution">Contribute language translation</string>
+    <string name="label_prefs_lang_contribution_sum">Mail me to contribute language translation</string>
+    <string name="label_prefs_lastbackup">Last Data Backup Time</string>
+    <string name="label_prefs_like">Like DM+</string>
+    <string name="label_prefs_like_sum">Like DM+ on Facebook page</string>
+    <string name="label_prefs_startday_year_month">Start month of year</string>
+    <string name="label_prefs_startday_year_month_day">Start month-day of year</string>
+    <string name="label_prefs_startday_year_month_day_sum">Set the start month-day of the accounting year</string>
+    <string name="label_prefs_startday_year_month_sum">Set the start month of the accounting year</string>
+    <string name="label_prefs_vote">Vote me stars</string>
+    <string name="label_prefs_vote_sum">Vote stars (★★★★★) if you like DM+</string>
+    <string name="label_request_storage_permission">Request storage permission</string>
+    <string name="label_restore_data">Restore Data</string>
+    <string name="label_to_date">to Date</string>
+    <string name="msg_db_backuped">%1$s files backup to %2$s</string>
+    <string name="msg_db_restored">%1$s files restored from %2$s</string>
+    <string name="msg_no_data">There is no data to backup/export</string>
+    <string name="msg_working_folder_no_access">Working folder %1$s is not accessable, please allow the access right in system setting</string>
+    <string name="msg_wrong_password_validation">The 2nd password has to be the same as the first</string>
+    <string name="qmsg_restore_data">WARN: Current data will be replaced, do you still want to restore?</string>
+    <string name="search_reset">Reset</string>
 </resources>

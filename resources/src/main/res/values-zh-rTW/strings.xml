@@ -23,7 +23,7 @@
     <string name="cact_stop">停止</string>
     <string name="cact_update">更新</string>
 
-    <string name="cat_set_working_book">設定為使用中的帳本</string>
+    <string name="act_set_working_book">設定為使用中的帳本</string>
 
     <string name="clabel_alert">警告</string>
     <string name="clabel_all">全部</string>

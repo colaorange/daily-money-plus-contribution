@@ -8,6 +8,7 @@
     <string name="act_balance_yearly_cumulative_timechart">Yearly chart(cumulative)</string>
     <string name="act_balance_yearly_runchart">Yearly Asset-Liability run chart</string>
     <string name="act_balance_yearly_timechart">Yearly chart</string>
+    <string name="act_set_working_book">Set working book</string>
     <string name="act_toggle_hierarchical_report">Toggle Hierarchical</string>
 
     <string name="cact_cancel">Cancel</string>
@@ -20,8 +21,6 @@
     <string name="cact_ok">OK</string>
     <string name="cact_stop">Stop</string>
     <string name="cact_update">Update</string>
-
-    <string name="cat_set_working_book">Set working book</string>
 
     <string name="clabel_alert">Alert</string>
     <string name="clabel_all">All</string>
@@ -138,7 +137,7 @@
     <string name="label_other">Other</string>
     <string name="label_position_after">After</string>
     <string name="label_position_front">Front</string>
-    <string name="label_position_none">No Display</string>
+    <string name="label_position_none">Not Display</string>
     <string name="label_prefcat_accounting">Accounting</string>
     <string name="label_prefcat_contribution">Contribution</string>
     <string name="label_prefcat_csv">CSV</string>
@@ -247,6 +246,7 @@
     <string name="msg_share_csv_title">Daily Money %1$s</string>
     <string name="msg_working_folder_no_access">Working folder %1$s is not accessable, please allow the access right in system setting</string>
     <string name="msg_wrong_password">Wrong password!</string>
+    <string name="msg_wrong_password_validation">The 2nd password has to be the same as the first</string>
 
     <string name="qmsg_clear_folder">Do you want to clear working folder %1$s? all files in the folder will be removed.</string>
     <string name="qmsg_create_default">Do you want to create default data?</string>
@@ -277,7 +277,4 @@
     <string name="title_detmgnt">Detail Manager</string>
     <string name="title_pdprotection">Password protection</string>
     <string name="title_prefs">Preferences</string>
-
-    <!--new-->
-    <string name="msg_wrong_password_validation">The 2nd password has to be the same as the first</string>
 </resources>
