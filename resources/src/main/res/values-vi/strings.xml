@@ -255,7 +255,7 @@
     <string name="title_deteditor_update">Cập nhật Chi Tiết</string>
     <string name="title_detlist">Danh sách Chi Tiết</string>
     <string name="title_detmgnt">Quản lý Chi tiết</string>
-    <string name="title_pdprotection">Mật khẩu bảo vệ</string>
+    <string name="label_pwd_protection">Mật khẩu bảo vệ</string>
     <string name="title_prefs">Tùy chọn</string>
     <string name="label_balance">Balance</string>
     <string name="label_history">History</string>

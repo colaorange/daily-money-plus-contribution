@@ -237,7 +237,7 @@
     <string name="title_deteditor_update">Eintrag bearbeiten</string>
     <string name="title_detlist">Eintragsliste</string>
     <string name="title_detmgnt">Einträge verwalten</string>
-    <string name="title_pdprotection">Passwortschutz</string>
+    <string name="label_pwd_protection">Passwortschutz</string>
     <string name="title_prefs">Einstellungen</string>
     <string name="act_toggle_hierarchical_report">Toggle Hierarchical</string>
     <string name="dtitem_report_search">Search</string>

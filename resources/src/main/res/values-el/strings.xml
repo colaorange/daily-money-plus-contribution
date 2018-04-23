@@ -248,7 +248,7 @@
     <string name="title_deteditor_update">Τροποποίηση συναλλαγής</string>
     <string name="title_detlist">Λίστα συναλλαγών</string>
     <string name="title_detmgnt">Διαχείριση συναλλαγών</string>
-    <string name="title_pdprotection">Προστασία με κωδικό</string>
+    <string name="label_pwd_protection">Προστασία με κωδικό</string>
     <string name="title_prefs">Επιλογές</string>
     <string name="act_toggle_hierarchical_report">Toggle Hierarchical</string>
     <string name="label_contributor">Contributor</string>

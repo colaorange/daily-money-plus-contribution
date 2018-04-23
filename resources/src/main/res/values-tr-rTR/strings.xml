@@ -238,7 +238,7 @@
     <string name="title_deteditor_update">Ayrýntý Güncelle</string>
     <string name="title_detlist">Ayrýntý Listesi</string>
     <string name="title_detmgnt">Ayrýntý Düzenleyicisi</string>
-    <string name="title_pdprotection">Þifre korumasý</string>
+    <string name="label_pwd_protection">Þifre korumasý</string>
     <string name="title_prefs">Tercihler</string>
     <string name="dtitem_report_search">Search</string>
     <string name="label_backup_data">備份資料</string>

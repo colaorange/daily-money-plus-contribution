@@ -235,7 +235,7 @@
     <string name="title_deteditor_update">更新明细</string>
     <string name="title_detlist">明细列表</string>
     <string name="title_detmgnt">明细管理器</string>
-    <string name="title_pdprotection">密码保护</string>
+    <string name="label_pwd_protection">密码保护</string>
     <string name="title_prefs">喜好设定</string>
 
     <string name="msg_wrong_password_validation">驗証的密碼必需一致</string>

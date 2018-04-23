@@ -238,7 +238,7 @@
     <string name="title_deteditor_update">Actualizar Movimiento</string>
     <string name="title_detlist">Lista de Movimientos</string>
     <string name="title_detmgnt">Administrador de Movimientos</string>
-    <string name="title_pdprotection">Protección por contraseña</string>
+    <string name="label_pwd_protection">Protección por contraseña</string>
     <string name="title_prefs">Ajustes</string>
     <string name="dtitem_report_search">Search</string>
     <string name="label_backup_data">備份資料</string>

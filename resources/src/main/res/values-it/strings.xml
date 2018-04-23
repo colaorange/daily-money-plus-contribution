@@ -213,7 +213,7 @@
     <string name="title_deteditor_update">Aggiorna Dettagli</string>
     <string name="title_detlist">Lista Dettagli</string>
     <string name="title_detmgnt">Gestione Dettagli</string>
-    <string name="title_pdprotection">Inserire Password</string>
+    <string name="label_pwd_protection">Inserire Password</string>
     <string name="title_prefs">Preferenze</string>
     <string name="act_toggle_hierarchical_report">Toggle Hierarchical</string>
     <string name="act_set_working_book">Set working book</string>

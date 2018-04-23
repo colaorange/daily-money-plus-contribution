@@ -238,7 +238,7 @@
     <string name="title_deteditor_update">Tétel módosítása</string>
     <string name="title_detlist">Tétel lista</string>
     <string name="title_detmgnt">Tétel kezelő</string>
-    <string name="title_pdprotection">Jelszó védelem</string>
+    <string name="label_pwd_protection">Jelszó védelem</string>
     <string name="title_prefs">Beállítások</string>
     <string name="dtitem_report_search">Search</string>
     <string name="label_backup_data">備份資料</string>
