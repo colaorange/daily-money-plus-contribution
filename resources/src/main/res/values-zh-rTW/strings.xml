@@ -23,8 +23,8 @@
 
     <string name="app_name" tools:ignore="ExtraTranslation">每日記帳本+</string>
 
-    <string name="defacc_bank1">銀行.台灣</string>
-    <string name="defacc_bank2">銀行.HSBC</string>
+    <string name="defacc_bank1">銀行.台灣銀行</string>
+    <string name="defacc_bank2">銀行.兆豐銀行</string>
     <string name="defacc_cash">現金</string>
     <string name="defacc_creditcard">信用卡</string>
     <string name="defacc_entertainment">娛樂</string>
@@ -268,7 +268,7 @@
     <string name="title_acceditor">帳戶編輯器</string>
     <string name="title_acceditor_create">建立帳戶</string>
     <string name="title_acceditor_update">更新帳戶</string>
-    <string name="title_accmgnt">帳戶管理器</string>
+    <string name="title_accmgnt">帳戶管理</string>
     <string name="title_book">帳本</string>
     <string name="title_bookeditor_create">建立帳本</string>
     <string name="title_bookeditor_update">更新帳本</string>

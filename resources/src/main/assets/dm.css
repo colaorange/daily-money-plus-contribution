@@ -4,10 +4,10 @@
 * {
 }
 html, body{
-    background-color: black;
-    color: white;
     margin: 0px;
     padding: 5px;
+    color:#333333;
+    background:#ffffff;
 }
 
 .vote{
@@ -16,7 +16,7 @@ html, body{
 }
 
 a:visited,a:hover,a:link {
-    color: yellow;
+    color: #4885ed;
 }
 
 body.doc h2{
@@ -26,10 +26,10 @@ body.doc h3{
 	font-size: 14px;
 }
 body.doc blockquote {
-    border-left: 5px solid #DDDDDD;
+    border-left: 5px solid #333333;
     margin: 0;
     padding: 0 5px;	
-    color:#DDDDDD;
+    color:#333333;
 }
 
 body.doc blockquote h3 {
@@ -37,10 +37,10 @@ body.doc blockquote h3 {
     font-size: 14px;
 }
 body.doc blockquote blockquote{
-    border-left: 2px solid #DDDDDD;
+    border-left: 2px solid #777777;
     margin: 0;
-    padding: 0 2px;    
-    color:#DDDDDD;
+    padding: 0 8px;
+    color:#555555;
 }
 
 .subject, .howto{
@@ -49,7 +49,7 @@ body.doc blockquote blockquote{
 }
 
 .income{
-	color: #7AFFA2;
+	color: #5ADF82;
 }
 .expense{
 	color: #FF9AB5;
@@ -61,5 +61,5 @@ body.doc blockquote blockquote{
 	color: #7A95FF;
 }
 .other{
-	color: #61D0FF;
+	color: #51C0EF;
 }
