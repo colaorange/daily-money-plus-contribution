@@ -181,7 +181,7 @@
     <string name="label_rec_layout2">Примечание - Деньги</string>
     <string name="label_rec_layout3">Деньги - К</string>
     <string name="label_rec_layout4">Деньги - Примечание</string>
-    <string name="label_reclist_from">&lt; %1$s</string>
+    <string name="label_reclist_from">%1$s</string>
     <string name="label_reclist_sum_asset">Активы %1$s </string>
     <string name="label_reclist_sum_expense">Счет %1$s</string>
     <string name="label_reclist_sum_income">Доход %1$s</string>

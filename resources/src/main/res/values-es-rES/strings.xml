@@ -181,7 +181,7 @@
     <string name="label_rec_layout2">Nota - Cantidad</string>
     <string name="label_rec_layout3">Cantidad - A</string>
     <string name="label_rec_layout4">Cantidad - Nota</string>
-    <string name="label_reclist_from">&lt; %1$s</string>
+    <string name="label_reclist_from">%1$s</string>
     <string name="label_reclist_sum_asset">Activos %1$s </string>
     <string name="label_reclist_sum_expense">Gastos %1$s</string>
     <string name="label_reclist_sum_income">Ingresos %1$s</string>

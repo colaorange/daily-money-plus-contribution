@@ -183,7 +183,7 @@
     <string name="label_rec_layout2">備註-金錢</string>
     <string name="label_rec_layout3">金錢-帳戶</string>
     <string name="label_rec_layout4">金錢-備註</string>
-    <string name="label_reclist_from">&lt; %1$s</string>
+    <string name="label_reclist_from">%1$s</string>
     <string name="label_reclist_sum_asset">資產%1$s</string>
     <string name="label_reclist_sum_expense">支出%1$s</string>
     <string name="label_reclist_sum_income">收入%1$s</string>

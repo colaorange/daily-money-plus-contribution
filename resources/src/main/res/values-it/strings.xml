@@ -181,7 +181,7 @@
     <string name="label_rec_layout2">Note - Soldi</string>
     <string name="label_rec_layout3">Soldi - A</string>
     <string name="label_rec_layout4">Soldi - Note</string>
-    <string name="label_reclist_from">&lt; %1$s</string>
+    <string name="label_reclist_from">%1$s</string>
     <string name="label_reclist_sum_asset">Conto %1$s </string>
     <string name="label_reclist_sum_expense">Spesa %1$s</string>
     <string name="label_reclist_sum_income">Entrata %1$s</string>

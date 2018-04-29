@@ -183,7 +183,6 @@
     <string name="label_rec_layout2">备注-金钱</string>
     <string name="label_rec_layout3">金钱-账户</string>
     <string name="label_rec_layout4">金钱-备注</string>
-    <string name="label_reclist_from">&lt; %1$s</string>
     <string name="label_reclist_sum_asset">资产%1$s</string>
     <string name="label_reclist_sum_expense">支出%1$s</string>
     <string name="label_reclist_sum_income">收入%1$s</string>
@@ -281,4 +280,5 @@
     <string name="title_receditor_update">更新明细</string>
     <string name="title_reclist">明细列表</string>
     <string name="title_recmgnt">明细管理器</string>
+    <string name="label_reclist_from">%1$s</string>
 </resources>

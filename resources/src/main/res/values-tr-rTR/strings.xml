@@ -181,7 +181,7 @@
     <string name="label_rec_layout2">Not - Money</string>
     <string name="label_rec_layout3">Para - Nereye</string>
     <string name="label_rec_layout4">Para - Not</string>
-    <string name="label_reclist_from">&lt; %1$s</string>
+    <string name="label_reclist_from">%1$s</string>
     <string name="label_reclist_sum_asset">Varlýk %1$s </string>
     <string name="label_reclist_sum_expense">Gider %1$s</string>
     <string name="label_reclist_sum_income">Gelir %1$s</string>

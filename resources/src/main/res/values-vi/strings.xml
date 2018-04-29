@@ -181,7 +181,7 @@
     <string name="label_rec_layout2">Ghi chú - Tiền</string>
     <string name="label_rec_layout3">Tiền - Đến</string>
     <string name="label_rec_layout4">Tiền - Ghi chú</string>
-    <string name="label_reclist_from">&lt; %1$s</string>
+    <string name="label_reclist_from">%1$s</string>
     <string name="label_reclist_sum_asset">Tài sản %1$s </string>
     <string name="label_reclist_sum_expense">Chi tiêu %1$s</string>
     <string name="label_reclist_sum_income">Thu nhập %1$s</string>

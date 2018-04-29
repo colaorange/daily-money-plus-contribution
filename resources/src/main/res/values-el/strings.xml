@@ -181,7 +181,7 @@
     <string name="label_rec_layout2">Σημείωση - Ποσό</string>
     <string name="label_rec_layout3">Ποσό - Σε</string>
     <string name="label_rec_layout4">Ποσό - Σημείωση</string>
-    <string name="label_reclist_from">&lt; %1$s</string>
+    <string name="label_reclist_from">%1$s</string>
     <string name="label_reclist_sum_asset">Υπολ %1$s</string>
     <string name="label_reclist_sum_expense">Έξοδα %1$s</string>
     <string name="label_reclist_sum_income">Έσοδα %1$s</string>

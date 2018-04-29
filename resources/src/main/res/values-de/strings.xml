@@ -181,7 +181,7 @@
     <string name="label_rec_layout2">Bemerkung - Betrag</string>
     <string name="label_rec_layout3">Betrag - Empfänger</string>
     <string name="label_rec_layout4">Betrag - Notiz</string>
-    <string name="label_reclist_from">&lt; %1$s</string>
+    <string name="label_reclist_from">%1$s</string>
     <string name="label_reclist_sum_asset">Vermögen %1$s </string>
     <string name="label_reclist_sum_expense">Ausgaben %1$s</string>
     <string name="label_reclist_sum_income">Einnahmen %1$s</string>

@@ -181,7 +181,7 @@
     <string name="label_rec_layout2">Megj. - Pénz</string>
     <string name="label_rec_layout3">Pénz - Cél</string>
     <string name="label_rec_layout4">Pénz - Megj.</string>
-    <string name="label_reclist_from">&lt; %1$s</string>
+    <string name="label_reclist_from">%1$s</string>
     <string name="label_reclist_sum_asset">Vagyon %1$s </string>
     <string name="label_reclist_sum_expense">Kiadás %1$s</string>
     <string name="label_reclist_sum_income">Bevétel %1$s</string>
