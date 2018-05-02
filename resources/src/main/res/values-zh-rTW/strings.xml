@@ -281,4 +281,19 @@
     <string name="title_receditor_update">更新明細</string>
     <string name="title_reclist">明細列表</string>
     <string name="title_recmgnt">明細管理器</string>
+
+
+    <!-- new 20180428-->
+    <string name="label_theme_cola">可樂</string>
+    <string name="label_theme_orange">橘子</string>
+    <string name="label_theme_lemon">檸檬</string>
+    <string name="label_theme_sakura">櫻花</string>
+    <string name="label_prefs_theme_sum">選擇佈景主題</string>
+    <string name="label_prefs_theme">佈景主題</string>
+
+    <string name="label_text_size_normal">一般</string>
+    <string name="label_text_size_medium">中型</string>
+    <string name="label_text_size_large">大型</string>
+    <string name="label_prefs_text_size_sum">選擇字型大小</string>
+    <string name="label_prefs_text_size">字型大小</string>
 </resources>

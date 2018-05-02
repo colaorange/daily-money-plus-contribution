@@ -281,4 +281,19 @@
     <string name="title_reclist">明细列表</string>
     <string name="title_recmgnt">明细管理器</string>
     <string name="label_reclist_from">%1$s</string>
+
+
+    <!-- new 20180428-->
+    <string name="label_theme_cola">可乐</string>
+    <string name="label_theme_orange">橘子</string>
+    <string name="label_theme_lemon">柠檬</string>
+    <string name="label_theme_sakura">樱花</string>
+    <string name="label_prefs_theme_sum">选择布景主题</string>
+    <string name="label_prefs_theme">布景主题</string>
+
+    <string name="label_text_size_normal">一般</string>
+    <string name="label_text_size_medium">中型</string>
+    <string name="label_text_size_large">大型</string>
+    <string name="label_prefs_text_size_sum">选择字型大小</string>
+    <string name="label_prefs_text_size">字型大小</string>
 </resources>

@@ -277,4 +277,19 @@
     <string name="title_receditor_update">Cập nhật Chi Tiết</string>
     <string name="title_reclist">Danh sách Chi Tiết</string>
     <string name="title_recmgnt">Quản lý Chi tiết</string>
+
+
+    <!-- new 20180428-->
+    <string name="label_theme_cola">Cola</string>
+    <string name="label_theme_orange">Orange</string>
+    <string name="label_theme_lemon">Lemon</string>
+    <string name="label_theme_sakura">Sakura</string>
+    <string name="label_prefs_theme_sum">Choose the theme</string>
+    <string name="label_prefs_theme">Theme</string>
+
+    <string name="label_text_size_normal">Normal</string>
+    <string name="label_text_size_medium">Medium</string>
+    <string name="label_text_size_large">Large</string>
+    <string name="label_prefs_text_size_sum">Choose the text size</string>
+    <string name="label_prefs_text_size">Text size</string>
 </resources>

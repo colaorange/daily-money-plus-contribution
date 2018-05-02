@@ -274,4 +274,19 @@
     <string name="title_receditor_update">Eintrag bearbeiten</string>
     <string name="title_reclist">Eintragsliste</string>
     <string name="title_recmgnt">Einträge verwalten</string>
+
+
+    <!-- new 20180428-->
+    <string name="label_theme_cola">Cola</string>
+    <string name="label_theme_orange">Orange</string>
+    <string name="label_theme_lemon">Lemon</string>
+    <string name="label_theme_sakura">Sakura</string>
+    <string name="label_prefs_theme_sum">Choose the theme</string>
+    <string name="label_prefs_theme">Theme</string>
+
+    <string name="label_text_size_normal">Normal</string>
+    <string name="label_text_size_medium">Medium</string>
+    <string name="label_text_size_large">Large</string>
+    <string name="label_prefs_text_size_sum">Choose the text size</string>
+    <string name="label_prefs_text_size">Text size</string>
 </resources>
