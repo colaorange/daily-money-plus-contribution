@@ -296,4 +296,8 @@
     <string name="label_text_size_large">大型</string>
     <string name="label_prefs_text_size_sum">選擇字型大小</string>
     <string name="label_prefs_text_size">字型大小</string>
+
+    <!-- 20180503 -->
+    <string name="qmsg_delete_account">你想要刪除帳戶 %1$s?</string>
+    <string name="qmsg_delete_record">你想要刪除明細 %1$s?</string>
 </resources>

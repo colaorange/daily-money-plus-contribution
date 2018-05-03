@@ -289,4 +289,8 @@
     <string name="label_text_size_large">Large</string>
     <string name="label_prefs_text_size_sum">Choose the text size</string>
     <string name="label_prefs_text_size">Text size</string>
+
+    <!-- 20180503 -->
+    <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
+    <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
 </resources>
