@@ -21,8 +21,7 @@
     <string name="act_toggle_hierarchical_report">Chuyển đổi theo thứ bậc</string>
     <string name="act_update">Cập nhật</string>
 
-    <string name="defacc_bank1">Ngân hàng.A</string>
-    <string name="defacc_bank2">Ngân hàng.B</string>
+    <string name="defacc_bank1">Ngân hàng</string>
     <string name="defacc_cash">Tiền mặt</string>
     <string name="defacc_creditcard">Thẻ tín dụng</string>
     <string name="defacc_entertainment">Giải trí</string>

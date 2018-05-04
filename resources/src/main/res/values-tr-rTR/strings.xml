@@ -21,8 +21,7 @@
     <string name="act_toggle_hierarchical_report">Hiyerarþik Geçiþ</string>
     <string name="act_update">Güncelle</string>
 
-    <string name="defacc_bank1">Banka.A</string>
-    <string name="defacc_bank2">Banka.B</string>
+    <string name="defacc_bank">Banka</string>
     <string name="defacc_cash">Nakit</string>
     <string name="defacc_creditcard">Kredi kartý</string>
     <string name="defacc_entertainment">Eðlence</string>
@@ -293,4 +292,9 @@
     <!-- 20180503 -->
     <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
     <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
+
+    <string name="defacc_clothing">Clothing</string>
+    <string name="defacc_housing">Housing</string>
+    <string name="defacc_transportation">Transportation</string>
+    <string name="defacc_education">Education</string>
 </resources>

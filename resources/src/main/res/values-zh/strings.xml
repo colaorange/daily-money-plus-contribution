@@ -23,8 +23,7 @@
 
     <string name="app_name" tools:ignore="ExtraTranslation">每日記帳本+</string>
 
-    <string name="defacc_bank1">銀行.台灣銀行</string>
-    <string name="defacc_bank2">銀行.兆豐銀行</string>
+    <string name="defacc_bank">銀行</string>
     <string name="defacc_cash">現金</string>
     <string name="defacc_creditcard">信用卡</string>
     <string name="defacc_entertainment">娛樂</string>
@@ -300,4 +299,9 @@
     <!-- 20180503 -->
     <string name="qmsg_delete_account">你想要刪除帳戶 %1$s?</string>
     <string name="qmsg_delete_record">你想要刪除明細 %1$s?</string>
+
+    <string name="defacc_clothing">衣著打扮</string>
+    <string name="defacc_housing">居家生活</string>
+    <string name="defacc_transportation">交通油錢</string>
+    <string name="defacc_education">書藉教育</string>
 </resources>

@@ -21,8 +21,7 @@
     <string name="act_toggle_hierarchical_report">Alternar modo hierárquico</string>
     <string name="act_update">Atualizar</string>
 
-    <string name="defacc_bank1">Banco.A</string>
-    <string name="defacc_bank2">Banco.B</string>
+    <string name="defacc_bank">Banco</string>
     <string name="defacc_cash">Dinheiro</string>
     <string name="defacc_creditcard">Cartão de Crédito</string>
     <string name="defacc_entertainment">Entretenimento</string>
@@ -293,4 +292,9 @@
     <!-- 20180503 -->
     <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
     <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
+
+    <string name="defacc_clothing">Clothing</string>
+    <string name="defacc_housing">Housing</string>
+    <string name="defacc_transportation">Transportation</string>
+    <string name="defacc_education">Education</string>
 </resources>

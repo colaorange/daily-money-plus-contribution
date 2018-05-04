@@ -23,8 +23,7 @@
 
     <string name="app_name" tools:ignore="ExtraTranslation">每日记账本+</string>
 
-    <string name="defacc_bank1">银行.工商</string>
-    <string name="defacc_bank2">银行.农业</string>
+    <string name="defacc_bank">银行</string>
     <string name="defacc_cash">现金</string>
     <string name="defacc_creditcard">信用卡</string>
     <string name="defacc_entertainment">娱乐</string>
@@ -300,4 +299,9 @@
     <!-- 20180503 -->
     <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
     <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
+
+    <string name="defacc_clothing">Clothing</string>
+    <string name="defacc_housing">Housing</string>
+    <string name="defacc_transportation">Transportation</string>
+    <string name="defacc_education">Education</string>
 </resources>
