@@ -3,47 +3,27 @@
     <string name="a1_lang_english_name">Tradional Chinese</string>
     <string name="a1_lang_native_name">繁體中文</string>
 
-    <string name="act_balance_detlist">明細清單</string>
     <string name="act_balance_piechart">結算圓餅圖</string>
+    <string name="act_balance_reclist">明細清單</string>
     <string name="act_balance_yearly_cumulative_timechart">每月結算累計年度圖</string>
     <string name="act_balance_yearly_runchart">資產債務趨勢圖</string>
     <string name="act_balance_yearly_timechart">每月結算年度圖</string>
+    <string name="act_cancel">取消</string>
+    <string name="act_close">關閉</string>
+    <string name="act_copy">複製</string>
+    <string name="act_create">建立</string>
+    <string name="act_delete">刪除</string>
+    <string name="act_edit">編輯</string>
+    <string name="act_new">新增</string>
+    <string name="act_ok">OK</string>
+    <string name="act_set_working_book">設定為使用中的帳本</string>
+    <string name="act_stop">停止</string>
     <string name="act_toggle_hierarchical_report">切換階層式報表</string>
+    <string name="act_update">更新</string>
 
     <string name="app_name" tools:ignore="ExtraTranslation">每日記帳本+</string>
 
-    <string name="cact_cancel">取消</string>
-    <string name="cact_close">關閉</string>
-    <string name="cact_copy">複製</string>
-    <string name="cact_create">建立</string>
-    <string name="cact_delete">刪除</string>
-    <string name="cact_edit">編輯</string>
-    <string name="cact_new">新增</string>
-    <string name="cact_ok">OK</string>
-    <string name="cact_stop">停止</string>
-    <string name="cact_update">更新</string>
-
-    <string name="act_set_working_book">設定為使用中的帳本</string>
-
-    <string name="clabel_alert">警告</string>
-    <string name="clabel_all">全部</string>
-    <string name="clabel_busy">忙碌</string>
-    <string name="clabel_default">預設</string>
-    <string name="clabel_error">錯誤</string>
-    <string name="clabel_info">資訊</string>
-    <string name="clabel_name">名稱</string>
-    <string name="clabel_share">分享</string>
-    <string name="clabel_type">類型</string>
-    <string name="clabel_unknown">未知</string>
-    <string name="clabel_warn">警告</string>
-
-    <string name="cmsg_busy">程式忙碌中，請等一下</string>
-    <string name="cmsg_error">錯誤 : %1$s</string>
-    <string name="cmsg_field_empty">%1$s 是空的</string>
-    <string name="cmsg_field_zero">%1$s 是零</string>
-
-    <string name="defacc_bank1">銀行.台灣</string>
-    <string name="defacc_bank2">銀行.HSBC</string>
+    <string name="defacc_bank">銀行</string>
     <string name="defacc_cash">現金</string>
     <string name="defacc_creditcard">信用卡</string>
     <string name="defacc_entertainment">娛樂</string>
@@ -63,26 +43,28 @@
     <string name="dt_tests">測試桌面</string>
 
     <string name="dtitem_accmgnt">帳戶管理</string>
-    <string name="dtitem_adddetail">新增明細</string>
+    <string name="dtitem_addrec">新增明細</string>
     <string name="dtitem_books">帳本管理</string>
     <string name="dtitem_datamain">資料維護</string>
-    <string name="dtitem_detlist">明細列表</string>
-    <string name="dtitem_detlist_day">日明細列表</string>
-    <string name="dtitem_detlist_month">月明細列表</string>
-    <string name="dtitem_detlist_week">周明細列表</string>
-    <string name="dtitem_detlist_year">年明細列表</string>
     <string name="dtitem_prefs">喜好設定</string>
+    <string name="dtitem_reclist">明細列表</string>
+    <string name="dtitem_reclist_day">日明細列表</string>
+    <string name="dtitem_reclist_month">月明細列表</string>
+    <string name="dtitem_reclist_week">周明細列表</string>
+    <string name="dtitem_reclist_year">年明細列表</string>
     <string name="dtitem_report_cumulative_balance">累計結算</string>
     <string name="dtitem_report_monthly_balance">單月份結算</string>
     <string name="dtitem_report_search">搜尋</string>
     <string name="dtitem_report_yearly_balance">單年結算</string>
 
     <string name="label_about">關於</string>
-    <string name="label_accdetlist_dateinfo">%1$s 到 %2$s</string>
+    <string name="label_acc_reclist_dateinfo">%1$s 到 %2$s</string>
     <string name="label_account">帳戶</string>
     <string name="label_account_only">只有帳戶</string>
+    <string name="label_alert">警告</string>
+    <string name="label_all">全部</string>
     <string name="label_all_books">全部帳本</string>
-    <string name="label_all_details">全部明細(%1$s筆)</string>
+    <string name="label_all_records">全部明細(%1$s筆)</string>
     <string name="label_asset">資產</string>
     <string name="label_backup_data">備份資料</string>
     <string name="label_balance">结算</string>
@@ -90,14 +72,15 @@
     <string name="label_balance_mode_month_total">到 %1$s (%2$s)</string>
     <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
     <string name="label_balance_mode_year_total">到 %1$s (%2$s)</string>
-    <string name="label_balance_tasset">資產總結算</string>
-    <string name="label_balance_texpense">花費總結算</string>
-    <string name="label_balance_tincome">收入總結算</string>
-    <string name="label_balance_tliability">債務總結算</string>
-    <string name="label_balance_tother">其他總結算</string>
+    <string name="label_balance_total_asset">資產總結算</string>
+    <string name="label_balance_total_expense">花費總結算</string>
+    <string name="label_balance_total_income">收入總結算</string>
+    <string name="label_balance_total_liability">債務總結算</string>
+    <string name="label_balance_total_other">其他總結算</string>
     <string name="label_balance_yearly_cumulative_timechart">%1$s 在 %2$s (累計)</string>
     <string name="label_balance_yearly_runchart">資產債務趨勢 在 %1$s</string>
     <string name="label_balance_yearly_timechart">%1$s 在 %2$s</string>
+    <string name="label_busy">忙碌</string>
     <string name="label_cash_account">現金帳戶</string>
     <string name="label_clear_folder">清除工作目錄</string>
     <string name="label_contributor">貢獻者</string>
@@ -105,21 +88,10 @@
     <string name="label_create_default">建立預設的資料(帳戶)</string>
     <string name="label_cumulative_cash">現金 : %1$s</string>
     <string name="label_date">日期</string>
-    <string name="label_day_details">%1$s (%2$s筆)</string>
+    <string name="label_day_records">%1$s (%2$s筆)</string>
+    <string name="label_default">預設</string>
     <string name="label_default_book_symbol">$</string>
-    <string name="label_detail">明細</string>
-    <string name="label_detail_only">只有明細</string>
-    <string name="label_detlayout_type1">帳戶-金錢</string>
-    <string name="label_detlayout_type2">備註-金錢</string>
-    <string name="label_detlayout_type3">金錢-帳戶</string>
-    <string name="label_detlayout_type4">金錢-備註</string>
-    <string name="label_detlist_from">&lt; %1$s</string>
-    <string name="label_detlist_sum_asset">資產%1$s</string>
-    <string name="label_detlist_sum_expense">支出%1$s</string>
-    <string name="label_detlist_sum_income">收入%1$s</string>
-    <string name="label_detlist_sum_liability">債務%1$s</string>
-    <string name="label_detlist_sum_other">其他%1$s</string>
-    <string name="label_detlist_to">%1$s</string>
+    <string name="label_error">錯誤</string>
     <string name="label_expense">花費</string>
     <string name="label_export_csv">匯出 CSV</string>
     <string name="label_firstday_mon">星期一</string>
@@ -131,11 +103,13 @@
     <string name="label_how2use">如何使用</string>
     <string name="label_import_csv">匯入 CSV</string>
     <string name="label_income">收入</string>
+    <string name="label_info">資訊</string>
     <string name="label_initial_value">初始值</string>
     <string name="label_liability">債務</string>
     <string name="label_money">金錢</string>
     <string name="label_month_details">%1$s (%2$s筆)</string>
     <string name="label_monthly_expense">本月支出 : %1$s</string>
+    <string name="label_name">名稱</string>
     <string name="label_note">備註</string>
     <string name="label_other">其他</string>
     <string name="label_position_after">在後面</string>
@@ -163,8 +137,6 @@
     <string name="label_prefs_backup_with_timestamp_sum">當備份時,同時複製檔案到含時戳的目錄, 會佔用額外的空間</string>
     <string name="label_prefs_csv_encoding">CSV 編碼</string>
     <string name="label_prefs_csv_encoding_sum">勿任意更改,將影響匯入匯出CSV</string>
-    <string name="label_prefs_detlayout">明細排版</string>
-    <string name="label_prefs_detlayout_sum">選擇不同的明細排版</string>
     <string name="label_prefs_firstday_week">星期的第一天</string>
     <string name="label_prefs_firstday_week_sum">設定每個星期的第一天為星期一還是星期日</string>
     <string name="label_prefs_format_date">日期的格式</string>
@@ -192,6 +164,8 @@
     <string name="label_prefs_password_sum">設定進入應用程式的密碼</string>
     <string name="label_prefs_passwordvd">密碼保護-2</string>
     <string name="label_prefs_passwordvd_sum">輸入相同的密碼來啟動密碼保護</string>
+    <string name="label_prefs_reclayout">明細排版</string>
+    <string name="label_prefs_reclayout_sum">選擇不同的明細排版</string>
     <string name="label_prefs_startday_month">月份的第一天</string>
     <string name="label_prefs_startday_month_sum">設定月份的第一天(數值在1 - 28)中間</string>
     <string name="label_prefs_startday_year_month">年度的開始月份</string>
@@ -203,16 +177,34 @@
     <string name="label_prefs_vote">加星星去</string>
     <string name="label_prefs_vote_sum">喜歡每日記帳本+的話, 記得去加星星 (★★★★★) 衝衝人氣</string>
     <string name="label_prefs_workingfolder">工作目錄</string>
+    <string name="label_pwd_protection">密碼保護</string>
+    <string name="label_rec_layout1">帳戶-金錢</string>
+    <string name="label_rec_layout2">備註-金錢</string>
+    <string name="label_rec_layout3">金錢-帳戶</string>
+    <string name="label_rec_layout4">金錢-備註</string>
+    <string name="label_reclist_from">%1$s</string>
+    <string name="label_reclist_sum_asset">資產%1$s</string>
+    <string name="label_reclist_sum_expense">支出%1$s</string>
+    <string name="label_reclist_sum_income">收入%1$s</string>
+    <string name="label_reclist_sum_liability">債務%1$s</string>
+    <string name="label_reclist_sum_other">其他%1$s</string>
+    <string name="label_reclist_to">%1$s</string>
+    <string name="label_record">明細</string>
+    <string name="label_record_only">只有明細</string>
     <string name="label_reports">報表</string>
     <string name="label_request_storage_permission">請求讀取權限</string>
     <string name="label_reset">重置</string>
     <string name="label_reset_working_book">重置使用中的帳本</string>
     <string name="label_restore_data">還原資料</string>
+    <string name="label_share">分享</string>
     <string name="label_share_csv">分享CSV</string>
     <string name="label_symbol">符號</string>
     <string name="label_symbol_position">符號位置</string>
     <string name="label_to_account">到帳戶</string>
     <string name="label_to_date">迄日</string>
+    <string name="label_type">類型</string>
+    <string name="label_unknown">未知</string>
+    <string name="label_warn">警告</string>
     <string name="label_week_details">%5$s %1$s到%2$s - 周%3$s/%4$s(%6$s筆)</string>
     <string name="label_weekly_expense">本周支出 : %1$s</string>
     <string name="label_what_is_new">有什麼新功能</string>
@@ -227,6 +219,7 @@
     <string name="msg_book_created">帳本 %1$s 已經被建立</string>
     <string name="msg_book_deleted">帳本 %1$s 已經被刪除</string>
     <string name="msg_book_updated">帳本 %1$s 已經被更新</string>
+    <string name="msg_busy">程式忙碌中，請等一下</string>
     <string name="msg_cannot_delete_default_book">不允許刪除預設帳本</string>
     <string name="msg_cannot_delete_working_book">不允許刪除使用中的帳本</string>
     <string name="msg_created_account">一共建立了 %1$s 個帳戶</string>
@@ -236,19 +229,23 @@
     <string name="msg_db_backuped">%1$s 個檔案備份至 %2$s</string>
     <string name="msg_db_restored">%1$s 個檔案從 %2$s 還原</string>
     <string name="msg_default_created">預設的資料(帳戶)已經被建立</string>
-    <string name="msg_detail_created">明細已被建立</string>
-    <string name="msg_detail_deleted">明細已被刪除</string>
-    <string name="msg_detail_updated">明細已被更新</string>
+    <string name="msg_error">錯誤 : %1$s</string>
+    <string name="msg_field_empty">%1$s 是空的</string>
+    <string name="msg_field_zero">%1$s 是零</string>
     <string name="msg_firsttime_use_hint">歡迎使用每日記帳本</string>
     <string name="msg_folder_cleared">工作目錄 %1$s 已經被清除</string>
     <string name="msg_no_csv">沒有CSV檔案</string>
     <string name="msg_no_data">沒有資料可供備份/匯出</string>
+    <string name="msg_record_created">明細已被建立</string>
+    <string name="msg_record_deleted">明細已被刪除</string>
+    <string name="msg_record_updated">明細已被更新</string>
     <string name="msg_rested">資料已經被重置</string>
     <string name="msg_same_from_to">相同的帳戶</string>
     <string name="msg_share_csv_content">Daily Money CSV 檔案</string>
     <string name="msg_share_csv_title">Daily Money %1$s</string>
     <string name="msg_working_folder_no_access">工作目錄 %1$s 無法存取, 請到系統設定開啟存取權限</string>
     <string name="msg_wrong_password">錯誤的密碼!</string>
+    <string name="msg_wrong_password_validation">驗証的密碼必需一致</string>
 
     <string name="path_about" tools:ignore="ExtraTranslation">zh/about.html</string>
     <string name="path_history" tools:ignore="ExtraTranslation">zh/history.html</string>
@@ -270,20 +267,41 @@
     <string name="title_acceditor">帳戶編輯器</string>
     <string name="title_acceditor_create">建立帳戶</string>
     <string name="title_acceditor_update">更新帳戶</string>
-    <string name="title_accmgnt">帳戶管理器</string>
+    <string name="title_accmgnt">帳戶管理</string>
     <string name="title_book">帳本</string>
     <string name="title_bookeditor_create">建立帳本</string>
     <string name="title_bookeditor_update">更新帳本</string>
     <string name="title_bookmgnt">帳本管理</string>
     <string name="title_datamain">資料維護</string>
     <string name="title_desktop">主控台</string>
-    <string name="title_deteditor">明細編輯器</string>
-    <string name="title_deteditor_create">建立明細</string>
-    <string name="title_deteditor_update">更新明細</string>
-    <string name="title_detlist">明細列表</string>
-    <string name="title_detmgnt">明細管理器</string>
-    <string name="title_pdprotection">密碼保護</string>
     <string name="title_prefs">喜好設定</string>
+    <string name="title_receditor">明細編輯器</string>
+    <string name="title_receditor_create">建立明細</string>
+    <string name="title_receditor_update">更新明細</string>
+    <string name="title_reclist">明細列表</string>
+    <string name="title_recmgnt">明細管理器</string>
 
-    <string name="msg_wrong_password_validation">驗証的密碼必需一致</string>
+
+    <!-- new 20180428-->
+    <string name="label_theme_cola">可樂</string>
+    <string name="label_theme_orange">橘子</string>
+    <string name="label_theme_lemon">檸檬</string>
+    <string name="label_theme_sakura">櫻花</string>
+    <string name="label_prefs_theme_sum">選擇佈景主題</string>
+    <string name="label_prefs_theme">佈景主題</string>
+
+    <string name="label_text_size_normal">一般</string>
+    <string name="label_text_size_medium">中型</string>
+    <string name="label_text_size_large">大型</string>
+    <string name="label_prefs_text_size_sum">選擇字型大小</string>
+    <string name="label_prefs_text_size">字型大小</string>
+
+    <!-- 20180503 -->
+    <string name="qmsg_delete_account">你想要刪除帳戶 %1$s?</string>
+    <string name="qmsg_delete_record">你想要刪除明細 %1$s?</string>
+
+    <string name="defacc_clothing">衣著打扮</string>
+    <string name="defacc_housing">居家生活</string>
+    <string name="defacc_transportation">交通油錢</string>
+    <string name="defacc_education">書藉教育</string>
 </resources>
