@@ -23,14 +23,18 @@
 
     <string name="defacc_bank">Банк</string>
     <string name="defacc_cash">Наличные</string>
+    <string name="defacc_clothing">Clothing</string>
     <string name="defacc_creditcard">Кредитная карта</string>
+    <string name="defacc_education">Education</string>
     <string name="defacc_entertainment">Развлечения</string>
     <string name="defacc_food1">Еда.Личная</string>
     <string name="defacc_food2">Еда.Вечеринка</string>
+    <string name="defacc_housing">Housing</string>
     <string name="defacc_interest">Интерес</string>
     <string name="defacc_otherexpense">Другие расходы</string>
     <string name="defacc_otherincome">Другие доходы</string>
     <string name="defacc_salary">Зарплата</string>
+    <string name="defacc_transportation">Transportation</string>
 
     <string name="default_pref_format_date">M/D/Y</string>
     <string name="default_pref_format_month">digital</string>
@@ -172,6 +176,10 @@
     <string name="label_prefs_startday_year_month_sum">Set the start month of the accounting year</string>
     <string name="label_prefs_testsdekstop">Открыть экран тестирования</string>
     <string name="label_prefs_testsdekstop_sum">открытые испытания рабочего стола, только для разработчиков</string>
+    <string name="label_prefs_text_size">Text size</string>
+    <string name="label_prefs_text_size_sum">Choose the text size</string>
+    <string name="label_prefs_theme">Theme</string>
+    <string name="label_prefs_theme_sum">Choose the theme</string>
     <string name="label_prefs_vote">Vote me stars</string>
     <string name="label_prefs_vote_sum">Vote stars (★★★★★) if you like DM+</string>
     <string name="label_prefs_workingfolder">Рабочий каталог</string>
@@ -198,6 +206,13 @@
     <string name="label_share_csv">Доступ к CSV</string>
     <string name="label_symbol">Symbol</string>
     <string name="label_symbol_position">Symbol Position</string>
+    <string name="label_text_size_large">Large</string>
+    <string name="label_text_size_medium">Medium</string>
+    <string name="label_text_size_normal">Normal</string>
+    <string name="label_theme_cola">Cola</string>
+    <string name="label_theme_lemon">Lemon</string>
+    <string name="label_theme_orange">Orange</string>
+    <string name="label_theme_sakura">Sakura</string>
     <string name="label_to_account">К</string>
     <string name="label_to_date">to Date</string>
     <string name="label_type">Type</string>
@@ -247,7 +262,9 @@
 
     <string name="qmsg_clear_folder">Вы действительно хотите очистить каталог %1$s?</string>
     <string name="qmsg_create_default">Вы хотите создать данные по умолчанию?</string>
+    <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
     <string name="qmsg_delete_book">Do you want to delete book %1$s and all it\'s data?</string>
+    <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
     <string name="qmsg_export_csv">Вы хотите экспортировать CSV и заменить его?</string>
     <string name="qmsg_import_csv">Вы хотите импортировать CSV-файлы?</string>
     <string name="qmsg_reset">Вы действительно хотите сбросить все данные?</string>
@@ -273,28 +290,4 @@
     <string name="title_receditor_update">Обновить описание</string>
     <string name="title_reclist">Список описаний</string>
     <string name="title_recmgnt">Менеджер описаний</string>
-
-
-    <!-- new 20180428-->
-    <string name="label_theme_cola">Cola</string>
-    <string name="label_theme_orange">Orange</string>
-    <string name="label_theme_lemon">Lemon</string>
-    <string name="label_theme_sakura">Sakura</string>
-    <string name="label_prefs_theme_sum">Choose the theme</string>
-    <string name="label_prefs_theme">Theme</string>
-
-    <string name="label_text_size_normal">Normal</string>
-    <string name="label_text_size_medium">Medium</string>
-    <string name="label_text_size_large">Large</string>
-    <string name="label_prefs_text_size_sum">Choose the text size</string>
-    <string name="label_prefs_text_size">Text size</string>
-
-    <!-- 20180503 -->
-    <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
-    <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
-
-    <string name="defacc_clothing">Clothing</string>
-    <string name="defacc_housing">Housing</string>
-    <string name="defacc_transportation">Transportation</string>
-    <string name="defacc_education">Education</string>
 </resources>

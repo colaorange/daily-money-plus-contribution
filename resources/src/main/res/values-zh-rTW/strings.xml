@@ -25,14 +25,18 @@
 
     <string name="defacc_bank">銀行</string>
     <string name="defacc_cash">現金</string>
+    <string name="defacc_clothing">衣著打扮</string>
     <string name="defacc_creditcard">信用卡</string>
+    <string name="defacc_education">書藉教育</string>
     <string name="defacc_entertainment">娛樂</string>
     <string name="defacc_food1">食.個人</string>
     <string name="defacc_food2">食.聚餐</string>
+    <string name="defacc_housing">居家生活</string>
     <string name="defacc_interest">利息</string>
     <string name="defacc_otherexpense">其他花費</string>
     <string name="defacc_otherincome">其他收入</string>
     <string name="defacc_salary">薪水</string>
+    <string name="defacc_transportation">交通油錢</string>
 
     <string name="default_pref_format_date">Y/M/D</string>
     <string name="default_pref_format_month">digital</string>
@@ -174,6 +178,10 @@
     <string name="label_prefs_startday_year_month_sum">設定會計年度的開始月份</string>
     <string name="label_prefs_testsdekstop">測試桌面</string>
     <string name="label_prefs_testsdekstop_sum">啟用測試桌面, 僅供開發者使用</string>
+    <string name="label_prefs_text_size">字型大小</string>
+    <string name="label_prefs_text_size_sum">選擇字型大小</string>
+    <string name="label_prefs_theme">佈景主題</string>
+    <string name="label_prefs_theme_sum">選擇佈景主題</string>
     <string name="label_prefs_vote">加星星去</string>
     <string name="label_prefs_vote_sum">喜歡每日記帳本+的話, 記得去加星星 (★★★★★) 衝衝人氣</string>
     <string name="label_prefs_workingfolder">工作目錄</string>
@@ -200,6 +208,13 @@
     <string name="label_share_csv">分享CSV</string>
     <string name="label_symbol">符號</string>
     <string name="label_symbol_position">符號位置</string>
+    <string name="label_text_size_large">大型</string>
+    <string name="label_text_size_medium">中型</string>
+    <string name="label_text_size_normal">一般</string>
+    <string name="label_theme_cola">可樂</string>
+    <string name="label_theme_lemon">檸檬</string>
+    <string name="label_theme_orange">橘子</string>
+    <string name="label_theme_sakura">櫻花</string>
     <string name="label_to_account">到帳戶</string>
     <string name="label_to_date">迄日</string>
     <string name="label_type">類型</string>
@@ -254,7 +269,9 @@
 
     <string name="qmsg_clear_folder">您想要清除工作目錄%1$s嗎?所有的目錄內的檔案將被移除</string>
     <string name="qmsg_create_default">您想要建立預設的資料(帳戶)嗎?</string>
+    <string name="qmsg_delete_account">你想要刪除帳戶 %1$s?</string>
     <string name="qmsg_delete_book">你想要刪除帳本 %1$s 及其包含的帳戶及明細資料嗎?</string>
+    <string name="qmsg_delete_record">你想要刪除明細 %1$s?</string>
     <string name="qmsg_export_csv">您想要匯出資料並覆蓋CSV檔嗎?</string>
     <string name="qmsg_import_csv">您想要匯入CSV檔並增加資料嗎?</string>
     <string name="qmsg_reset">您想要重置資料嗎?</string>
@@ -280,28 +297,4 @@
     <string name="title_receditor_update">更新明細</string>
     <string name="title_reclist">明細列表</string>
     <string name="title_recmgnt">明細管理器</string>
-
-
-    <!-- new 20180428-->
-    <string name="label_theme_cola">可樂</string>
-    <string name="label_theme_orange">橘子</string>
-    <string name="label_theme_lemon">檸檬</string>
-    <string name="label_theme_sakura">櫻花</string>
-    <string name="label_prefs_theme_sum">選擇佈景主題</string>
-    <string name="label_prefs_theme">佈景主題</string>
-
-    <string name="label_text_size_normal">一般</string>
-    <string name="label_text_size_medium">中型</string>
-    <string name="label_text_size_large">大型</string>
-    <string name="label_prefs_text_size_sum">選擇字型大小</string>
-    <string name="label_prefs_text_size">字型大小</string>
-
-    <!-- 20180503 -->
-    <string name="qmsg_delete_account">你想要刪除帳戶 %1$s?</string>
-    <string name="qmsg_delete_record">你想要刪除明細 %1$s?</string>
-
-    <string name="defacc_clothing">衣著打扮</string>
-    <string name="defacc_housing">居家生活</string>
-    <string name="defacc_transportation">交通油錢</string>
-    <string name="defacc_education">書藉教育</string>
 </resources>

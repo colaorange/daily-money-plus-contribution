@@ -23,14 +23,18 @@
 
     <string name="defacc_bank">Banka</string>
     <string name="defacc_cash">Nakit</string>
+    <string name="defacc_clothing">Clothing</string>
     <string name="defacc_creditcard">Kredi kartý</string>
+    <string name="defacc_education">Education</string>
     <string name="defacc_entertainment">Eðlence</string>
     <string name="defacc_food1">Yemek.Kiþisel</string>
     <string name="defacc_food2">Yemek.Parti</string>
+    <string name="defacc_housing">Housing</string>
     <string name="defacc_interest">Faiz</string>
     <string name="defacc_otherexpense">Diðer giderler</string>
     <string name="defacc_otherincome">Diðer gelirler</string>
     <string name="defacc_salary">Maaþ</string>
+    <string name="defacc_transportation">Transportation</string>
 
     <string name="default_pref_format_date">M/D/Y</string>
     <string name="default_pref_format_month">digital</string>
@@ -172,6 +176,10 @@
     <string name="label_prefs_startday_year_month_sum">Set the start month of the accounting year</string>
     <string name="label_prefs_testsdekstop">Testleri masaüstünda aç</string>
     <string name="label_prefs_testsdekstop_sum">Testleri masaüstünde aç, yalnýzca geliþtiriciler için</string>
+    <string name="label_prefs_text_size">Text size</string>
+    <string name="label_prefs_text_size_sum">Choose the text size</string>
+    <string name="label_prefs_theme">Theme</string>
+    <string name="label_prefs_theme_sum">Choose the theme</string>
     <string name="label_prefs_vote">Vote me stars</string>
     <string name="label_prefs_vote_sum">Vote stars (★★★★★) if you like DM+</string>
     <string name="label_prefs_workingfolder">Seçili dizin</string>
@@ -198,6 +206,13 @@
     <string name="label_share_csv">CSV\'yi paylaþ</string>
     <string name="label_symbol">Sembol</string>
     <string name="label_symbol_position">Sembol Pozisyonu</string>
+    <string name="label_text_size_large">Large</string>
+    <string name="label_text_size_medium">Medium</string>
+    <string name="label_text_size_normal">Normal</string>
+    <string name="label_theme_cola">Cola</string>
+    <string name="label_theme_lemon">Lemon</string>
+    <string name="label_theme_orange">Orange</string>
+    <string name="label_theme_sakura">Sakura</string>
     <string name="label_to_account">Nereye</string>
     <string name="label_to_date">to Date</string>
     <string name="label_type">Tip</string>
@@ -247,7 +262,9 @@
 
     <string name="qmsg_clear_folder">Seçili %1$s dizinini temizlemek istiyor musunuz? Tüm CSV belgeleri silinecek</string>
     <string name="qmsg_create_default">Varsayýlan veriyi oluþturmak istiyor musunuz?</string>
+    <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
     <string name="qmsg_delete_book">%1$s defterini ve içindeki tüm verileri silmek istiyor musunuz?</string>
+    <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
     <string name="qmsg_export_csv">CSV\'yi dışa aktarmak ve değiştirmek mi istiyorsunuz?</string>
     <string name="qmsg_import_csv">CSV dosyalarını içe aktarmak istiyor musunuz?</string>
     <string name="qmsg_reset">Verileri sýfýrlamak istiyor musunuz?</string>
@@ -273,28 +290,4 @@
     <string name="title_receditor_update">Ayrýntý Güncelle</string>
     <string name="title_reclist">Ayrýntý Listesi</string>
     <string name="title_recmgnt">Ayrýntý Düzenleyicisi</string>
-
-
-    <!-- new 20180428-->
-    <string name="label_theme_cola">Cola</string>
-    <string name="label_theme_orange">Orange</string>
-    <string name="label_theme_lemon">Lemon</string>
-    <string name="label_theme_sakura">Sakura</string>
-    <string name="label_prefs_theme_sum">Choose the theme</string>
-    <string name="label_prefs_theme">Theme</string>
-
-    <string name="label_text_size_normal">Normal</string>
-    <string name="label_text_size_medium">Medium</string>
-    <string name="label_text_size_large">Large</string>
-    <string name="label_prefs_text_size_sum">Choose the text size</string>
-    <string name="label_prefs_text_size">Text size</string>
-
-    <!-- 20180503 -->
-    <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
-    <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
-
-    <string name="defacc_clothing">Clothing</string>
-    <string name="defacc_housing">Housing</string>
-    <string name="defacc_transportation">Transportation</string>
-    <string name="defacc_education">Education</string>
 </resources>

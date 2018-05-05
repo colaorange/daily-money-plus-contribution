@@ -23,14 +23,18 @@
 
     <string name="defacc_bank">Τράπεζα</string>
     <string name="defacc_cash">Μετρητά</string>
+    <string name="defacc_clothing">Clothing</string>
     <string name="defacc_creditcard">Πιστωτική κάρτα</string>
+    <string name="defacc_education">Education</string>
     <string name="defacc_entertainment">Ψυχαγωγία</string>
     <string name="defacc_food1">Τρόφιμα.Προσωπικά</string>
     <string name="defacc_food2">Τρόφιμα.Party</string>
+    <string name="defacc_housing">Housing</string>
     <string name="defacc_interest">Επιτόκιο</string>
     <string name="defacc_otherexpense">Λοιπά έξοδα</string>
     <string name="defacc_otherincome">Άλλα εισοδήματα</string>
     <string name="defacc_salary">Μισθός</string>
+    <string name="defacc_transportation">Transportation</string>
 
     <string name="default_pref_format_date">M/D/Y</string>
     <string name="default_pref_format_month">digital</string>
@@ -172,6 +176,10 @@
     <string name="label_prefs_startday_year_month_sum">Set the start month of the accounting year</string>
     <string name="label_prefs_testsdekstop">Πειραματική επιφάνεια εργασίας</string>
     <string name="label_prefs_testsdekstop_sum">Πειραματική επιφάνεια εργασίας μόνο για προγραμματιστές</string>
+    <string name="label_prefs_text_size">Text size</string>
+    <string name="label_prefs_text_size_sum">Choose the text size</string>
+    <string name="label_prefs_theme">Theme</string>
+    <string name="label_prefs_theme_sum">Choose the theme</string>
     <string name="label_prefs_vote">Vote me stars</string>
     <string name="label_prefs_vote_sum">Vote stars (★★★★★) if you like DM+</string>
     <string name="label_prefs_workingfolder">Ενεργός φάκελος</string>
@@ -198,6 +206,13 @@
     <string name="label_share_csv">Αποστολή CSV</string>
     <string name="label_symbol">Σύμβολο</string>
     <string name="label_symbol_position">Θέση συμβόλου</string>
+    <string name="label_text_size_large">Large</string>
+    <string name="label_text_size_medium">Medium</string>
+    <string name="label_text_size_normal">Normal</string>
+    <string name="label_theme_cola">Cola</string>
+    <string name="label_theme_lemon">Lemon</string>
+    <string name="label_theme_orange">Orange</string>
+    <string name="label_theme_sakura">Sakura</string>
     <string name="label_to_account">Σε</string>
     <string name="label_to_date">Μέχρι την ημερομηνία</string>
     <string name="label_type">Τύπος</string>
@@ -247,7 +262,9 @@
 
     <string name="qmsg_clear_folder">Θέλετε να διαγράψετε το φάκελο %1$s; Θα χαθούν όλα τα αρχεία CSV και backup</string>
     <string name="qmsg_create_default">Θέλετε να δημιουργήσετε προεπιλεγμένα δεδομένα;</string>
+    <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
     <string name="qmsg_delete_book">Θέλετε να διαγράψετε το βιβλίο %1$s και όλα τα δεδομένα του;</string>
+    <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
     <string name="qmsg_export_csv">Θέλετε να αντικαταστήσετε τα αρχεία CSV ?</string>
     <string name="qmsg_import_csv">Θέλετε να εισαγάγετε αρχεία CSV ?</string>
     <string name="qmsg_reset">Θέλετε να διαγραφούν όλα τα δεδομένα ;</string>
@@ -273,28 +290,4 @@
     <string name="title_receditor_update">Τροποποίηση συναλλαγής</string>
     <string name="title_reclist">Λίστα συναλλαγών</string>
     <string name="title_recmgnt">Διαχείριση συναλλαγών</string>
-
-
-    <!-- new 20180428-->
-    <string name="label_theme_cola">Cola</string>
-    <string name="label_theme_orange">Orange</string>
-    <string name="label_theme_lemon">Lemon</string>
-    <string name="label_theme_sakura">Sakura</string>
-    <string name="label_prefs_theme_sum">Choose the theme</string>
-    <string name="label_prefs_theme">Theme</string>
-
-    <string name="label_text_size_normal">Normal</string>
-    <string name="label_text_size_medium">Medium</string>
-    <string name="label_text_size_large">Large</string>
-    <string name="label_prefs_text_size_sum">Choose the text size</string>
-    <string name="label_prefs_text_size">Text size</string>
-
-    <!-- 20180503 -->
-    <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
-    <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
-
-    <string name="defacc_clothing">Clothing</string>
-    <string name="defacc_housing">Housing</string>
-    <string name="defacc_transportation">Transportation</string>
-    <string name="defacc_education">Education</string>
 </resources>

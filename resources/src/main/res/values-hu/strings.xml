@@ -23,14 +23,18 @@
 
     <string name="defacc_bank">Bank</string>
     <string name="defacc_cash">Kápé</string>
+    <string name="defacc_clothing">Clothing</string>
     <string name="defacc_creditcard">Hitelkártya</string>
+    <string name="defacc_education">Education</string>
     <string name="defacc_entertainment">Szórakozás</string>
     <string name="defacc_food1">Kaja.Személyes</string>
     <string name="defacc_food2">Kaja.Buli</string>
+    <string name="defacc_housing">Housing</string>
     <string name="defacc_interest">Kamat</string>
     <string name="defacc_otherexpense">Egyéb kiadás</string>
     <string name="defacc_otherincome">Egyéb bevétel</string>
     <string name="defacc_salary">Fizu</string>
+    <string name="defacc_transportation">Transportation</string>
 
     <string name="default_pref_format_date">M/D/Y</string>
     <string name="default_pref_format_month">digital</string>
@@ -172,6 +176,10 @@
     <string name="label_prefs_startday_year_month_sum">Set the start month of the accounting year</string>
     <string name="label_prefs_testsdekstop">Tesztek megnyitása</string>
     <string name="label_prefs_testsdekstop_sum">teszt környezet megnyitása, csak fejlesztőknek</string>
+    <string name="label_prefs_text_size">Text size</string>
+    <string name="label_prefs_text_size_sum">Choose the text size</string>
+    <string name="label_prefs_theme">Theme</string>
+    <string name="label_prefs_theme_sum">Choose the theme</string>
     <string name="label_prefs_vote">Vote me stars</string>
     <string name="label_prefs_vote_sum">Vote stars (★★★★★) if you like DM+</string>
     <string name="label_prefs_workingfolder">Munkakönyvtár</string>
@@ -198,6 +206,13 @@
     <string name="label_share_csv">CSV megosztása</string>
     <string name="label_symbol">Jel</string>
     <string name="label_symbol_position">Jel helye</string>
+    <string name="label_text_size_large">Large</string>
+    <string name="label_text_size_medium">Medium</string>
+    <string name="label_text_size_normal">Normal</string>
+    <string name="label_theme_cola">Cola</string>
+    <string name="label_theme_lemon">Lemon</string>
+    <string name="label_theme_orange">Orange</string>
+    <string name="label_theme_sakura">Sakura</string>
     <string name="label_to_account">Cél</string>
     <string name="label_to_date">to Date</string>
     <string name="label_type">Típus</string>
@@ -247,7 +262,9 @@
 
     <string name="qmsg_clear_folder">Tényleg törlöd a %1$s munkakönyvtárt? Minden CSV törlődik!</string>
     <string name="qmsg_create_default">Létrehozzuk az alapértelmezett adatokat?</string>
+    <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
     <string name="qmsg_delete_book">Tényleg törlöd a %1$s könyvet az összes adatával együtt?</string>
+    <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
     <string name="qmsg_export_csv">Szeretnéd felülírni a létező CSV fájlt?</string>
     <string name="qmsg_import_csv">CSV fájlokat szeretne importálni?</string>
     <string name="qmsg_reset">Tényleg törlöd az összes adatot?</string>
@@ -273,28 +290,4 @@
     <string name="title_receditor_update">Tétel módosítása</string>
     <string name="title_reclist">Tétel lista</string>
     <string name="title_recmgnt">Tétel kezelő</string>
-
-
-    <!-- new 20180428-->
-    <string name="label_theme_cola">Cola</string>
-    <string name="label_theme_orange">Orange</string>
-    <string name="label_theme_lemon">Lemon</string>
-    <string name="label_theme_sakura">Sakura</string>
-    <string name="label_prefs_theme_sum">Choose the theme</string>
-    <string name="label_prefs_theme">Theme</string>
-
-    <string name="label_text_size_normal">Normal</string>
-    <string name="label_text_size_medium">Medium</string>
-    <string name="label_text_size_large">Large</string>
-    <string name="label_prefs_text_size_sum">Choose the text size</string>
-    <string name="label_prefs_text_size">Text size</string>
-
-    <!-- 20180503 -->
-    <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
-    <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
-
-    <string name="defacc_clothing">Clothing</string>
-    <string name="defacc_housing">Housing</string>
-    <string name="defacc_transportation">Transportation</string>
-    <string name="defacc_education">Education</string>
 </resources>

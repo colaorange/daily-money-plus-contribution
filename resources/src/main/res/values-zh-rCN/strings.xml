@@ -25,14 +25,18 @@
 
     <string name="defacc_bank">银行</string>
     <string name="defacc_cash">现金</string>
+    <string name="defacc_clothing">Clothing</string>
     <string name="defacc_creditcard">信用卡</string>
+    <string name="defacc_education">Education</string>
     <string name="defacc_entertainment">娱乐</string>
     <string name="defacc_food1">饮食.个人</string>
     <string name="defacc_food2">饮食.聚餐</string>
+    <string name="defacc_housing">Housing</string>
     <string name="defacc_interest">利息</string>
     <string name="defacc_otherexpense">其他消费</string>
     <string name="defacc_otherincome">其他收入</string>
     <string name="defacc_salary">薪水</string>
+    <string name="defacc_transportation">Transportation</string>
 
     <string name="default_pref_format_date">Y/M/D</string>
     <string name="default_pref_format_month">digital</string>
@@ -174,6 +178,10 @@
     <string name="label_prefs_startday_year_month_sum">设定会计年度的开始月份</string>
     <string name="label_prefs_testsdekstop">测试桌面</string>
     <string name="label_prefs_testsdekstop_sum">启用测试桌面, 仅供开发者使用</string>
+    <string name="label_prefs_text_size">字型大小</string>
+    <string name="label_prefs_text_size_sum">选择字型大小</string>
+    <string name="label_prefs_theme">布景主题</string>
+    <string name="label_prefs_theme_sum">选择布景主题</string>
     <string name="label_prefs_vote">加星星去</string>
     <string name="label_prefs_vote_sum">喜欢每日记帐本+的话, 记得去加星星 (★★★★★) 冲冲人气</string>
     <string name="label_prefs_workingfolder">工作目录</string>
@@ -182,6 +190,7 @@
     <string name="label_rec_layout2">备注-金钱</string>
     <string name="label_rec_layout3">金钱-账户</string>
     <string name="label_rec_layout4">金钱-备注</string>
+    <string name="label_reclist_from">%1$s</string>
     <string name="label_reclist_sum_asset">资产%1$s</string>
     <string name="label_reclist_sum_expense">支出%1$s</string>
     <string name="label_reclist_sum_income">收入%1$s</string>
@@ -199,6 +208,13 @@
     <string name="label_share_csv">分享CSV</string>
     <string name="label_symbol">符號</string>
     <string name="label_symbol_position">符號位置</string>
+    <string name="label_text_size_large">大型</string>
+    <string name="label_text_size_medium">中型</string>
+    <string name="label_text_size_normal">一般</string>
+    <string name="label_theme_cola">可乐</string>
+    <string name="label_theme_lemon">柠檬</string>
+    <string name="label_theme_orange">橘子</string>
+    <string name="label_theme_sakura">樱花</string>
     <string name="label_to_account">到账户</string>
     <string name="label_to_date">迄日</string>
     <string name="label_type">类型</string>
@@ -253,7 +269,9 @@
 
     <string name="qmsg_clear_folder">您想要清除工作目录%1$s吗?所有目录內的档案將被移除</string>
     <string name="qmsg_create_default">您想要建立预设的资料(账户)吗?</string>
+    <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
     <string name="qmsg_delete_book">你想要刪除帳本 %1$s 及其包含的帳戶及明細資料嗎?</string>
+    <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
     <string name="qmsg_export_csv">您想要导出资料并覆盖CSV档案吗?</string>
     <string name="qmsg_import_csv">您想要导入CSV档案吗?</string>
     <string name="qmsg_reset">您想要重置资料吗?</string>
@@ -279,29 +297,4 @@
     <string name="title_receditor_update">更新明细</string>
     <string name="title_reclist">明细列表</string>
     <string name="title_recmgnt">明细管理器</string>
-    <string name="label_reclist_from">%1$s</string>
-
-
-    <!-- new 20180428-->
-    <string name="label_theme_cola">可乐</string>
-    <string name="label_theme_orange">橘子</string>
-    <string name="label_theme_lemon">柠檬</string>
-    <string name="label_theme_sakura">樱花</string>
-    <string name="label_prefs_theme_sum">选择布景主题</string>
-    <string name="label_prefs_theme">布景主题</string>
-
-    <string name="label_text_size_normal">一般</string>
-    <string name="label_text_size_medium">中型</string>
-    <string name="label_text_size_large">大型</string>
-    <string name="label_prefs_text_size_sum">选择字型大小</string>
-    <string name="label_prefs_text_size">字型大小</string>
-
-    <!-- 20180503 -->
-    <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
-    <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
-
-    <string name="defacc_clothing">Clothing</string>
-    <string name="defacc_housing">Housing</string>
-    <string name="defacc_transportation">Transportation</string>
-    <string name="defacc_education">Education</string>
 </resources>

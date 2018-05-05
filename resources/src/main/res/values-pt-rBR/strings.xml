@@ -23,14 +23,18 @@
 
     <string name="defacc_bank">Banco</string>
     <string name="defacc_cash">Dinheiro</string>
+    <string name="defacc_clothing">Clothing</string>
     <string name="defacc_creditcard">Cartão de Crédito</string>
+    <string name="defacc_education">Education</string>
     <string name="defacc_entertainment">Entretenimento</string>
     <string name="defacc_food1">Comida.Pessoal</string>
     <string name="defacc_food2">Comida.Festa</string>
+    <string name="defacc_housing">Housing</string>
     <string name="defacc_interest">Interest</string>
     <string name="defacc_otherexpense">Outras despesas</string>
     <string name="defacc_otherincome">Outras entradas</string>
     <string name="defacc_salary">Salários</string>
+    <string name="defacc_transportation">Transportation</string>
 
     <string name="default_pref_format_date">M/D/Y</string>
     <string name="default_pref_format_month">digital</string>
@@ -172,6 +176,10 @@
     <string name="label_prefs_startday_year_month_sum">Set the start month of the accounting year</string>
     <string name="label_prefs_testsdekstop">Abrir testes no desktop</string>
     <string name="label_prefs_testsdekstop_sum">abre tests de desktop, para desenvolvedores somente</string>
+    <string name="label_prefs_text_size">Text size</string>
+    <string name="label_prefs_text_size_sum">Choose the text size</string>
+    <string name="label_prefs_theme">Theme</string>
+    <string name="label_prefs_theme_sum">Choose the theme</string>
     <string name="label_prefs_vote">Vote me stars</string>
     <string name="label_prefs_vote_sum">Vote stars (★★★★★) if you like DM+</string>
     <string name="label_prefs_workingfolder">Diretório corrente</string>
@@ -198,6 +206,13 @@
     <string name="label_share_csv">Compartilhar CSV</string>
     <string name="label_symbol">Símbolo</string>
     <string name="label_symbol_position">Posição do Símbolo</string>
+    <string name="label_text_size_large">Large</string>
+    <string name="label_text_size_medium">Medium</string>
+    <string name="label_text_size_normal">Normal</string>
+    <string name="label_theme_cola">Cola</string>
+    <string name="label_theme_lemon">Lemon</string>
+    <string name="label_theme_orange">Orange</string>
+    <string name="label_theme_sakura">Sakura</string>
     <string name="label_to_account">Para</string>
     <string name="label_to_date">to Date</string>
     <string name="label_type">Tipo</string>
@@ -247,7 +262,9 @@
 
     <string name="qmsg_clear_folder">Deseja apagar o diretório corrente: %1$s? Todos arquivos serão apagados</string>
     <string name="qmsg_create_default">Você quer criar dados padrão?</string>
+    <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
     <string name="qmsg_delete_book">Você quer apagar o livro %1$s com todos dados?</string>
+    <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
     <string name="qmsg_export_csv">Você quer exportar e substituir o CSV?</string>
     <string name="qmsg_import_csv">Você quer importar arquivos CSV?</string>
     <string name="qmsg_reset">Você quer resetar os dados?</string>
@@ -273,28 +290,4 @@
     <string name="title_receditor_update">Atualizar Detalhe</string>
     <string name="title_reclist">Lista de Detalhes</string>
     <string name="title_recmgnt">Gerente de Detalhes</string>
-
-
-    <!-- new 20180428-->
-    <string name="label_theme_cola">Cola</string>
-    <string name="label_theme_orange">Orange</string>
-    <string name="label_theme_lemon">Lemon</string>
-    <string name="label_theme_sakura">Sakura</string>
-    <string name="label_prefs_theme_sum">Choose the theme</string>
-    <string name="label_prefs_theme">Theme</string>
-
-    <string name="label_text_size_normal">Normal</string>
-    <string name="label_text_size_medium">Medium</string>
-    <string name="label_text_size_large">Large</string>
-    <string name="label_prefs_text_size_sum">Choose the text size</string>
-    <string name="label_prefs_text_size">Text size</string>
-
-    <!-- 20180503 -->
-    <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
-    <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
-
-    <string name="defacc_clothing">Clothing</string>
-    <string name="defacc_housing">Housing</string>
-    <string name="defacc_transportation">Transportation</string>
-    <string name="defacc_education">Education</string>
 </resources>
