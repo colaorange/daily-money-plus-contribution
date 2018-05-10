@@ -38,9 +38,9 @@
     <string name="defacc_salary">薪水</string>
     <string name="defacc_transportation">交通油錢</string>
 
-    <string name="default_pref_format_date">Y/M/D</string>
-    <string name="default_pref_format_month">digital</string>
-    <string name="default_pref_format_time">24</string>
+    <string name="default_pref_format_date" accept="M/D/Y, D/M/Y, Y/M/D">Y/M/D</string>
+    <string name="default_pref_format_month" accept="digital, short, full">digital</string>
+    <string name="default_pref_format_time" accept="12, 24">24</string>
 
     <string name="dt_main">主要桌面</string>
     <string name="dt_reports">報表桌面</string>
@@ -155,8 +155,6 @@
     <string name="label_prefs_format_month_sum">數字, 短名, 全名</string>
     <string name="label_prefs_format_time">時間格式</string>
     <string name="label_prefs_format_time_sum">12或24小時制</string>
-    <string name="label_prefs_improvider">使用暫態的資料提供方式</string>
-    <string name="label_prefs_improvider_sum">設定這個屬性，方便您試用這個軟體。任何資料將在軟體結束後消失</string>
     <string name="label_prefs_lang_contribution">提供其他語言翻譯</string>
     <string name="label_prefs_lang_contribution_sum">如果你能提供其他語言翻譯, 請寄信聯絡我幫助這個App</string>
     <string name="label_prefs_lastbackup">最後資料備份時間</string>

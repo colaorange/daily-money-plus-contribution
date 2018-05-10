@@ -36,9 +36,9 @@
     <string name="defacc_salary">Stipendio</string>
     <string name="defacc_transportation">Trasporti</string>
 
-    <string name="default_pref_format_date">M/D/Y</string>
-    <string name="default_pref_format_month">digital</string>
-    <string name="default_pref_format_time">12</string>
+    <string name="default_pref_format_date" accept="M/D/Y, D/M/Y, Y/M/D">D/M/Y</string>
+    <string name="default_pref_format_month" accept="digital, short, full">digital</string>
+    <string name="default_pref_format_time" accept="12, 24">24</string>
 
     <string name="dt_main">Principale</string>
     <string name="dt_reports">Rapporti</string>
@@ -153,8 +153,6 @@
     <string name="label_prefs_format_month_sum">Numero, Intero o Breve</string>
     <string name="label_prefs_format_time">Formato ora</string>
     <string name="label_prefs_format_time_sum">12 o 24</string>
-    <string name="label_prefs_improvider">In-memory-provider</string>
-    <string name="label_prefs_improvider_sum">Modalità di prova: i dati inseriti NON saranno salvati in modo permanente</string>
     <string name="label_prefs_lang_contribution">Aiutami a tradurre l\'app</string>
     <string name="label_prefs_lang_contribution_sum">Inviami un\'email se vuoi contribuire alle traduzioni</string>
     <string name="label_prefs_lastbackup">Data dell\'ultimo backup:</string>

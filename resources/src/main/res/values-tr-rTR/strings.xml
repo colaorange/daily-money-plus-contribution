@@ -36,9 +36,9 @@
     <string name="defacc_salary">Maaþ</string>
     <string name="defacc_transportation">Transportation</string>
 
-    <string name="default_pref_format_date">M/D/Y</string>
-    <string name="default_pref_format_month">digital</string>
-    <string name="default_pref_format_time">12</string>
+    <string name="default_pref_format_date" accept="M/D/Y, D/M/Y, Y/M/D">M/D/Y</string>
+    <string name="default_pref_format_month" accept="digital, short, full">digital</string>
+    <string name="default_pref_format_time" accept="12, 24">12</string>
 
     <string name="dt_main">Ýþlemler</string>
     <string name="dt_reports">Raporlar</string>
@@ -153,8 +153,6 @@
     <string name="label_prefs_format_month_sum">Digital, Short or Full</string>
     <string name="label_prefs_format_time">Time format</string>
     <string name="label_prefs_format_time_sum">12 or 24</string>
-    <string name="label_prefs_improvider">Bellek-saðlayýcýsý</string>
-    <string name="label_prefs_improvider_sum">Uygulama deneme amaçlý çalýstýrýldýðýndan veriler kalýcý olmayacak</string>
     <string name="label_prefs_lang_contribution">Contribute language translation</string>
     <string name="label_prefs_lang_contribution_sum">Mail me to contribute language translation</string>
     <string name="label_prefs_lastbackup">Last Data Backup Time</string>
