@@ -288,4 +288,8 @@
     <string name="title_receditor_update">Update Record</string>
     <string name="title_reclist">Record List</string>
     <string name="title_recmgnt">Record Manager</string>
+
+    <!-- 20180510-->
+    <string name="act_account_bookmark">Switch account</string>
+    <string name="act_account_swap">Swap account</string>
 </resources>
