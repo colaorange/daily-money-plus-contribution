@@ -18,7 +18,7 @@
     <string name="act_ok">OK</string>
     <string name="act_set_working_book">Escolher livro</string>
     <string name="act_stop">Parar</string>
-    <string name="act_toggle_hierarchical_report">Alternar modo hierárquico</string>
+    <string name="act_hierarchical_balance">Balanço hierárquico</string>
     <string name="act_update">Atualizar</string>
 
     <string name="defacc_bank">Banco</string>

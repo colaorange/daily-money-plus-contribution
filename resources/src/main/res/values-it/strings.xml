@@ -18,7 +18,7 @@
     <string name="act_ok">OK</string>
     <string name="act_set_working_book">Imposta come </string>
     <string name="act_stop">Interrompi</string>
-    <string name="act_toggle_hierarchical_report">Mostra/nascondi gerarchia</string>
+    <string name="act_hierarchical_balance">Visualizzazione gerarchica</string>
     <string name="act_update">Aggiorna</string>
 
     <string name="defacc_bank">Banca</string>

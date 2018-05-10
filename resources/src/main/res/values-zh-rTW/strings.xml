@@ -18,7 +18,7 @@
     <string name="act_ok">OK</string>
     <string name="act_set_working_book">設定為使用中的帳本</string>
     <string name="act_stop">停止</string>
-    <string name="act_toggle_hierarchical_report">切換階層式報表</string>
+    <string name="act_hierarchical_balance">階層式結算</string>
     <string name="act_update">更新</string>
 
     <string name="app_name" tools:ignore="ExtraTranslation">每日記帳本+</string>

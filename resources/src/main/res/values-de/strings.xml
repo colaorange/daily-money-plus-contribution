@@ -18,7 +18,7 @@
     <string name="act_ok">OK</string>
     <string name="act_set_working_book">Setze diese Datenbank als aktuell</string>
     <string name="act_stop">Stop</string>
-    <string name="act_toggle_hierarchical_report">Toggle Hierarchical</string>
+    <string name="act_hierarchical_balance">Hierarchical Balance</string>
     <string name="act_update">Aktualisieren</string>
 
     <string name="defacc_bank">Bank.A</string>

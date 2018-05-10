@@ -18,7 +18,7 @@
     <string name="act_ok">OK</string>
     <string name="act_set_working_book">Establecer el libro en uso actual</string>
     <string name="act_stop">Parar</string>
-    <string name="act_toggle_hierarchical_report">Mostrar jerarquía</string>
+    <string name="act_hierarchical_balance">Mostrar jerarquía</string>
     <string name="act_update">Actualizar</string>
 
     <string name="defacc_bank">Banco</string>

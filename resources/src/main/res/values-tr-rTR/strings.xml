@@ -18,7 +18,7 @@
     <string name="act_ok">Tamam</string>
     <string name="act_set_working_book">Kullanýlan defteri belirle</string>
     <string name="act_stop">Dur</string>
-    <string name="act_toggle_hierarchical_report">Hiyerarþik Geçiþ</string>
+    <string name="act_hierarchical_balance">Hiyerarþik denge</string>
     <string name="act_update">Güncelle</string>
 
     <string name="defacc_bank">Banka</string>

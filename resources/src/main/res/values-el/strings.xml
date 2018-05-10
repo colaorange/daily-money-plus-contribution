@@ -18,7 +18,7 @@
     <string name="act_ok">OK</string>
     <string name="act_set_working_book">Ορίστε το βιβλίο εργασίας</string>
     <string name="act_stop">Stop</string>
-    <string name="act_toggle_hierarchical_report">Toggle Hierarchical</string>
+    <string name="act_hierarchical_balance">Hierarchical Balance</string>
     <string name="act_update">Τροποποίηση</string>
 
     <string name="defacc_bank">Τράπεζα</string>

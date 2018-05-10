@@ -18,7 +18,7 @@
     <string name="act_ok">Đồng ý</string>
     <string name="act_set_working_book">Thiết đặt sách hoạt động</string>
     <string name="act_stop">Dừng lại</string>
-    <string name="act_toggle_hierarchical_report">Chuyển đổi theo thứ bậc</string>
+    <string name="act_hierarchical_balance">Chuyển đổi theo thứ bậc</string>
     <string name="act_update">Cập nhật</string>
 
     <string name="defacc_bank1">Ngân hàng</string>

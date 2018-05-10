@@ -18,7 +18,7 @@
     <string name="act_ok">OK</string>
     <string name="act_set_working_book">设定为使用中的帐本</string>
     <string name="act_stop">停止</string>
-    <string name="act_toggle_hierarchical_report">Toggle Hierarchical</string>
+    <string name="act_hierarchical_balance">阶层式结算</string>
     <string name="act_update">更新</string>
 
     <string name="app_name" tools:ignore="ExtraTranslation">每日记账本+</string>
