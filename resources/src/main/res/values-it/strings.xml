@@ -261,7 +261,7 @@
     <string name="qmsg_clear_folder">Vuoi pulire la cartella di lavoro %1$s?</string>
     <string name="qmsg_create_default">Vuoi creare i dati di default?</string>
     <string name="qmsg_delete_account">Vuoi veramente eliminare il conto %1$s?</string>
-    <string name="qmsg_delete_book">Do you want to delete book %1$s and all it\'s data?</string>
+    <string name="qmsg_delete_book">Do you want to delete book %1$s and all its data?</string>
     <string name="qmsg_delete_record">Vuoi eliminare questa voce (%1$s)?</string>
     <string name="qmsg_export_csv">Vuoi esportare le voci contabili nel file CSV? Il vecchio file, se presente, sarà sovrascritto</string>
     <string name="qmsg_import_csv">Vuoi aggiungere al registro contabile in uso le voci presenti nel file CSV?</string>

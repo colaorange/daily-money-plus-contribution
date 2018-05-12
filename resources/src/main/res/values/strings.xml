@@ -261,7 +261,7 @@
     <string name="qmsg_clear_folder">Do you want to clear working folder %1$s? all files in the folder will be removed.</string>
     <string name="qmsg_create_default">Do you want to create default data?</string>
     <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
-    <string name="qmsg_delete_book">Do you want to delete book %1$s and all it\'s data?</string>
+    <string name="qmsg_delete_book">Do you want to delete book %1$s and all its data?</string>
     <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
     <string name="qmsg_export_csv">Do you want to export CSV and replace it?</string>
     <string name="qmsg_import_csv">Do you want to import CSV and append data?</string>

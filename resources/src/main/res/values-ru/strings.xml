@@ -261,7 +261,7 @@
     <string name="qmsg_clear_folder">Вы действительно хотите очистить каталог %1$s?</string>
     <string name="qmsg_create_default">Вы хотите создать данные по умолчанию?</string>
     <string name="qmsg_delete_account">Do you want to delete account %1$s?</string>
-    <string name="qmsg_delete_book">Do you want to delete book %1$s and all it\'s data?</string>
+    <string name="qmsg_delete_book">Do you want to delete book %1$s and all its data?</string>
     <string name="qmsg_delete_record">Do you want to delete record %1$s?</string>
     <string name="qmsg_export_csv">Вы хотите экспортировать CSV и заменить его?</string>
     <string name="qmsg_import_csv">Вы хотите импортировать CSV-файлы?</string>
