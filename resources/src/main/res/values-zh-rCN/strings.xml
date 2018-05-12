@@ -295,4 +295,11 @@
     <string name="title_receditor_update">更新明细</string>
     <string name="title_reclist">明细列表</string>
     <string name="title_recmgnt">明细管理器</string>
+
+    <!-- since 20180510-->
+    <string name="act_bookmark">Bookmark</string>
+    <string name="act_swap">Swap</string>
+
+    <string name="label_usual">Usual</string>
+    <string name="label_latest_used">Latest used</string>
 </resources>

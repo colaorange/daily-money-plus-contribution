@@ -288,4 +288,11 @@
     <string name="title_receditor_update">Τροποποίηση συναλλαγής</string>
     <string name="title_reclist">Λίστα συναλλαγών</string>
     <string name="title_recmgnt">Διαχείριση συναλλαγών</string>
+
+    <!-- since 20180510-->
+    <string name="act_bookmark">Bookmark</string>
+    <string name="act_swap">Swap</string>
+
+    <string name="label_usual">Usual</string>
+    <string name="label_latest_used">Latest used</string>
 </resources>

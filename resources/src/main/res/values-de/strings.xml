@@ -288,4 +288,11 @@
     <string name="title_receditor_update">Eintrag bearbeiten</string>
     <string name="title_reclist">Eintragsliste</string>
     <string name="title_recmgnt">Einträge verwalten</string>
+
+    <!-- since 20180510-->
+    <string name="act_bookmark">Bookmark</string>
+    <string name="act_swap">Swap</string>
+
+    <string name="label_usual">Usual</string>
+    <string name="label_latest_used">Latest used</string>
 </resources>
