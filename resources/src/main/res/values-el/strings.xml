@@ -50,10 +50,10 @@
     <string name="dtitem_datamain">Αρχεία</string>
     <string name="dtitem_prefs">Επιλογές</string>
     <string name="dtitem_reclist">Συναλλαγές</string>
-    <string name="dtitem_reclist_day">Ημερήσια λίστα</string>
-    <string name="dtitem_reclist_month">Μηνιαία λίστα</string>
-    <string name="dtitem_reclist_week">Εβδομ. λίστα</string>
-    <string name="dtitem_reclist_year">Ετήσια λίστα</string>
+    <string name="label_daily_list">Ημερήσια λίστα</string>
+    <string name="label_monthly_list">Μηνιαία λίστα</string>
+    <string name="label_weekly_list">Εβδομ. λίστα</string>
+    <string name="label_yearly_list">Ετήσια λίστα</string>
     <string name="dtitem_report_cumulative_balance">Αθροιστικό Υπόλοιπο</string>
     <string name="dtitem_report_monthly_balance">Μηνιαίο ισοζύγιο</string>
     <string name="dtitem_report_search">Αναζήτηση</string>

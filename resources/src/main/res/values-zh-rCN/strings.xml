@@ -52,10 +52,10 @@
     <string name="dtitem_datamain">资料维护</string>
     <string name="dtitem_prefs">喜好设定</string>
     <string name="dtitem_reclist">明细列表</string>
-    <string name="dtitem_reclist_day">日明細列表</string>
-    <string name="dtitem_reclist_month">月明细列表</string>
-    <string name="dtitem_reclist_week">周明细列表</string>
-    <string name="dtitem_reclist_year">年明细列表</string>
+    <string name="label_daily_list">日明細列表</string>
+    <string name="label_monthly_list">月明细列表</string>
+    <string name="label_weekly_list">周明细列表</string>
+    <string name="label_yearly_list">年明细列表</string>
     <string name="dtitem_report_cumulative_balance">累计结算</string>
     <string name="dtitem_report_monthly_balance">月份结算</string>
     <string name="dtitem_report_search">搜尋</string>

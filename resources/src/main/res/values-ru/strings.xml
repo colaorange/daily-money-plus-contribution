@@ -50,10 +50,10 @@
     <string name="dtitem_datamain">Данные</string>
     <string name="dtitem_prefs">Настройки</string>
     <string name="dtitem_reclist">Детали</string>
-    <string name="dtitem_reclist_day">Ежедневный список</string>
-    <string name="dtitem_reclist_month">Ежемесячный список</string>
-    <string name="dtitem_reclist_week">Еженедельный список</string>
-    <string name="dtitem_reclist_year">Ежегодный список</string>
+    <string name="label_daily_list">Ежедневный список</string>
+    <string name="label_monthly_list">Ежемесячный список</string>
+    <string name="label_weekly_list">Еженедельный список</string>
+    <string name="label_yearly_list">Ежегодный список</string>
     <string name="dtitem_report_cumulative_balance">Совокупный баланс</string>
     <string name="dtitem_report_monthly_balance">Ежемесячный баланс</string>
     <string name="dtitem_report_search">Search</string>

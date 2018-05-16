@@ -50,10 +50,10 @@
     <string name="dtitem_datamain">Dati</string>
     <string name="dtitem_prefs">Preferenze</string>
     <string name="dtitem_reclist">Voci</string>
-    <string name="dtitem_reclist_day">Lista giornaliera</string>
-    <string name="dtitem_reclist_month">Lista mensile</string>
-    <string name="dtitem_reclist_week">Lista settimanale</string>
-    <string name="dtitem_reclist_year">Lista annuale</string>
+    <string name="label_daily_list">Lista giornaliera</string>
+    <string name="label_monthly_list">Lista mensile</string>
+    <string name="label_weekly_list">Lista settimanale</string>
+    <string name="label_yearly_list">Lista annuale</string>
     <string name="dtitem_report_cumulative_balance">Bilancio cumulativo</string>
     <string name="dtitem_report_monthly_balance">Bilancio mensile</string>
     <string name="dtitem_report_search">Cerca</string>

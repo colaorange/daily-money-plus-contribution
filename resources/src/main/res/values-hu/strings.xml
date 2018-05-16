@@ -50,10 +50,10 @@
     <string name="dtitem_datamain">Adatok</string>
     <string name="dtitem_prefs">Beállítások</string>
     <string name="dtitem_reclist">Tételek</string>
-    <string name="dtitem_reclist_day">Napi lista</string>
-    <string name="dtitem_reclist_month">Havi lista</string>
-    <string name="dtitem_reclist_week">Heti lista</string>
-    <string name="dtitem_reclist_year">Éves lista</string>
+    <string name="label_daily_list">Napi lista</string>
+    <string name="label_monthly_list">Havi lista</string>
+    <string name="label_weekly_list">Heti lista</string>
+    <string name="label_yearly_list">Éves lista</string>
     <string name="dtitem_report_cumulative_balance">Összesített egyenleg</string>
     <string name="dtitem_report_monthly_balance">Havi egyenleg</string>
     <string name="dtitem_report_search">Search</string>

@@ -50,10 +50,10 @@
     <string name="dtitem_datamain">Veriler</string>
     <string name="dtitem_prefs">Tercihler</string>
     <string name="dtitem_reclist">Ayrýntýlar</string>
-    <string name="dtitem_reclist_day">Günlük Liste</string>
-    <string name="dtitem_reclist_month">Aylýk Liste</string>
-    <string name="dtitem_reclist_week">Haftalýk Liste</string>
-    <string name="dtitem_reclist_year">Yýllýk Liste</string>
+    <string name="label_daily_list">Günlük Liste</string>
+    <string name="label_monthly_list">Aylýk Liste</string>
+    <string name="label_weekly_list">Haftalýk Liste</string>
+    <string name="label_yearly_list">Yýllýk Liste</string>
     <string name="dtitem_report_cumulative_balance">Kümülativ Denge</string>
     <string name="dtitem_report_monthly_balance">Aylýk denge</string>
     <string name="dtitem_report_search">Search</string>
