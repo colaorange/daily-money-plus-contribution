@@ -246,7 +246,7 @@
     <string name="msg_firsttime_use_hint">Üdvözöl a Daily Money</string>
     <string name="msg_folder_cleared">%1$s munkakönyvtár kiürítve</string>
     <string name="msg_no_csv">Nincs CSV fájl</string>
-    <string name="msg_no_data">There is no data to backup/export</string>
+    <string name="msg_no_data_to_backup">There is no data to backup/export</string>
     <string name="msg_record_created">Tétel rögzítve</string>
     <string name="msg_record_deleted">Tétel törölve</string>
     <string name="msg_record_updated">Tétel frissítve</string>
@@ -295,4 +295,14 @@
 
     <string name="label_usual">Usual</string>
     <string name="label_latest_used">Latest used</string>
+
+    <!--since 20150514 -->
+    <string name="act_prev">Previous</string>
+    <string name="act_next">Next</string>
+    <string name="act_go_today">Go today</string>
+    <string name="act_change_mode">Change mode</string>
+    <string name="act_operations">Operations</string>
+
+    <string name="msg_no_data">No data</string>
+
 </resources>

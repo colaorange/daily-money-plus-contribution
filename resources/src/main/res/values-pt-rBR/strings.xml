@@ -246,7 +246,7 @@
     <string name="msg_firsttime_use_hint">Bem vindo ao Daily Money</string>
     <string name="msg_folder_cleared">Todos dados de %1$s foram apagados</string>
     <string name="msg_no_csv">Não existe arquivos CSV</string>
-    <string name="msg_no_data">There is no data to backup/export</string>
+    <string name="msg_no_data_to_backup">There is no data to backup/export</string>
     <string name="msg_record_created">Detalhe foi criado</string>
     <string name="msg_record_deleted">Detalhe foi apagado</string>
     <string name="msg_record_updated">Detalhe foi atualizado</string>
@@ -295,4 +295,14 @@
 
     <string name="label_usual">Usual</string>
     <string name="label_latest_used">Latest used</string>
+
+    <!--since 20150514 -->
+    <string name="act_prev">Previous</string>
+    <string name="act_next">Next</string>
+    <string name="act_go_today">Go today</string>
+    <string name="act_change_mode">Change mode</string>
+    <string name="act_operations">Operations</string>
+
+    <string name="msg_no_data">No data</string>
+
 </resources>

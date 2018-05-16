@@ -246,7 +246,7 @@
     <string name="msg_firsttime_use_hint">Bienvenido a Daily Money</string>
     <string name="msg_folder_cleared">La carpeta de trabajo %1$s se ha limpiado</string>
     <string name="msg_no_csv">No hay archivos CSV</string>
-    <string name="msg_no_data">There is no data to backup/export</string>
+    <string name="msg_no_data_to_backup">There is no data to backup/export</string>
     <string name="msg_record_created">El movimiento se ha creado</string>
     <string name="msg_record_deleted">El movimiento se ha eliminado</string>
     <string name="msg_record_updated">El movimiento se ha actualizado</string>
@@ -295,4 +295,14 @@
 
     <string name="label_usual">Usual</string>
     <string name="label_latest_used">Latest used</string>
+
+    <!--since 20150514 -->
+    <string name="act_prev">Previous</string>
+    <string name="act_next">Next</string>
+    <string name="act_go_today">Go today</string>
+    <string name="act_change_mode">Change mode</string>
+    <string name="act_operations">Operations</string>
+
+    <string name="msg_no_data">No data</string>
+
 </resources>

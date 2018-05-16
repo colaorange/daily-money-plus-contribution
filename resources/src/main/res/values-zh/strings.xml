@@ -248,7 +248,7 @@
     <string name="msg_firsttime_use_hint">歡迎使用每日記帳本</string>
     <string name="msg_folder_cleared">工作目錄 %1$s 已經被清除</string>
     <string name="msg_no_csv">沒有CSV檔案</string>
-    <string name="msg_no_data">沒有資料可供備份/匯出</string>
+    <string name="msg_no_data_to_backup">沒有資料可供備份/匯出</string>
     <string name="msg_record_created">明細已被建立</string>
     <string name="msg_record_deleted">明細已被刪除</string>
     <string name="msg_record_updated">明細已被更新</string>
@@ -302,4 +302,13 @@
 
     <string name="label_usual">通常</string>
     <string name="label_latest_used">最後使用</string>
+
+    <!--since 20150514 -->
+    <string name="act_prev">前一項</string>
+    <string name="act_next">後一項</string>
+    <string name="act_go_today">到今天</string>
+    <string name="act_change_mode">變更模式</string>
+    <string name="act_operations">操作</string>
+
+    <string name="msg_no_data">沒有資料</string>
 </resources>
