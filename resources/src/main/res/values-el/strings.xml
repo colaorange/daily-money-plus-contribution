@@ -299,7 +299,7 @@
     <!--since 20150514 -->
     <string name="act_prev">Previous</string>
     <string name="act_next">Next</string>
-    <string name="act_go_today">Go today</string>
+    <string name="act_go_today">Go to today</string>
     <string name="act_change_mode">Change mode</string>
     <string name="act_operations">Operations</string>
 
