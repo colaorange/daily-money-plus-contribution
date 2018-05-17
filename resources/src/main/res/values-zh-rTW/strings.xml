@@ -308,8 +308,11 @@
     <string name="act_next">後一項</string>
     <string name="act_go_today">到今天</string>
     <string name="act_change_mode">變更模式</string>
-    <string name="act_operations">操作</string>
+    <string name="act_operations">更多操作</string>
 
     <string name="msg_no_data">沒有資料</string>
+
+    <!-- since 20180517 -->
+    <string name="act_run">執行</string>
 
 </resources>

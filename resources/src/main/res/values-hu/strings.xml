@@ -305,4 +305,7 @@
 
     <string name="msg_no_data">No data</string>
 
+    <!-- since 20180517 -->
+    <string name="act_run">Run</string>
+
 </resources>

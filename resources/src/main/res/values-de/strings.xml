@@ -290,19 +290,22 @@
     <string name="title_recmgnt">Einträge verwalten</string>
 
     <!-- since 20180510-->
-    <string name="act_bookmark">Bookmark</string>
-    <string name="act_swap">Swap</string>
+    <string name="act_bookmark">Lesezeichen setzen</string>
+    <string name="act_swap">Wechseln</string>
 
-    <string name="label_usual">Usual</string>
-    <string name="label_latest_used">Latest used</string>
+    <string name="label_usual">Häufig verwendet</string>
+    <string name="label_latest_used">Zuletzt verwendet</string>
 
     <!--since 20150514 -->
-    <string name="act_prev">Previous</string>
-    <string name="act_next">Next</string>
-    <string name="act_go_today">Go today</string>
-    <string name="act_change_mode">Change mode</string>
-    <string name="act_operations">Operations</string>
+    <string name="act_prev">Vorherige</string>
+    <string name="act_next">Nächste</string>
+    <string name="act_go_today">zu Heute wechseln</string>
+    <string name="act_change_mode">Modus ändern</string>
+    <string name="act_operations">Aktionen</string>
 
-    <string name="msg_no_data">No data</string>
+    <string name="msg_no_data">Keine Daten vorhanden</string>
+
+    <!-- since 20180517 -->
+    <string name="act_run">Ausführen</string>
 
 </resources>

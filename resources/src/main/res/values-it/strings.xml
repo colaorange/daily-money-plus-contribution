@@ -125,8 +125,8 @@
     <string name="label_prefcat_display">Display</string>
     <string name="label_prefcat_others">Altri</string>
     <string name="label_prefcat_security">Security</string>
-    <string name="label_prefcat_startday_year">Start day of a year</string>
-    <string name="label_prefcat_startday_year_sum">Set the start day of a year(month and month-day)</string>
+    <string name="label_prefcat_startday_year">Inizio dell\'anno contabile</string>
+    <string name="label_prefcat_startday_year_sum">Imposta il giorno di inizio dell\'anno (mese e giorno)</string>
     <string name="label_prefs_allow_analytics">Invia dati a Google Analytics</string>
     <string name="label_prefs_allow_analytics_sum">L\'invio dei dati di utilizzo aiuta a migliorare l\'applicazione (non verranno inviati altri dati)</string>
     <string name="label_prefs_auto_backup">Backup automatico</string>
@@ -230,7 +230,7 @@
     <string name="msg_book_created">Il registro contabile %1$s è stato creato</string>
     <string name="msg_book_deleted">Il registro contabile %1$s è stato eliminato</string>
     <string name="msg_book_updated">Il registro contabile %1$s è stato aggiornato</string>
-    <string name="msg_busy">Applicazione occupata, attendere qualche secondo..</string>
+    <string name="msg_busy">Applicazione occupata, attendere qualche secondo...</string>
     <string name="msg_cannot_delete_default_book">Il registro contabile predefinito non può essere eliminato</string>
     <string name="msg_cannot_delete_working_book">Il registro contabile in uso non può essere eliminato: cambia il registro in uso e riprova</string>
     <string name="msg_created_account">Conti creati: %1$s</string>
@@ -240,7 +240,7 @@
     <string name="msg_db_backuped">Backup completato: creati %1$s file nella cartella %2$s</string>
     <string name="msg_db_restored">Ripristino completato: recuperati %1$s file dalla cartella %2$s</string>
     <string name="msg_default_created">Dati di default ricreati</string>
-    <string name="msg_error">Errore : %1$s</string>
+    <string name="msg_error">Errore: %1$s</string>
     <string name="msg_field_empty">%1$s è vuoto</string>
     <string name="msg_field_zero">%1$s è zero</string>
     <string name="msg_firsttime_use_hint">Benvenuto in Daily Money</string>
@@ -256,12 +256,12 @@
     <string name="msg_share_csv_title">Daily Money %1$s</string>
     <string name="msg_working_folder_no_access">Impossibile accedere alla cartella di lavoro %1$s. Fornisci all\'app l\'autorizzazione per l\'archiviazione nelle impostazioni di sistema</string>
     <string name="msg_wrong_password">Password Errata!</string>
-    <string name="msg_wrong_password_validation">The 2nd password has to be the same as the first</string>
+    <string name="msg_wrong_password_validation">Le due password devono coincidere</string>
 
     <string name="qmsg_clear_folder">Vuoi pulire la cartella di lavoro %1$s?</string>
     <string name="qmsg_create_default">Vuoi creare i dati di default?</string>
     <string name="qmsg_delete_account">Vuoi veramente eliminare il conto %1$s?</string>
-    <string name="qmsg_delete_book">Do you want to delete book %1$s and all its data?</string>
+    <string name="qmsg_delete_book">Vuoi veramente eliminare il registro %1$s e tutti i dati contenuti?</string>
     <string name="qmsg_delete_record">Vuoi eliminare questa voce (%1$s)?</string>
     <string name="qmsg_export_csv">Vuoi esportare le voci contabili nel file CSV? Il vecchio file, se presente, sarà sovrascritto</string>
     <string name="qmsg_import_csv">Vuoi aggiungere al registro contabile in uso le voci presenti nel file CSV?</string>
@@ -290,19 +290,22 @@
     <string name="title_recmgnt">Gestione voci</string>
 
     <!-- since 20180510-->
-    <string name="act_bookmark">Bookmark</string>
-    <string name="act_swap">Swap</string>
+    <string name="act_bookmark">Preferito</string>
+    <string name="act_swap">Inverti</string>
 
     <string name="label_usual">Usual</string>
-    <string name="label_latest_used">Latest used</string>
+    <string name="label_latest_used">Ultimo utilizzato</string>
 
     <!--since 20150514 -->
-    <string name="act_prev">Previous</string>
-    <string name="act_next">Next</string>
-    <string name="act_go_today">Go today</string>
-    <string name="act_change_mode">Change mode</string>
-    <string name="act_operations">Operations</string>
+    <string name="act_prev">Precedente</string> <!-- use "Prec." if too long -->
+    <string name="act_next">Successivo</string> <!-- use "Succ." if too long -->
+    <string name="act_go_today">Vai a oggi</string>
+    <string name="act_change_mode">Cambia modalità</string>
+    <string name="act_operations">Operazioni</string>
 
-    <string name="msg_no_data">No data</string>
+    <string name="msg_no_data">Nessun dato</string>
+
+    <!-- since 20180517 -->
+    <string name="act_run">Eseguire</string>
 
 </resources>
