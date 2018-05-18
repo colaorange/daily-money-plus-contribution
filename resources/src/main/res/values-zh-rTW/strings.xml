@@ -156,7 +156,7 @@
     <string name="label_prefs_format_time">時間格式</string>
     <string name="label_prefs_format_time_sum">12或24小時制</string>
     <string name="label_prefs_lang_contribution">提供其他語言翻譯</string>
-    <string name="label_prefs_lang_contribution_sum">如果你能提供其他語言翻譯, 請寄信聯絡我幫助這個App</string>
+    <string name="label_prefs_lang_contribution_sum">如果您能提供其他語言翻譯, 請寄信聯絡我幫助這個App</string>
     <string name="label_prefs_lastbackup">最後資料備份時間</string>
     <string name="label_prefs_like">按讚</string>
     <string name="label_prefs_like_sum">到每日記帳本+按讚, 簽到一下或提問</string>
@@ -267,14 +267,14 @@
 
     <string name="qmsg_clear_folder">您想要清除工作目錄%1$s嗎?所有的目錄內的檔案將被移除</string>
     <string name="qmsg_create_default">您想要建立預設的資料(帳戶)嗎?</string>
-    <string name="qmsg_delete_account">你想要刪除帳戶 %1$s?</string>
-    <string name="qmsg_delete_book">你想要刪除帳本 %1$s 及其包含的帳戶及明細資料嗎?</string>
-    <string name="qmsg_delete_record">你想要刪除明細 %1$s?</string>
+    <string name="qmsg_delete_account">您想要刪除帳戶 %1$s?</string>
+    <string name="qmsg_delete_book">您想要刪除帳本 %1$s 及其包含的帳戶及明細資料嗎?</string>
+    <string name="qmsg_delete_record">您想要刪除明細 %1$s?</string>
     <string name="qmsg_export_csv">您想要匯出資料並覆蓋CSV檔嗎?</string>
     <string name="qmsg_import_csv">您想要匯入CSV檔並增加資料嗎?</string>
     <string name="qmsg_reset">您想要重置資料嗎?</string>
-    <string name="qmsg_reset_working_book">警告: 使用中的帳本將被清除, 你仍然要重置嗎?</string>
-    <string name="qmsg_restore_data">警告: 現行資料將被取代, 你依然想要還原資料嗎?</string>
+    <string name="qmsg_reset_working_book">警告: 使用中的帳本將被清除, 您仍然要重置嗎?</string>
+    <string name="qmsg_restore_data">警告: 現行資料將被取代, 您依然想要還原資料嗎?</string>
     <string name="qmsg_share_csv">分享那些CSV檔?</string>
 
     <string name="search_reset">重設</string>
@@ -314,5 +314,12 @@
 
     <!-- since 20180517 -->
     <string name="act_run">執行</string>
+    <!-- since 20180518 -->
+    <string name="label_template">樣版</string>
+    <string name="act_set_template">設定樣版</string>
+    <string name="qmsg_set_tempalte">設定目前的明細為樣版</string>
+    <string name="act_clear_templates">清除所有樣版</string>
+    <string name="msg_common_finished">\' %1$s\'被完成了</string>
+    <string name="qmsg_common_confirm">您想要執行\'%1$s\'嗎?</string>
 
 </resources>

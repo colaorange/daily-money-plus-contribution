@@ -307,5 +307,12 @@
 
     <!-- since 20180517 -->
     <string name="act_run">Run</string>
+    <!-- since 20180518 -->
+    <string name="label_template">Template</string>
+    <string name="act_set_template">Set template</string>
+    <string name="qmsg_set_tempalte">Set current record as a template</string>
+    <string name="act_clear_templates">Clear templates</string>
+    <string name="msg_common_finished">\' %1$s\' was finished</string>
+    <string name="qmsg_common_confirm">Do you want to do \'%1$s\'?</string>
 
 </resources>
