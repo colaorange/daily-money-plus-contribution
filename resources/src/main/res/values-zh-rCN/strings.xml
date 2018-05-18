@@ -322,4 +322,5 @@
     <string name="msg_common_finished">\' %1$s\' was finished</string>
     <string name="qmsg_common_confirm">Do you want to do \'%1$s\'?</string>
 
+    <string name="act_apply">Apply</string>
 </resources>

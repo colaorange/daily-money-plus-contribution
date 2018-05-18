@@ -322,4 +322,5 @@
     <string name="msg_common_finished">\' %1$s\'被完成了</string>
     <string name="qmsg_common_confirm">您想要執行\'%1$s\'嗎?</string>
 
+    <string name="act_apply">套用</string>
 </resources>
