@@ -317,7 +317,7 @@
     <!-- since 20180518 -->
     <string name="label_template">樣版</string>
     <string name="act_set_template">設定樣版</string>
-    <string name="qmsg_set_tempalte">設定目前的明細為樣版</string>
+    <string name="qmsg_set_tempalte">設定為樣版</string>
     <string name="act_clear_templates">清除所有樣版</string>
     <string name="msg_common_finished">\' %1$s\'被完成了</string>
     <string name="qmsg_common_confirm">您想要執行\'%1$s\'嗎?</string>
