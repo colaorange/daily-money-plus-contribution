@@ -2,16 +2,16 @@
     Daily Money+
 
 # Description:
-    Free, No Ad, daily income, expense, asset and liability balance tracker
+    Applicazione gratuita e senza pubblicità per tenere traccia di spese, guadagni, debiti e altre entrate e uscite finanziarie di tutti i giorni
 
 # Detail:
 ```
-*↓↓↓Read few notes↓↓↓*
-*Please post issues on Facebook page, Google Play is hard to interact*
-*Do you know there are option menus on menu button or long-pressing an item*
-*Vote stars ★★★★★ if you like this application.*
+*↓↓↓ Leggi queste note ↓↓↓*
+*Per segnalare problemi utilizza la pagina Facebook, è difficile comunicare sul Play Store*
+*Tocca  una volta una voce contabile per mostrare le opzioni in alto (modifica, copia, elimina), due volte per modificarla*
+*Vota cinque stelle ★★★★★ se ti piace questa applicazione.*
 ==
-The original Daily Money is deprecated, It was migrated to this App(+), I will do some enhancement in 2018 at least.
+L'app originale Daily Money non verrà più aggiornata ed è stata sostituita da questa app (Daily Money+), che verrà aggiornata nel corso del 2018.
 ==
 
 This is a simple & easy , free & no Ads financial application.

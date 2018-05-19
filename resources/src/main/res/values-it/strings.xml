@@ -309,11 +309,11 @@
     <string name="act_run">Eseguire</string>
     <!-- since 20180518 -->
     <string name="label_template">Template</string>
-    <string name="act_set_template">Set template</string>
-    <string name="qmsg_set_tempalte">Set it as a template</string>
-    <string name="act_clear_templates">Clear templates</string>
-    <string name="msg_common_finished">\' %1$s\' was finished</string>
-    <string name="qmsg_common_confirm">Do you want to do \'%1$s\'?</string>
+    <string name="act_set_template">Selezionare template</string>
+    <string name="qmsg_set_tempalte">Impostare come template</string>
+    <string name="act_clear_templates">Cancellare i template</string>
+    <string name="msg_common_finished">Ho finito di %1$s</string>
+    <string name="qmsg_common_confirm">Desideri %1$s?</string>
 
-    <string name="act_apply">Apply</string>
+    <string name="act_apply">Applica</string>
 </resources>
