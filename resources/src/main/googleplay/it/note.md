@@ -2,13 +2,12 @@
     Daily Money+
 
 # Description:
-    Applicazione gratuita e senza pubblicità per tenere traccia di spese, guadagni, debiti e altre entrate e uscite finanziarie di tutti i giorni
+    App gratuita e senza pubblicità per tracciare entrate e uscite finanziarie
 
 # Detail:
 ```
 *↓↓↓ Leggi queste note ↓↓↓*
 *Per segnalare problemi utilizza la pagina Facebook, è difficile comunicare sul Play Store*
-*Tocca  una volta una voce contabile per mostrare le opzioni in alto (modifica, copia, elimina), due volte per modificarla*
 *Vota cinque stelle ★★★★★ se ti piace questa applicazione.*
 ==
 L'app originale Daily Money non verrà più aggiornata ed è stata sostituita da questa app (Daily Money+), che verrà aggiornata nel corso del 2018.

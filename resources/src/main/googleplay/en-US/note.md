@@ -2,13 +2,12 @@
     Daily Money+
 
 # Description:
-    Free, No Ad, daily income, expense, asset and liability balance tracker
+    Free, No Ads, daily income, expense, asset and liability balance tracker
 
 # Detail:
 ```
 *↓↓↓Read few notes↓↓↓*
 *Please post issues on Facebook page, Google Play is hard to interact*
-*Do you know there are option menus on menu button or long-pressing an item*
 *Vote stars ★★★★★ if you like this application.*
 ==
 The original Daily Money is deprecated, It was migrated to this App(+), I will do some enhancement in 2018 at least.
