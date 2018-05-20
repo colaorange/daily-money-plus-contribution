@@ -109,7 +109,7 @@
     <string name="label_initial_value">Kezdeti érték</string>
     <string name="label_liability">Tartozás</string>
     <string name="label_money">Pénz</string>
-    <string name="label_month_details">%1$s (%2$s rekord)</string>
+    <string name="label_month_records">%1$s (%2$s rekord)</string>
     <string name="label_monthly_expense">Havi : %1$s</string>
     <string name="label_name">Név</string>
     <string name="label_note">Megjegyzés</string>
@@ -234,7 +234,7 @@
     <string name="msg_cannot_delete_default_book">Az alap könyvet nem törölheted</string>
     <string name="msg_cannot_delete_working_book">Nem törölheted az aktív könyvet</string>
     <string name="msg_created_account">%1$s számla létrehozva</string>
-    <string name="msg_created_detail">%1$s tétel hozzáadva</string>
+    <string name="msg_created_record">%1$s tétel hozzáadva</string>
     <string name="msg_csv_exported">Adatok (%1$s) exportálva ide: %2$s</string>
     <string name="msg_csv_imported">Adatok importálva innen: %2$s (%1$s)</string>
     <string name="msg_db_backuped">%1$s files backup to %2$s</string>

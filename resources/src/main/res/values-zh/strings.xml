@@ -111,7 +111,7 @@
     <string name="label_initial_value">初始值</string>
     <string name="label_liability">債務</string>
     <string name="label_money">金錢</string>
-    <string name="label_month_details">%1$s (%2$s筆)</string>
+    <string name="label_month_records">%1$s (%2$s筆)</string>
     <string name="label_monthly_expense">本月支出 : %1$s</string>
     <string name="label_name">名稱</string>
     <string name="label_note">備註</string>
@@ -236,7 +236,7 @@
     <string name="msg_cannot_delete_default_book">不允許刪除預設帳本</string>
     <string name="msg_cannot_delete_working_book">不允許刪除使用中的帳本</string>
     <string name="msg_created_account">一共建立了 %1$s 個帳戶</string>
-    <string name="msg_created_detail">一共建立了 %1$s 筆明細</string>
+    <string name="msg_created_record">一共建立了 %1$s 筆明細</string>
     <string name="msg_csv_exported">資料(%1$s)全部被匯出到 %2$s</string>
     <string name="msg_csv_imported">資料從 %2$s (%1$s)被匯入</string>
     <string name="msg_db_backuped">%1$s 個檔案備份至 %2$s</string>

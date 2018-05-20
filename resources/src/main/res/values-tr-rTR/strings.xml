@@ -109,7 +109,7 @@
     <string name="label_initial_value">Ýlk</string>
     <string name="label_liability">Borç</string>
     <string name="label_money">Para</string>
-    <string name="label_month_details">%1$s (%2$s records)</string>
+    <string name="label_month_records">%1$s (%2$s records)</string>
     <string name="label_monthly_expense">Aylýk : %1$s</string>
     <string name="label_name">Ýsim</string>
     <string name="label_note">Note</string>
@@ -234,7 +234,7 @@
     <string name="msg_cannot_delete_default_book">Varsayýlan defter silinemiyor</string>
     <string name="msg_cannot_delete_working_book">Kullanýlan defter silinemiyor</string>
     <string name="msg_created_account">Oluþturuldu %1$s hesaplar</string>
-    <string name="msg_created_detail">Oluþturuldu %1$s ayrýntýlar</string>
+    <string name="msg_created_record">Oluþturuldu %1$s ayrýntýlar</string>
     <string name="msg_csv_exported">Veri (%1$s) Tümü þuraya aktarýldý %2$s, </string>
     <string name="msg_csv_imported">Veri þuradan alýndý %2$s (%1$s)</string>
     <string name="msg_db_backuped">%1$s files backup to %2$s</string>

@@ -109,7 +109,7 @@
     <string name="label_initial_value">Inicial</string>
     <string name="label_liability">Empréstimos</string>
     <string name="label_money">Dinheiro</string>
-    <string name="label_month_details">%1$s (%2$s records)</string>
+    <string name="label_month_records">%1$s (%2$s records)</string>
     <string name="label_monthly_expense">Mensalmente : %1$s</string>
     <string name="label_name">Nome</string>
     <string name="label_note">Nota</string>
@@ -234,7 +234,7 @@
     <string name="msg_cannot_delete_default_book">Impossível apagar livro padrão</string>
     <string name="msg_cannot_delete_working_book">Impossível apagar livro em uso</string>
     <string name="msg_created_account">Contas %1$s criadas</string>
-    <string name="msg_created_detail">Detalhes %1$s criados</string>
+    <string name="msg_created_record">Detalhes %1$s criados</string>
     <string name="msg_csv_exported">Dados (%1$s) exportados para %2$s, </string>
     <string name="msg_csv_imported">Dados importandos de %2$s (%1$s)</string>
     <string name="msg_db_backuped">%1$s files backup to %2$s</string>

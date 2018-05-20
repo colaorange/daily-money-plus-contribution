@@ -109,7 +109,7 @@
     <string name="label_initial_value">Изначально</string>
     <string name="label_liability">Обязательство</string>
     <string name="label_money">Деньги</string>
-    <string name="label_month_details">%1$s (%2$s записей)</string>
+    <string name="label_month_records">%1$s (%2$s записей)</string>
     <string name="label_monthly_expense">Ежемесячно : %1$s</string>
     <string name="label_name">Name</string>
     <string name="label_note">Примечание</string>
@@ -234,7 +234,7 @@
     <string name="msg_cannot_delete_default_book">Cannot delete default book</string>
     <string name="msg_cannot_delete_working_book">Cannot delete working book</string>
     <string name="msg_created_account">Создано %1$s счетов</string>
-    <string name="msg_created_detail">Создано %1$s описаний</string>
+    <string name="msg_created_record">Создано %1$s описаний</string>
     <string name="msg_csv_exported">Данные (%1$s) были экспортированы в %2$s, </string>
     <string name="msg_csv_imported">Данные были импортированы из %2$s (%1$s)</string>
     <string name="msg_db_backuped">%1$s files backup to %2$s</string>

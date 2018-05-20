@@ -109,7 +109,7 @@
     <string name="label_initial_value">Kontostand zu Beginn</string>
     <string name="label_liability">Schulden</string>
     <string name="label_money">Geld</string>
-    <string name="label_month_details">%1$s (%2$s Einträge)</string>
+    <string name="label_month_records">%1$s (%2$s Einträge)</string>
     <string name="label_monthly_expense">Monatlich : %1$s</string>
     <string name="label_name">Name</string>
     <string name="label_note">Bemerkung</string>
@@ -234,7 +234,7 @@
     <string name="msg_cannot_delete_default_book">Die Standard-Datenbank kann nicht gelöscht werden</string>
     <string name="msg_cannot_delete_working_book">Die aktuelle Datenbank kann nicht gelöscht werden</string>
     <string name="msg_created_account">%1$s Konten wurden erstellt</string>
-    <string name="msg_created_detail">%1$s Einträge wurden erstellt</string>
+    <string name="msg_created_record">%1$s Einträge wurden erstellt</string>
     <string name="msg_csv_exported">Daten (%1$s) wurden nach %2$s exportiert, </string>
     <string name="msg_csv_imported">Daten wurden importiert %2$s (%1$s)</string>
     <string name="msg_db_backuped">%1$s Daten als Backup gespeichert in %2$s</string>

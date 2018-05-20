@@ -109,7 +109,7 @@
     <string name="label_initial_value">Inicial</string>
     <string name="label_liability">Deudas</string>
     <string name="label_money">Cantidad</string>
-    <string name="label_month_details">%1$s (%2$s registros)</string>
+    <string name="label_month_records">%1$s (%2$s registros)</string>
     <string name="label_monthly_expense">Mensual : %1$s</string>
     <string name="label_name">Nombre</string>
     <string name="label_note">Nota</string>
@@ -234,7 +234,7 @@
     <string name="msg_cannot_delete_default_book">No se puede eliminar el libro por defecto</string>
     <string name="msg_cannot_delete_working_book">No se puede eliminar el libro en uso</string>
     <string name="msg_created_account">Creadas %1$s cuentas</string>
-    <string name="msg_created_detail">Creados %1$s movimientos</string>
+    <string name="msg_created_record">Creados %1$s movimientos</string>
     <string name="msg_csv_exported">Los datos (%1$s) se han exportado a %2$s, </string>
     <string name="msg_csv_imported">Los datos se han importado desde %2$s (%1$s)</string>
     <string name="msg_db_backuped">%1$s files backup to %2$s</string>

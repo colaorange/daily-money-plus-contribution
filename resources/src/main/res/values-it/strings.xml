@@ -109,7 +109,7 @@
     <string name="label_initial_value">Iniziale</string>
     <string name="label_liability">Debiti</string>
     <string name="label_money">Soldi</string>
-    <string name="label_month_details">%1$s (%2$s voci)</string>
+    <string name="label_month_records">%1$s (%2$s voci)</string>
     <string name="label_monthly_expense">Mensili: %1$s</string>
     <string name="label_name">Nome</string>
     <string name="label_note">Note</string>
@@ -234,7 +234,7 @@
     <string name="msg_cannot_delete_default_book">Il registro contabile predefinito non può essere eliminato</string>
     <string name="msg_cannot_delete_working_book">Il registro contabile in uso non può essere eliminato: cambia il registro in uso e riprova</string>
     <string name="msg_created_account">Conti creati: %1$s</string>
-    <string name="msg_created_detail">Voci create: %1$s</string>
+    <string name="msg_created_record">Voci create: %1$s</string>
     <string name="msg_csv_exported">I dati (%1$s) sono stati esportati nel formato .csv nella cartella %2$s</string>
     <string name="msg_csv_imported">I dati (%1$s) sono stati importati dalla cartella %2$s</string>
     <string name="msg_db_backuped">Backup completato: creati %1$s file nella cartella %2$s</string>

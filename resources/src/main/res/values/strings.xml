@@ -66,7 +66,7 @@
     <string name="label_alert">Alert</string>
     <string name="label_all">All</string>
     <string name="label_all_books">All books</string>
-    <string name="label_all_records">All details (%1$s records)</string>
+    <string name="label_all_records">All records (%1$s records)</string>
     <string name="label_asset">Asset</string>
     <string name="label_backup_data">Backup Data</string>
     <string name="label_balance">Balance</string>
@@ -109,7 +109,7 @@
     <string name="label_initial_value">Initial</string>
     <string name="label_liability">Liability</string>
     <string name="label_money">Money</string>
-    <string name="label_month_details">%1$s (%2$s records)</string>
+    <string name="label_month_records">%1$s (%2$s records)</string>
     <string name="label_monthly_expense">Monthly : %1$s</string>
     <string name="label_name">Name</string>
     <string name="label_note">Note</string>
@@ -234,7 +234,7 @@
     <string name="msg_cannot_delete_default_book">Cannot delete default book</string>
     <string name="msg_cannot_delete_working_book">Cannot delete working book</string>
     <string name="msg_created_account">Created %1$s accounts</string>
-    <string name="msg_created_detail">Created %1$s details</string>
+    <string name="msg_created_record">Created %1$s record</string>
     <string name="msg_csv_exported">Data (%1$s) was all exported to %2$s, </string>
     <string name="msg_csv_imported">Data was imported from %2$s (%1$s)</string>
     <string name="msg_db_backuped">%1$s files backup to %2$s</string>

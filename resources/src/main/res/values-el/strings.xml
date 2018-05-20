@@ -109,7 +109,7 @@
     <string name="label_initial_value">Αρχικό ποσό</string>
     <string name="label_liability">Κάρτες</string>
     <string name="label_money">Ποσό</string>
-    <string name="label_month_details">%1$s (%2$s εγγραφές)</string>
+    <string name="label_month_records">%1$s (%2$s εγγραφές)</string>
     <string name="label_monthly_expense">Μήνας : %1$s</string>
     <string name="label_name">Όνομα</string>
     <string name="label_note">Σημείωση</string>
@@ -234,7 +234,7 @@
     <string name="msg_cannot_delete_default_book">Δεν είναι δυνατή η διαγραφή του προεπιλεγμένου βιβλίου</string>
     <string name="msg_cannot_delete_working_book">Δεν είναι δυνατή η διαγραφή του βιβλίου εργασίας</string>
     <string name="msg_created_account">Δημιουργήθηκαν %1$s λογαριασμοί</string>
-    <string name="msg_created_detail">Δημιουργήθηκαν %1$s συναλλαγές</string>
+    <string name="msg_created_record">Δημιουργήθηκαν %1$s συναλλαγές</string>
     <string name="msg_csv_exported">Τα δεδομένα (%1$s) εξήχθησαν στο φάκελο %2$s.</string>
     <string name="msg_csv_imported">Τα δεδομένα εισήχθησαν από %2$s (%1$s)</string>
     <string name="msg_db_backuped">%1$s αρχεία εξήχθησαν στο φάκελο %2$s</string>
