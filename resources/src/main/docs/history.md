@@ -1,7 +1,29 @@
-# CONTRIBUTOR
-Updated 20180420
+# HISTORY
+Updated 20180521
+### 0.10.1 (20180520)
+* #/  re-support Italian
+* #8  option for select 1st and last used account.
+* #6  refactor sub title in reclist
+* #15 material design in book management
+* #17 Material Design in account management
+* #19 Material Design in balance list
+* #18 Material Design in record list
+* #21 Display no data when there is no data
+* #22 Support to template a record and apply it to a new record
+* #/    No selection effect on account-reclist
+* #b14 NPE if show a record which has deleted account
+* #5   No next input button in receditor
+* #2   support selected date when creating in reclist
+* #16  RuntimeException when starting service
+* #23  after restored, the preference doesn't back at the same run time
 
----
+### 0.10.0 (20180504)
+* Theme : Cola, Orange, Sakura, Lemon
+* TextSize: Normal, Medium, Large
+* Can't create book after having 20 books
+* Can't allow blank password
+* Confirmation before deleting
+
 ### 0.9.9 (20180419)
 * Enable Asset to Income, Expanse to Asset, etc.., for returning money
 * Support backup automatically
