@@ -121,7 +121,7 @@
     <string name="label_prefcat_contribution">Collabora</string>
     <string name="label_prefcat_csv">CSV</string>
     <string name="label_prefcat_data">Data</string>
-    <string name="label_prefcat_developer">Developer</string>
+    <string name="label_prefcat_developer">Impostazioni avanzate</string>  <!-- Opzioni sviluppatore -->
     <string name="label_prefcat_display">Display</string>
     <string name="label_prefcat_others">Altri</string>
     <string name="label_prefcat_security">Security</string>
@@ -138,7 +138,7 @@
     <string name="label_prefs_backup_with_timestamp">Archivia tutti i backup</string>
     <string name="label_prefs_backup_with_timestamp_sum">Copia i backup in una cartella con data e ora (richiede un maggior spazio in memoria)</string>
     <string name="label_prefs_csv_encoding">Codifica del CSV</string>
-    <string name="label_prefs_csv_encoding_sum">Imposta</string>
+    <string name="label_prefs_csv_encoding_sum">Non modificare se non sei sicuro di cosa stai facendo</string>
     <string name="label_prefs_firstday_week">Primo giorno della settimana</string>
     <string name="label_prefs_firstday_week_sum">Scegli il primo giorno della settimana</string>
     <string name="label_prefs_format_date">Formato data</string>
@@ -173,7 +173,7 @@
     <string name="label_prefs_startday_year_month_day_sum">Imposta il giorno del mese (tra 1 e 28) in cui inizia l\'anno contabile</string>
     <string name="label_prefs_startday_year_month_sum">Imposta il mese in cui inizia l\'anno contabile</string>
     <string name="label_prefs_testsdekstop">Apri scrivania prove</string>
-    <string name="label_prefs_testsdekstop_sum">Apre la scrivania delle prove (solo per gli sviluppatori)</string>
+    <string name="label_prefs_testsdekstop_sum">Abilita la scrivania prove (solo per gli sviluppatori)</string>
     <string name="label_prefs_text_size">Dimensione testo</string>
     <string name="label_prefs_text_size_sum">Scegli la dimensione del testo</string>
     <string name="label_prefs_theme">Tema</string>
@@ -198,7 +198,7 @@
     <string name="label_reports">Rapporti</string>
     <string name="label_request_storage_permission">Fornisci permessi per l\'archiviazione</string>
     <string name="label_reset">Cancella</string>
-    <string name="label_reset_working_book">Cancella il registro corrente</string>
+    <string name="label_reset_working_book">Cancella registro in uso</string>
     <string name="label_restore_data">Ripristina i dati</string>
     <string name="label_share">Condividi</string>
     <string name="label_share_csv">Condividi CSV</string>
@@ -216,10 +216,10 @@
     <string name="label_type">Tipo</string>
     <string name="label_unknown">Sconosciuto</string>
     <string name="label_warn">Avviso</string>
-    <string name="label_week_details">%5$s dal %1$s al %2$s - Sett. %3$s/%4$s (%6$s)</string>
+    <string name="label_week_details">%5$s: %1$s &gt; %2$s - Settimana %3$s/%4$s (%6$s)</string>
     <string name="label_weekly_expense">Settimanali: %1$s</string>
     <string name="label_what_is_new">Novità</string>
-    <string name="label_working_book">Registro in uso (conti+voci)</string>
+    <string name="label_working_book">Registro in uso</string> <!-- (conti+voci) -->
     <string name="label_working_book_account">Registro in uso (conti)</string>
     <string name="label_year_details">%1$s (%2$s voci)</string>
 
@@ -239,7 +239,7 @@
     <string name="msg_csv_imported">I dati (%1$s) sono stati importati dalla cartella %2$s</string>
     <string name="msg_db_backuped">Backup completato: creati %1$s file nella cartella %2$s</string>
     <string name="msg_db_restored">Ripristino completato: recuperati %1$s file dalla cartella %2$s</string>
-    <string name="msg_default_created">Dati di default ricreati</string>
+    <string name="msg_default_created">I conti predefiniti sono stati creati</string>
     <string name="msg_error">Errore: %1$s</string>
     <string name="msg_field_empty">%1$s è vuoto</string>
     <string name="msg_field_zero">%1$s è zero</string>
@@ -259,7 +259,7 @@
     <string name="msg_wrong_password_validation">Le due password devono coincidere</string>
 
     <string name="qmsg_clear_folder">Vuoi pulire la cartella di lavoro %1$s?</string>
-    <string name="qmsg_create_default">Vuoi creare i dati di default?</string>
+    <string name="qmsg_create_default">Vuoi creare i conti di default?</string>
     <string name="qmsg_delete_account">Vuoi veramente eliminare il conto %1$s?</string>
     <string name="qmsg_delete_book">Vuoi veramente eliminare il registro %1$s e tutti i dati contenuti?</string>
     <string name="qmsg_delete_record">Vuoi eliminare questa voce (%1$s)?</string>
@@ -303,7 +303,7 @@
     <string name="act_change_mode">Cambia modalità</string>
     <string name="act_operations">Operazioni</string>
 
-    <string name="msg_no_data">Nessun dato</string>
+    <string name="msg_no_data">Nessuna voce</string>
 
     <!-- since 20180517 -->
     <string name="act_run">Eseguire</string>
