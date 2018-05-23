@@ -316,4 +316,13 @@
     <string name="qmsg_common_confirm">Do you want to do \'%1$s\'?</string>
 
     <string name="act_apply">Apply</string>
+
+
+    <!-- 20180523-->
+    <string name="act_more">More</string>
+    <string name="label_mode_edit">Edit</string>
+    <string name="act_edit_title">Edit title</string>
+    <string name="act_move_up">Move up</string>
+    <string name="act_move_down">Move down</string>
+    <string name="label_mode_show_title">Show title</string>
 </resources>
