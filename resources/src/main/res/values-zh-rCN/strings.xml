@@ -42,24 +42,24 @@
     <string name="default_pref_format_month" accept="digital, short, full">digital</string>
     <string name="default_pref_format_time" accept="12, 24">24</string>
 
-    <string name="dt_main">主要桌面</string>
-    <string name="dt_reports">报表桌面</string>
-    <string name="dt_tests">测试桌面</string>
+    <string name="desktop_main">主要桌面</string>
+    <string name="desktop_reports">报表桌面</string>
+    <string name="desktop_tests">测试桌面</string>
 
-    <string name="dtitem_accmgnt">账户管理</string>
-    <string name="dtitem_addrec">新增明細</string>
-    <string name="dtitem_books">帳本管理</string>
-    <string name="dtitem_datamain">资料维护</string>
-    <string name="dtitem_prefs">喜好设定</string>
-    <string name="dtitem_reclist">明细列表</string>
-    <string name="label_daily_list">日明細列表</string>
-    <string name="label_monthly_list">月明细列表</string>
-    <string name="label_weekly_list">周明细列表</string>
-    <string name="label_yearly_list">年明细列表</string>
-    <string name="dtitem_report_cumulative_balance">累计结算</string>
-    <string name="dtitem_report_monthly_balance">月份结算</string>
-    <string name="dtitem_report_search">搜尋</string>
-    <string name="dtitem_report_yearly_balance">年结算</string>
+    <string name="nav_pg_account">账户管理</string>
+    <string name="nav_pg_add_record">新增明細</string>
+    <string name="nav_pg_book">帳本管理</string>
+    <string name="nav_pg_data_main">资料维护</string>
+    <string name="nav_pg_prefs">喜好设定</string>
+    <string name="nav_pg_reclist">明细列表</string>
+    <string name="nav_pg_daily_list">日明細列表</string>
+    <string name="nav_pg_monthly_list">月明细列表</string>
+    <string name="nav_pg_weekly_list">周明细列表</string>
+    <string name="nav_pg_yearly_list">年明细列表</string>
+    <string name="nav_pg_report_cumulative_balance">累计结算</string>
+    <string name="nav_pg_report_monthly_balance">月份结算</string>
+    <string name="nav_pg_report_search">搜尋</string>
+    <string name="nav_pg_report_yearly_balance">年结算</string>
 
     <string name="label_about">关于</string>
     <string name="label_acc_reclist_dateinfo">%1$s 到 %2$s</string>
@@ -283,12 +283,12 @@
     <string name="title_acceditor_create">建立账户</string>
     <string name="title_acceditor_update">更新账户</string>
     <string name="title_accmgnt">账户管理器</string>
-    <string name="title_book">帳本</string>
+    <string name="label_book">帳本</string>
     <string name="title_bookeditor_create">建立帳本</string>
     <string name="title_bookeditor_update">更新帳本</string>
     <string name="title_bookmgnt">帳本管理</string>
     <string name="title_datamain">资料维护</string>
-    <string name="title_desktop">主控台</string>
+    <string name="label_desktop">主控台</string>
     <string name="title_prefs">喜好设定</string>
     <string name="title_receditor">明细编辑器</string>
     <string name="title_receditor_create">建立明细</string>

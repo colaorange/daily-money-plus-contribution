@@ -40,24 +40,24 @@
     <string name="default_pref_format_month" accept="digital, short, full">digital</string>
     <string name="default_pref_format_time" accept="12, 24">12</string>
 
-    <string name="dt_main">Главная</string>
-    <string name="dt_reports">Отчеты</string>
-    <string name="dt_tests">Тесты</string>
+    <string name="desktop_main">Главная</string>
+    <string name="desktop_reports">Отчеты</string>
+    <string name="desktop_tests">Тесты</string>
 
-    <string name="dtitem_accmgnt">Счета</string>
-    <string name="dtitem_addrec">Добавить детали</string>
-    <string name="dtitem_books">Books</string>
-    <string name="dtitem_datamain">Данные</string>
-    <string name="dtitem_prefs">Настройки</string>
-    <string name="dtitem_reclist">Детали</string>
-    <string name="label_daily_list">Ежедневный список</string>
-    <string name="label_monthly_list">Ежемесячный список</string>
-    <string name="label_weekly_list">Еженедельный список</string>
-    <string name="label_yearly_list">Ежегодный список</string>
-    <string name="dtitem_report_cumulative_balance">Совокупный баланс</string>
-    <string name="dtitem_report_monthly_balance">Ежемесячный баланс</string>
-    <string name="dtitem_report_search">Search</string>
-    <string name="dtitem_report_yearly_balance">Ежегодный баланс</string>
+    <string name="nav_pg_account">Счета</string>
+    <string name="nav_pg_add_record">Добавить детали</string>
+    <string name="nav_pg_book">Books</string>
+    <string name="nav_pg_data_main">Данные</string>
+    <string name="nav_pg_prefs">Настройки</string>
+    <string name="nav_pg_reclist">Детали</string>
+    <string name="nav_pg_daily_list">Ежедневный список</string>
+    <string name="nav_pg_monthly_list">Ежемесячный список</string>
+    <string name="nav_pg_weekly_list">Еженедельный список</string>
+    <string name="nav_pg_yearly_list">Ежегодный список</string>
+    <string name="nav_pg_report_cumulative_balance">Совокупный баланс</string>
+    <string name="nav_pg_report_monthly_balance">Ежемесячный баланс</string>
+    <string name="nav_pg_report_search">Search</string>
+    <string name="nav_pg_report_yearly_balance">Ежегодный баланс</string>
 
     <string name="label_about">О программе</string>
     <string name="label_acc_reclist_dateinfo">%1$s к %2$s</string>
@@ -276,12 +276,12 @@
     <string name="title_acceditor_create">Создать счет</string>
     <string name="title_acceditor_update">Обновить счет</string>
     <string name="title_accmgnt">Account Manager</string>
-    <string name="title_book">Book</string>
+    <string name="label_book">Book</string>
     <string name="title_bookeditor_create">Create Book</string>
     <string name="title_bookeditor_update">Update Book</string>
     <string name="title_bookmgnt">Book Management</string>
     <string name="title_datamain">О ведении данных</string>
-    <string name="title_desktop">Десктоп</string>
+    <string name="label_desktop">Десктоп</string>
     <string name="title_prefs">Настройки</string>
     <string name="title_receditor">Редактор описаний</string>
     <string name="title_receditor_create">Создать описание</string>

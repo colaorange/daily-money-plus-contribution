@@ -40,24 +40,24 @@
     <string name="default_pref_format_month" accept="digital, short, full">digital</string>
     <string name="default_pref_format_time" accept="12, 24">12</string>
 
-    <string name="dt_main">Ýþlemler</string>
-    <string name="dt_reports">Raporlar</string>
-    <string name="dt_tests">Testler</string>
+    <string name="desktop_main">Ýþlemler</string>
+    <string name="desktop_reports">Raporlar</string>
+    <string name="desktop_tests">Testler</string>
 
-    <string name="dtitem_accmgnt">Hesaplar</string>
-    <string name="dtitem_addrec">Ayrýntý Ekle</string>
-    <string name="dtitem_books">Defterler</string>
-    <string name="dtitem_datamain">Veriler</string>
-    <string name="dtitem_prefs">Tercihler</string>
-    <string name="dtitem_reclist">Ayrýntýlar</string>
-    <string name="label_daily_list">Günlük Liste</string>
-    <string name="label_monthly_list">Aylýk Liste</string>
-    <string name="label_weekly_list">Haftalýk Liste</string>
-    <string name="label_yearly_list">Yýllýk Liste</string>
-    <string name="dtitem_report_cumulative_balance">Kümülativ Denge</string>
-    <string name="dtitem_report_monthly_balance">Aylýk denge</string>
-    <string name="dtitem_report_search">Search</string>
-    <string name="dtitem_report_yearly_balance">Yýllýk denge</string>
+    <string name="nav_pg_account">Hesaplar</string>
+    <string name="nav_pg_add_record">Ayrýntý Ekle</string>
+    <string name="nav_pg_book">Defterler</string>
+    <string name="nav_pg_data_main">Veriler</string>
+    <string name="nav_pg_prefs">Tercihler</string>
+    <string name="nav_pg_reclist">Ayrýntýlar</string>
+    <string name="nav_pg_daily_list">Günlük Liste</string>
+    <string name="nav_pg_monthly_list">Aylýk Liste</string>
+    <string name="nav_pg_weekly_list">Haftalýk Liste</string>
+    <string name="nav_pg_yearly_list">Yýllýk Liste</string>
+    <string name="nav_pg_report_cumulative_balance">Kümülativ Denge</string>
+    <string name="nav_pg_report_monthly_balance">Aylýk denge</string>
+    <string name="nav_pg_report_search">Search</string>
+    <string name="nav_pg_report_yearly_balance">Yýllýk denge</string>
 
     <string name="label_about">Hakkýnda</string>
     <string name="label_acc_reclist_dateinfo">Þuradan %1$s þuraya %2$s</string>
@@ -276,12 +276,12 @@
     <string name="title_acceditor_create">Hesap Oluþtur</string>
     <string name="title_acceditor_update">Hesabý Güncelle</string>
     <string name="title_accmgnt">Hesap Düzenleyicisi</string>
-    <string name="title_book">Defter</string>
+    <string name="label_book">Defter</string>
     <string name="title_bookeditor_create">Defter oluþtur</string>
     <string name="title_bookeditor_update">Defteri güncelle</string>
     <string name="title_bookmgnt">Defter Yönetimi</string>
     <string name="title_datamain">Veri Koruma</string>
-    <string name="title_desktop">Masaüstü</string>
+    <string name="label_desktop">Masaüstü</string>
     <string name="title_prefs">Tercihler</string>
     <string name="title_receditor">Ayrýntý Editörü</string>
     <string name="title_receditor_create">Ayrýntý oluþtur</string>

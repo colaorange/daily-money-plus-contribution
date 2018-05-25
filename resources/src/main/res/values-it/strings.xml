@@ -40,24 +40,24 @@
     <string name="default_pref_format_month" accept="digital, short, full">digital</string>
     <string name="default_pref_format_time" accept="12, 24">24</string>
 
-    <string name="dt_main">Principale</string>
-    <string name="dt_reports">Rapporti</string>
-    <string name="dt_tests">Prove</string>
+    <string name="desktop_main">Principale</string>
+    <string name="desktop_reports">Rapporti</string>
+    <string name="desktop_tests">Prove</string>
 
-    <string name="dtitem_accmgnt">Conti</string>
-    <string name="dtitem_addrec">Aggiungi voci</string>
-    <string name="dtitem_books">Registri contabili</string>
-    <string name="dtitem_datamain">Dati</string>
-    <string name="dtitem_prefs">Preferenze</string>
-    <string name="dtitem_reclist">Voci</string>
-    <string name="label_daily_list">Lista giornaliera</string>
-    <string name="label_monthly_list">Lista mensile</string>
-    <string name="label_weekly_list">Lista settimanale</string>
-    <string name="label_yearly_list">Lista annuale</string>
-    <string name="dtitem_report_cumulative_balance">Bilancio cumulativo</string>
-    <string name="dtitem_report_monthly_balance">Bilancio mensile</string>
-    <string name="dtitem_report_search">Cerca</string>
-    <string name="dtitem_report_yearly_balance">Bilancio annuale</string>
+    <string name="nav_pg_account">Conti</string>
+    <string name="nav_pg_add_record">Aggiungi voci</string>
+    <string name="nav_pg_book">Registri contabili</string>
+    <string name="nav_pg_data_main">Dati</string>
+    <string name="nav_pg_prefs">Preferenze</string>
+    <string name="nav_pg_reclist">Voci</string>
+    <string name="nav_pg_daily_list">Lista giornaliera</string>
+    <string name="nav_pg_monthly_list">Lista mensile</string>
+    <string name="nav_pg_weekly_list">Lista settimanale</string>
+    <string name="nav_pg_yearly_list">Lista annuale</string>
+    <string name="nav_pg_report_cumulative_balance">Bilancio cumulativo</string>
+    <string name="nav_pg_report_monthly_balance">Bilancio mensile</string>
+    <string name="nav_pg_report_search">Cerca</string>
+    <string name="nav_pg_report_yearly_balance">Bilancio annuale</string>
 
     <string name="label_about">Informazioni</string>
     <string name="label_acc_reclist_dateinfo">%1$s a %2$s</string>
@@ -276,12 +276,12 @@
     <string name="title_acceditor_create">Crea conto</string>
     <string name="title_acceditor_update">Aggiorna conto</string>
     <string name="title_accmgnt">Gestione conti</string>
-    <string name="title_book">Registro</string>
+    <string name="label_book">Registro</string>
     <string name="title_bookeditor_create">Crea registro</string>
     <string name="title_bookeditor_update">Aggiorna registro</string>
     <string name="title_bookmgnt">Gestione registri</string>
     <string name="title_datamain">Gestione dei dati</string>
-    <string name="title_desktop">Scrivania</string>
+    <string name="label_desktop">Scrivania</string>
     <string name="title_prefs">Preferenze</string>
     <string name="title_receditor">Modifica voci</string>
     <string name="title_receditor_create">Crea voce</string>

@@ -40,24 +40,24 @@
     <string name="default_pref_format_month" accept="digital, short, full">digital</string>
     <string name="default_pref_format_time" accept="12, 24">12</string>
 
-    <string name="dt_main">Main</string>
-    <string name="dt_reports">Reports</string>
-    <string name="dt_tests">Tests</string>
+    <string name="desktop_main">Main</string>
+    <string name="desktop_reports">Reports</string>
+    <string name="desktop_tests">Tests</string>
 
-    <string name="dtitem_accmgnt">Accounts</string>
-    <string name="dtitem_addrec">Add Record</string>
-    <string name="dtitem_books">Books</string>
-    <string name="dtitem_datamain">Data</string>
-    <string name="dtitem_prefs">Preferences</string>
-    <string name="dtitem_reclist">Records</string>
-    <string name="label_daily_list">Daily list</string>
-    <string name="label_monthly_list">Monthly list</string>
-    <string name="label_weekly_list">Weekly list</string>
-    <string name="label_yearly_list">Yearly list</string>
-    <string name="dtitem_report_cumulative_balance">Cumulative Balance</string>
-    <string name="dtitem_report_monthly_balance">Monthly balance</string>
-    <string name="dtitem_report_search">Search</string>
-    <string name="dtitem_report_yearly_balance">Yearly balance</string>
+    <string name="nav_pg_account">Accounts</string>
+    <string name="nav_pg_add_record">Add Record</string>
+    <string name="nav_pg_book">Books</string>
+    <string name="nav_pg_data_main">Data</string>
+    <string name="nav_pg_prefs">Preferences</string>
+    <string name="nav_pg_reclist">Records</string>
+    <string name="nav_pg_daily_list">Daily list</string>
+    <string name="nav_pg_monthly_list">Monthly list</string>
+    <string name="nav_pg_weekly_list">Weekly list</string>
+    <string name="nav_pg_yearly_list">Yearly list</string>
+    <string name="nav_pg_report_cumulative_balance">Cumulative Balance</string>
+    <string name="nav_pg_report_monthly_balance">Monthly balance</string>
+    <string name="nav_pg_report_search">Search</string>
+    <string name="nav_pg_report_yearly_balance">Yearly balance</string>
 
     <string name="label_about">About</string>
     <string name="label_acc_reclist_dateinfo">%1$s to %2$s</string>
@@ -276,12 +276,12 @@
     <string name="title_acceditor_create">Create Account</string>
     <string name="title_acceditor_update">Update Account</string>
     <string name="title_accmgnt">Account Manager</string>
-    <string name="title_book">Book</string>
+    <string name="label_book">Book</string>
     <string name="title_bookeditor_create">Create Book</string>
     <string name="title_bookeditor_update">Update Book</string>
     <string name="title_bookmgnt">Book Management</string>
     <string name="title_datamain">Data Maintenance</string>
-    <string name="title_desktop">Desktop</string>
+    <string name="label_desktop">Desktop</string>
     <string name="title_prefs">Preferences</string>
     <string name="title_receditor">Record Editor</string>
     <string name="title_receditor_create">Create Record</string>

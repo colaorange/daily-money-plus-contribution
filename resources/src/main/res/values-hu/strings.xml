@@ -40,24 +40,24 @@
     <string name="default_pref_format_month" accept="digital, short, full">digital</string>
     <string name="default_pref_format_time" accept="12, 24">12</string>
 
-    <string name="dt_main">Főlap</string>
-    <string name="dt_reports">Jelentések</string>
-    <string name="dt_tests">Tesztek</string>
+    <string name="desktop_main">Főlap</string>
+    <string name="desktop_reports">Jelentések</string>
+    <string name="desktop_tests">Tesztek</string>
 
-    <string name="dtitem_accmgnt">Számlák</string>
-    <string name="dtitem_addrec">Új tétel</string>
-    <string name="dtitem_books">Könyvek</string>
-    <string name="dtitem_datamain">Adatok</string>
-    <string name="dtitem_prefs">Beállítások</string>
-    <string name="dtitem_reclist">Tételek</string>
-    <string name="label_daily_list">Napi lista</string>
-    <string name="label_monthly_list">Havi lista</string>
-    <string name="label_weekly_list">Heti lista</string>
-    <string name="label_yearly_list">Éves lista</string>
-    <string name="dtitem_report_cumulative_balance">Összesített egyenleg</string>
-    <string name="dtitem_report_monthly_balance">Havi egyenleg</string>
-    <string name="dtitem_report_search">Search</string>
-    <string name="dtitem_report_yearly_balance">Éves egyenleg</string>
+    <string name="nav_pg_account">Számlák</string>
+    <string name="nav_pg_add_record">Új tétel</string>
+    <string name="nav_pg_book">Könyvek</string>
+    <string name="nav_pg_data_main">Adatok</string>
+    <string name="nav_pg_prefs">Beállítások</string>
+    <string name="nav_pg_reclist">Tételek</string>
+    <string name="nav_pg_daily_list">Napi lista</string>
+    <string name="nav_pg_monthly_list">Havi lista</string>
+    <string name="nav_pg_weekly_list">Heti lista</string>
+    <string name="nav_pg_yearly_list">Éves lista</string>
+    <string name="nav_pg_report_cumulative_balance">Összesített egyenleg</string>
+    <string name="nav_pg_report_monthly_balance">Havi egyenleg</string>
+    <string name="nav_pg_report_search">Search</string>
+    <string name="nav_pg_report_yearly_balance">Éves egyenleg</string>
 
     <string name="label_about">Névjegy</string>
     <string name="label_acc_reclist_dateinfo">%1$s-tól %2$s-ig</string>
@@ -276,12 +276,12 @@
     <string name="title_acceditor_create">Új számla</string>
     <string name="title_acceditor_update">Számla módosítása</string>
     <string name="title_accmgnt">Számlakezelő</string>
-    <string name="title_book">Könyv</string>
+    <string name="label_book">Könyv</string>
     <string name="title_bookeditor_create">Új könyv</string>
     <string name="title_bookeditor_update">Könyv szerkesztése</string>
     <string name="title_bookmgnt">Könyvek kezelése</string>
     <string name="title_datamain">Adat karbantartás</string>
-    <string name="title_desktop">Asztal</string>
+    <string name="label_desktop">Asztal</string>
     <string name="title_prefs">Beállítások</string>
     <string name="title_receditor">Tételszerkesztő</string>
     <string name="title_receditor_create">Új tétel</string>

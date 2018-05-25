@@ -40,24 +40,24 @@
     <string name="default_pref_format_month" accept="digital, short, full">digital</string>
     <string name="default_pref_format_time" accept="12, 24">12</string>
 
-    <string name="dt_main">Αρχική</string>
-    <string name="dt_reports">Στατιστικά</string>
-    <string name="dt_tests">Δοκιμές</string>
+    <string name="desktop_main">Αρχική</string>
+    <string name="desktop_reports">Στατιστικά</string>
+    <string name="desktop_tests">Δοκιμές</string>
 
-    <string name="dtitem_accmgnt">Λογαρ/μοί</string>
-    <string name="dtitem_addrec">Συναλλαγή</string>
-    <string name="dtitem_books">Βιβλία</string>
-    <string name="dtitem_datamain">Αρχεία</string>
-    <string name="dtitem_prefs">Επιλογές</string>
-    <string name="dtitem_reclist">Συναλλαγές</string>
-    <string name="label_daily_list">Ημερήσια λίστα</string>
-    <string name="label_monthly_list">Μηνιαία λίστα</string>
-    <string name="label_weekly_list">Εβδομ. λίστα</string>
-    <string name="label_yearly_list">Ετήσια λίστα</string>
-    <string name="dtitem_report_cumulative_balance">Αθροιστικό Υπόλοιπο</string>
-    <string name="dtitem_report_monthly_balance">Μηνιαίο ισοζύγιο</string>
-    <string name="dtitem_report_search">Αναζήτηση</string>
-    <string name="dtitem_report_yearly_balance">Ετήσιο ισοζύγιο</string>
+    <string name="nav_pg_account">Λογαρ/μοί</string>
+    <string name="nav_pg_add_record">Συναλλαγή</string>
+    <string name="nav_pg_book">Βιβλία</string>
+    <string name="nav_pg_data_main">Αρχεία</string>
+    <string name="nav_pg_prefs">Επιλογές</string>
+    <string name="nav_pg_reclist">Συναλλαγές</string>
+    <string name="nav_pg_daily_list">Ημερήσια λίστα</string>
+    <string name="nav_pg_monthly_list">Μηνιαία λίστα</string>
+    <string name="nav_pg_weekly_list">Εβδομ. λίστα</string>
+    <string name="nav_pg_yearly_list">Ετήσια λίστα</string>
+    <string name="nav_pg_report_cumulative_balance">Αθροιστικό Υπόλοιπο</string>
+    <string name="nav_pg_report_monthly_balance">Μηνιαίο ισοζύγιο</string>
+    <string name="nav_pg_report_search">Αναζήτηση</string>
+    <string name="nav_pg_report_yearly_balance">Ετήσιο ισοζύγιο</string>
 
     <string name="label_about">Σχετικά</string>
     <string name="label_acc_reclist_dateinfo">%1$s μέχρι %2$s</string>
@@ -276,12 +276,12 @@
     <string name="title_acceditor_create">Δημιουργία Λογαριασμού</string>
     <string name="title_acceditor_update">Αναβάθμιση Λογαριασμού</string>
     <string name="title_accmgnt">Λογαριασμός Διαχείρισης</string>
-    <string name="title_book">Βιβλίο</string>
+    <string name="label_book">Βιβλίο</string>
     <string name="title_bookeditor_create">Δημιουργία Βιβλίου</string>
     <string name="title_bookeditor_update">Αναβάθμιση Βιβλίου</string>
     <string name="title_bookmgnt">Διαχείριση Βιβλίων</string>
     <string name="title_datamain">Συντήρηση δεδομένων</string>
-    <string name="title_desktop">Επιφάνεια εργασίας</string>
+    <string name="label_desktop">Επιφάνεια εργασίας</string>
     <string name="title_prefs">Επιλογές</string>
     <string name="title_receditor">Επεξεργαστής Συναλλαγών</string>
     <string name="title_receditor_create">Δημιουργία συναλλαγής</string>
