@@ -325,4 +325,13 @@
     <string name="act_move_up">Move up</string>
     <string name="act_move_down">Move down</string>
     <string name="label_mode_display_title">Display title</string>
+
+    <string name="card_nav_page">Navigation page</string>
+    <string name="card_info_expense">Expense infomration</string>
+    <string name="card_chart_weekly_expanse_pie">Weekly expanse pie chart</string>
+    <string name="card_chart_monthly_expanse_pie">Monthly expanse pie chart</string>
+    <string name="card_chart_weekly_expanse_bar">Weekly expanse bar chart</string>
+    <string name="card_chart_monthly_expanse_bar">Monthly expanse bar chart</string>
+    <string name="msg_edit_desktop_title">Edit desktop\'s title</string>
+    <string name="msg_edit_card_title">Edit card\'s title</string>
 </resources>
