@@ -333,4 +333,6 @@
     <string name="msg_edit_desktop_title">Edit desktop\'s title</string>
     <string name="msg_edit_card_title">Edit card\'s title</string>
     <string name="act_add_card">Add card</string>
+    <string name="act_move">Move</string>
+    <string name="msg_press_long_move">Press longer to drag and move the item</string>
 </resources>
