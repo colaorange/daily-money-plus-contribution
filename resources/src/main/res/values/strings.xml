@@ -335,4 +335,8 @@
     <string name="act_add_card">Add card</string>
     <string name="act_move">Move</string>
     <string name="msg_press_long_move">Press longer to drag and move the item</string>
+
+    <string name="act_edit_args">Edit arguments</string>
+    <string name="msg_edit_nav_pages_args">Select pages that you want to show, the order depends selection sequence</string>
+    <string name="msg_n_items">%1$s items</string>
 </resources>
