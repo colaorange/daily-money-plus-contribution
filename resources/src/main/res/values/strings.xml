@@ -320,7 +320,7 @@
 
     <!-- 20180523-->
     <string name="act_more">More</string>
-    <string name="label_mode_edit_desktop">Edit desktop</string>
+    <string name="act_arrange_desktop">Arrange desktop</string>
     <string name="act_edit_title">Edit title</string>
     <string name="act_move_up">Move up</string>
     <string name="act_move_down">Move down</string>
@@ -339,4 +339,12 @@
     <string name="act_edit_args">Edit arguments</string>
     <string name="msg_edit_nav_pages_args">Select pages that you want to show, the order depends selection sequence</string>
     <string name="msg_n_items">%1$s items</string>
+    <string name="msg_not_available_for">No available for %1$s</string>
+    <string name="msg_select_cards">Select cards to add to the desktop</string>
+    <string name="msg_field_empty_selection">Selection %1$s is empty</string>
+    <string name="label_card_type">Card type</string>
+
+    <string name="label_enable_desktop2">Enable desktop 2</string>
+    <string name="label_enable_desktop3">Enable desktop 3</string>
+    <string name="label_enable_desktop4">Enable desktop 4</string>
 </resources>
