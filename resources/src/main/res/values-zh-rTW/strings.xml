@@ -33,7 +33,7 @@
     <string name="defacc_food2">食.聚餐</string>
     <string name="defacc_housing">居家生活</string>
     <string name="defacc_interest">利息</string>
-    <string name="defacc_otherexpense">其他花費</string>
+    <string name="defacc_otherexpense">其他支出</string>
     <string name="defacc_otherincome">其他收入</string>
     <string name="defacc_salary">薪水</string>
     <string name="defacc_transportation">交通油錢</string>
@@ -42,9 +42,9 @@
     <string name="default_pref_format_month" accept="digital, short, full">digital</string>
     <string name="default_pref_format_time" accept="12, 24">24</string>
 
-    <string name="desktop_main">主要桌面</string>
-    <string name="desktop_reports">報表桌面</string>
-    <string name="desktop_tests">測試桌面</string>
+    <string name="desktop_main">主要</string>
+    <string name="desktop_reports">報表</string>
+    <string name="desktop_tests">測試</string>
 
     <string name="nav_pg_account">帳戶管理</string>
     <string name="nav_pg_add_record">新增明細</string>
@@ -77,7 +77,7 @@
     <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
     <string name="label_balance_mode_year_total">到 %1$s (%2$s)</string>
     <string name="label_balance_total_asset">資產總結算</string>
-    <string name="label_balance_total_expense">花費總結算</string>
+    <string name="label_balance_total_expense">支出總結算</string>
     <string name="label_balance_total_income">收入總結算</string>
     <string name="label_balance_total_liability">債務總結算</string>
     <string name="label_balance_total_other">其他總結算</string>
@@ -96,7 +96,7 @@
     <string name="label_default">預設</string>
     <string name="label_default_book_symbol">$</string>
     <string name="label_error">錯誤</string>
-    <string name="label_expense">花費</string>
+    <string name="label_expense">支出</string>
     <string name="label_export_csv">匯出 CSV</string>
     <string name="label_firstday_mon">星期一</string>
     <string name="label_firstday_sat">星期六</string>
@@ -119,16 +119,16 @@
     <string name="label_position_after">在後面</string>
     <string name="label_position_front">在前面</string>
     <string name="label_position_none">不呈現</string>
-    <string name="label_prefcat_accounting">會計</string>
-    <string name="label_prefcat_contribution">貢獻</string>
-    <string name="label_prefcat_csv">CSV</string>
-    <string name="label_prefcat_data">資料</string>
-    <string name="label_prefcat_developer">開發者</string>
-    <string name="label_prefcat_display">顯示</string>
-    <string name="label_prefcat_others">其他</string>
-    <string name="label_prefcat_security">安全</string>
-    <string name="label_prefcat_startday_year">年度的第一天</string>
-    <string name="label_prefcat_startday_year_sum">設定年度的第一天(例如 7月1日)</string>
+    <string name="label_accounting">會計</string>
+    <string name="label_contribution">貢獻</string>
+    <string name="label_csv">CSV</string>
+    <string name="label_data">資料</string>
+    <string name="label_developer">開發者</string>
+    <string name="label_display">顯示</string>
+    <string name="label_others">其他</string>
+    <string name="label_security">安全</string>
+    <string name="label_prefs_startday_year">年度的第一天</string>
+    <string name="label_prefs_startday_year_sum">設定年度的第一天(例如 7月1日)</string>
     <string name="label_prefs_allow_analytics">傳送使用狀況</string>
     <string name="label_prefs_allow_analytics_sum">[不會傳送任何其他資料] 傳送使用狀況將協助改善這個軟體</string>
     <string name="label_prefs_auto_backup">自動備份</string>
@@ -323,4 +323,38 @@
     <string name="qmsg_common_confirm">您想要執行\'%1$s\'嗎?</string>
 
     <string name="act_apply">套用</string>
+
+    <!-- 20180523-->
+    <string name="act_more">更多</string>
+    <string name="act_arrange_desktop">安排桌面</string>
+    <string name="act_edit_title">編輯標題</string>
+    <string name="act_move_up">上移</string>
+    <string name="act_move_down">下移</string>
+    <string name="label_mode_display_title">顯示標題</string>
+
+    <string name="card_nav_page">功能頁面</string>
+    <string name="card_info_expense">支出資訊</string>
+    <string name="card_chart_weekly_expense_pie">周支出(圓餅圖)</string>
+    <string name="card_chart_monthly_expense_pie">月支出(圓餅圖)</string>
+    <string name="msg_edit_desktop_title">編輯桌面標題</string>
+    <string name="msg_edit_card_title">編輯卡片標題</string>
+    <string name="act_add_card">新增卡片</string>
+    <string name="act_move">移動</string>
+    <string name="msg_press_long_move">長按後利用拖拉來移動</string>
+
+    <string name="act_edit_args">編輯參數</string>
+    <string name="msg_edit_nav_pages_args">選擇您要顯示的頁面, 順序由你選擇的先後決定</string>
+    <string name="msg_n_items">%1$s 項目</string>
+    <string name="msg_not_available_for">無法對 %1$s 提供</string>
+    <string name="msg_select_cards">選擇要加入桌面的卡片</string>
+    <string name="msg_field_empty_selection">選擇 %1$s 是空的</string>
+    <string name="label_card_type">卡片類型</string>
+
+    <string name="label_prefs_enable_desktop2">啟用桌面2</string>
+    <string name="label_prefs_enable_desktop3">啟用桌面3</string>
+    <string name="label_prefs_enable_desktop4">啟用桌面4</string>
+
+
+
+
 </resources>

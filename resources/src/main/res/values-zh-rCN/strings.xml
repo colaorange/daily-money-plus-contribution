@@ -42,9 +42,9 @@
     <string name="default_pref_format_month" accept="digital, short, full">digital</string>
     <string name="default_pref_format_time" accept="12, 24">24</string>
 
-    <string name="desktop_main">主要桌面</string>
-    <string name="desktop_reports">报表桌面</string>
-    <string name="desktop_tests">测试桌面</string>
+    <string name="desktop_main">主要</string>
+    <string name="desktop_reports">报表</string>
+    <string name="desktop_tests">测试</string>
 
     <string name="nav_pg_account">账户管理</string>
     <string name="nav_pg_add_record">新增明細</string>
@@ -119,16 +119,16 @@
     <string name="label_position_after">在後面</string>
     <string name="label_position_front">在前面</string>
     <string name="label_position_none">不呈現</string>
-    <string name="label_prefcat_accounting">會計</string>
-    <string name="label_prefcat_contribution">貢獻</string>
-    <string name="label_prefcat_csv">CSV</string>
-    <string name="label_prefcat_data">資料</string>
-    <string name="label_prefcat_developer">開發者</string>
-    <string name="label_prefcat_display">顯示</string>
-    <string name="label_prefcat_others">其他</string>
-    <string name="label_prefcat_security">安全</string>
-    <string name="label_prefcat_startday_year">年度的第一天</string>
-    <string name="label_prefcat_startday_year_sum">設定年度的第一天(例如 7月1日)</string>
+    <string name="label_accounting">會計</string>
+    <string name="label_contribution">貢獻</string>
+    <string name="label_csv">CSV</string>
+    <string name="label_data">資料</string>
+    <string name="label_developer">開發者</string>
+    <string name="label_display">顯示</string>
+    <string name="label_others">其他</string>
+    <string name="label_security">安全</string>
+    <string name="label_prefs_startday_year">年度的第一天</string>
+    <string name="label_prefs_startday_year_sum">設定年度的第一天(例如 7月1日)</string>
     <string name="label_prefs_allow_analytics">发送使用情况</string>
     <string name="label_prefs_allow_analytics_sum">[不会发送任何其他资料] 发送使用情况将协助改善这个软件</string>
     <string name="label_prefs_auto_backup">自动备份</string>
@@ -297,30 +297,61 @@
     <string name="title_recmgnt">明细管理器</string>
 
     <!-- since 20180510-->
-    <string name="act_bookmark">Bookmark</string>
-    <string name="act_swap">Swap</string>
+    <string name="act_bookmark">书签</string>
+    <string name="act_swap">交换</string>
 
-    <string name="label_usual">Usual</string>
-    <string name="label_latest_used">Latest used</string>
+    <string name="label_usual">通常</string>
+    <string name="label_latest_used">最后使用</string>
 
     <!--since 20150514 -->
-    <string name="act_prev">Previous</string>
-    <string name="act_next">Next</string>
-    <string name="act_go_today">Go to today</string>
-    <string name="act_change_mode">Change mode</string>
-    <string name="act_operations">Operations</string>
+    <string name="act_prev">前一项</string>
+    <string name="act_next">后一项</string>
+    <string name="act_go_today">到今天</string>
+    <string name="act_change_mode">变更模式</string>
+    <string name="act_operations">更多操作</string>
 
-    <string name="msg_no_data">No data</string>
+    <string name="msg_no_data">没有资料</string>
 
     <!-- since 20180517 -->
-    <string name="act_run">Run</string>
+    <string name="act_run">执行</string>
     <!-- since 20180518 -->
-    <string name="label_template">Template</string>
-    <string name="act_set_template">Set template</string>
-    <string name="qmsg_set_tempalte">Set it as a template</string>
-    <string name="act_clear_templates">Clear templates</string>
-    <string name="msg_common_finished">\' %1$s\' has finsihed</string>
-    <string name="qmsg_common_confirm">Do you want to do \'%1$s\'?</string>
+    <string name="label_template">样版</string>
+    <string name="act_set_template">设定样版</string>
+    <string name="qmsg_set_tempalte">设定为样版</string>
+    <string name="act_clear_templates">清除所有样版</string>
+    <string name="msg_common_finished">\' %1$s\'被完成了</string>
+    <string name="qmsg_common_confirm">您想要执行\'%1$s\'吗?</string>
 
-    <string name="act_apply">Apply</string>
+    <string name="act_apply">套用</string>
+
+    <!-- 20180523-->
+    <string name="act_more">更多</string>
+    <string name="act_arrange_desktop">安排桌面</string>
+    <string name="act_edit_title">编辑标题</string>
+    <string name="act_move_up">上移</string>
+    <string name="act_move_down">下移</string>
+    <string name="label_mode_display_title">显示标题</string>
+
+    <string name="card_nav_page">功能页面</string>
+    <string name="card_info_expense">花费信息</string>
+    <string name="card_chart_weekly_expense_pie">周花费(pie)</string>
+    <string name="card_chart_monthly_expense_pie">月花费(pie)</string>
+    <string name="msg_edit_desktop_title">编辑桌面标题</string>
+    <string name="msg_edit_card_title">编辑卡片标题</string>
+    <string name="act_add_card">新增卡片</string>
+    <string name="act_move">移动</string>
+    <string name="msg_press_long_move">长按后利用拖拉来移动</string>
+
+    <string name="act_edit_args">编辑参数</string>
+    <string name="msg_edit_nav_pages_args">选择您要显示的页面, 顺序由你选择的先后决定</string>
+    <string name="msg_n_items">%1$s 项目</string>
+    <string name="msg_not_available_for">无法对 %1$s 提供</string>
+    <string name="msg_select_cards">选择要加入桌面的卡片</string>
+    <string name="msg_field_empty_selection">选择 %1$s 是空的</string>
+    <string name="label_card_type">卡片类型</string>
+
+    <string name="label_prefs_enable_desktop2">启用桌面2</string>
+    <string name="label_prefs_enable_desktop3">启用桌面3</string>
+    <string name="label_prefs_enable_desktop4">启用桌面4</string>
+
 </resources>

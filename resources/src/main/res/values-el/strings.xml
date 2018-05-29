@@ -117,16 +117,16 @@
     <string name="label_position_after">Μετά</string>
     <string name="label_position_front">Πριν</string>
     <string name="label_position_none">Χωρίς εμφάνιση συμβόλου</string>
-    <string name="label_prefcat_accounting">Accounting</string>
-    <string name="label_prefcat_contribution">Contribution</string>
-    <string name="label_prefcat_csv">CSV</string>
-    <string name="label_prefcat_data">Data</string>
-    <string name="label_prefcat_developer">Developer</string>
-    <string name="label_prefcat_display">Display</string>
-    <string name="label_prefcat_others">Υπόλοιποι</string>
-    <string name="label_prefcat_security">Security</string>
-    <string name="label_prefcat_startday_year">Start day of a year</string>
-    <string name="label_prefcat_startday_year_sum">Set the start day of a year(month and month-day)</string>
+    <string name="label_accounting">Accounting</string>
+    <string name="label_contribution">Contribution</string>
+    <string name="label_csv">CSV</string>
+    <string name="label_data">Data</string>
+    <string name="label_developer">Developer</string>
+    <string name="label_display">Display</string>
+    <string name="label_others">Υπόλοιποι</string>
+    <string name="label_security">Security</string>
+    <string name="label_prefs_startday_year">Start day of a year</string>
+    <string name="label_prefs_startday_year_sum">Set the start day of a year(month and month-day)</string>
     <string name="label_prefs_allow_analytics">Στείλτε google analytics</string>
     <string name="label_prefs_allow_analytics_sum">[Δεν θα στείλω άλλα δεδομένα] Αποστολή χρήσης για να βελτιώσω την εφαρμογή</string>
     <string name="label_prefs_auto_backup">Auto backup</string>
@@ -316,4 +316,34 @@
     <string name="qmsg_common_confirm">Do you want to do \'%1$s\'?</string>
 
     <string name="act_apply">Apply</string>
+
+    <!-- 20180523-->
+    <string name="act_more">More</string>
+    <string name="act_arrange_desktop">Arrange desktop</string>
+    <string name="act_edit_title">Edit title</string>
+    <string name="act_move_up">Move up</string>
+    <string name="act_move_down">Move down</string>
+    <string name="label_mode_display_title">Display title</string>
+
+    <string name="card_nav_page">Navigation page</string>
+    <string name="card_info_expense">Expense information</string>
+    <string name="card_chart_weekly_expense_pie">Weekly expense(pie)</string>
+    <string name="card_chart_monthly_expense_pie">Monthly expense(pie)</string>
+    <string name="msg_edit_desktop_title">Edit desktop\'s title</string>
+    <string name="msg_edit_card_title">Edit card\'s title</string>
+    <string name="act_add_card">Add card</string>
+    <string name="act_move">Move</string>
+    <string name="msg_press_long_move">Press longer to drag and move the item</string>
+
+    <string name="act_edit_args">Edit arguments</string>
+    <string name="msg_edit_nav_pages_args">Select pages that you want to show, the order depends on selection sequence</string>
+    <string name="msg_n_items">%1$s items</string>
+    <string name="msg_not_available_for">No available for %1$s</string>
+    <string name="msg_select_cards">Select cards to add to the desktop</string>
+    <string name="msg_field_empty_selection">Selection %1$s is empty</string>
+    <string name="label_card_type">Card type</string>
+
+    <string name="label_prefs_enable_desktop2">Enable desktop 2</string>
+    <string name="label_prefs_enable_desktop3">Enable desktop 3</string>
+    <string name="label_prefs_enable_desktop4">Enable desktop 4</string>
 </resources>
