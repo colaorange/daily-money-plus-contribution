@@ -348,8 +348,9 @@
     <string name="label_prefs_enable_desktop4">Enable desktop 4</string>
 
     <!-- 20180529 -->
-    <string name="card_chart_monthly_expense_line">Monthly expense(line)</string>
-    <string name="card_chart_yearly_income_expense_line">Yearly income/expense(line)</string>
+    <string name="card_chart_monthly_expense_line">Monthly expense (line)</string>
+    <string name="card_chart_monthly_expense_line_cumulative">Monthly cumulative expense (line)</string>
+    <string name="card_chart_yearly_income_expense_line">Yearly income/expense (line)</string>
 
     <string name="msg_edit_card_arg">Edit arguments of this card</string>
     <string name="label_chart_accumulate_value">Accumulate value</string>
