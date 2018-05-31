@@ -334,8 +334,8 @@
 
     <string name="card_nav_page">功能頁面</string>
     <string name="card_info_expense">支出資訊</string>
-    <string name="card_chart_weekly_expense_pie">周支出(圓餅圖)</string>
-    <string name="card_chart_monthly_expense_pie">月支出(圓餅圖)</string>
+    <string name="card_pie_weekly_expense">周支出(圓餅圖)</string>
+    <string name="card_pie_monthly_expense">月支出(圓餅圖)</string>
     <string name="msg_edit_desktop_title">編輯桌面標題</string>
     <string name="msg_edit_card_title">編輯卡片標題</string>
     <string name="act_add_card">新增卡片</string>

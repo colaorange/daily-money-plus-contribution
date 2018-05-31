@@ -327,8 +327,8 @@
 
     <string name="card_nav_page">Navigation page</string>
     <string name="card_info_expense">Expense information</string>
-    <string name="card_chart_weekly_expense_pie">Weekly expense</string>
-    <string name="card_chart_monthly_expense_pie">Monthly expense</string>
+    <string name="card_pie_weekly_expense">Weekly expense</string>
+    <string name="card_pie_monthly_expense">Monthly expense</string>
     <string name="msg_edit_desktop_title">Edit desktop\'s title</string>
     <string name="msg_edit_card_title">Edit card\'s title</string>
     <string name="act_add_card">Add card</string>
