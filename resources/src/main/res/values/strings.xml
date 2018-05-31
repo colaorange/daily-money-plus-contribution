@@ -327,8 +327,8 @@
 
     <string name="card_nav_page">Navigation page</string>
     <string name="card_info_expense">Expense information</string>
-    <string name="card_chart_weekly_expense_pie">Weekly expense (pie)</string>
-    <string name="card_chart_monthly_expense_pie">Monthly expense (pie)</string>
+    <string name="card_chart_weekly_expense_pie">Weekly expense</string>
+    <string name="card_chart_monthly_expense_pie">Monthly expense</string>
     <string name="msg_edit_desktop_title">Edit desktop\'s title</string>
     <string name="msg_edit_card_title">Edit card\'s title</string>
     <string name="act_add_card">Add card</string>
@@ -348,11 +348,12 @@
     <string name="label_prefs_enable_desktop4">Enable desktop 4</string>
 
     <!-- 20180529 -->
-    <string name="card_chart_monthly_expense_line">Monthly expense (line)</string>
-    <string name="card_chart_monthly_expense_line_cumulative">Monthly cumulative expense (line)</string>
-    <string name="card_chart_yearly_income_expense_line">Yearly income/expense (line)</string>
+    <string name="card_chart_monthly_expense_line">Monthly expense</string>
+    <string name="card_chart_monthly_expense_line_cumulative">Monthly cumulative expense</string>
 
     <string name="msg_edit_card_arg">Edit arguments of this card</string>
-    <string name="label_chart_accumulate_value">Accumulate value</string>
-    <string name="label_chart_compare_previous">Compare with the previous period</string>
+
+    <string name="chart_line_account_type_series_individual">Individual</string>
+    <string name="chart_line_account_type_series_integrated">Integrated</string>
+    <string name="msg_edit_chart_monthly_expense_args">Select the series mode of this chart</string>
 </resources>
