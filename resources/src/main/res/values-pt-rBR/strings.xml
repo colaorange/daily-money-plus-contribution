@@ -5,9 +5,9 @@
 
     <string name="act_balance_piechart">Gráfico Pizza</string>
     <string name="act_balance_reclist">Lista de Detalhes</string>
-    <string name="act_balance_yearly_cumulative_timechart">Gráfico anual cumulativo</string>
+    <string name="act_balance_yearly_cumulative_linechart">Gráfico anual cumulativo</string>
     <string name="act_balance_yearly_runchart">Evolução Ativo-Empréstimo</string>
-    <string name="act_balance_yearly_timechart">Gráfico anual</string>
+    <string name="act_balance_yearly_linechart">Gráfico anual</string>
     <string name="act_cancel">Cancelar</string>
     <string name="act_close">Fechar</string>
     <string name="act_copy">Copiar</string>
@@ -54,7 +54,7 @@
     <string name="nav_pg_monthly_list">Lista mensal</string>
     <string name="nav_pg_weekly_list">Lista semanal</string>
     <string name="nav_pg_yearly_list">Lista anual</string>
-    <string name="nav_pg_report_cumulative_balance">Balanço cumulativo</string>
+    <string name="nav_pg_report_from_beginning_balance">Balanço cumulativo</string>
     <string name="nav_pg_report_monthly_balance">Balanço mensal</string>
     <string name="nav_pg_report_search">Search</string>
     <string name="nav_pg_report_yearly_balance">Balanço anual</string>
@@ -71,17 +71,17 @@
     <string name="label_backup_data">備份資料</string>
     <string name="label_balance">Balance</string>
     <string name="label_balance_mode_month">De %1$s (%2$s-%3$s)</string>
-    <string name="label_balance_mode_month_total">Até %1$s (-%2$s)</string>
+    <string name="label_balance_from_beginning_month">Até %1$s (-%2$s)</string>
     <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_mode_year_total">Balanço até o ano %1$s (%2$s)</string>
-    <string name="label_balance_total_asset">Balanço de Recursos</string>
-    <string name="label_balance_total_expense">Balanço de Despesas</string>
-    <string name="label_balance_total_income">Balanço de Entradas</string>
-    <string name="label_balance_total_liability">Balanço de Empréstimos</string>
-    <string name="label_balance_total_other">Balanço de Outros</string>
-    <string name="label_balance_yearly_cumulative_timechart">%1$s em %2$s cumulativo</string>
+    <string name="label_balance_from_beginning_year">Balanço até o ano %1$s (%2$s)</string>
+    <string name="label_balance_from_beginning_asset">Balanço de Recursos</string>
+    <string name="label_balance_from_beginning_expense">Balanço de Despesas</string>
+    <string name="label_balance_from_beginning_income">Balanço de Entradas</string>
+    <string name="label_balance_from_beginning_liability">Balanço de Empréstimos</string>
+    <string name="label_balance_from_beginning_other">Balanço de Outros</string>
+    <string name="label_balance_yearly_linechart_cumulative">%1$s em %2$s cumulativo</string>
     <string name="label_balance_yearly_runchart">Ativo-Empréstimo cumulativo em %1$s</string>
-    <string name="label_balance_yearly_timechart">%1$s em %2$s</string>
+    <string name="label_balance_yearly_linechart">%1$s em %2$s</string>
     <string name="label_busy">Ocupado</string>
     <string name="label_cash_account">Conta de dinheiro</string>
     <string name="label_clear_folder">Apagar todos dados do diretório corrente</string>

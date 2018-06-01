@@ -5,9 +5,9 @@
 
     <string name="act_balance_piechart">Kördiagram</string>
     <string name="act_balance_reclist">Tétel lista</string>
-    <string name="act_balance_yearly_cumulative_timechart">Éves diagram (összesített)</string>
+    <string name="act_balance_yearly_cumulative_linechart">Éves diagram (összesített)</string>
     <string name="act_balance_yearly_runchart">Éves vagyon-tartozás folyamatdiagram</string>
-    <string name="act_balance_yearly_timechart">Éves diagram</string>
+    <string name="act_balance_yearly_linechart">Éves diagram</string>
     <string name="act_cancel">Mégse</string>
     <string name="act_close">Bezár</string>
     <string name="act_copy">Másol</string>
@@ -54,7 +54,7 @@
     <string name="nav_pg_monthly_list">Havi lista</string>
     <string name="nav_pg_weekly_list">Heti lista</string>
     <string name="nav_pg_yearly_list">Éves lista</string>
-    <string name="nav_pg_report_cumulative_balance">Összesített egyenleg</string>
+    <string name="nav_pg_report_from_beginning_balance">Összesített egyenleg</string>
     <string name="nav_pg_report_monthly_balance">Havi egyenleg</string>
     <string name="nav_pg_report_search">Search</string>
     <string name="nav_pg_report_yearly_balance">Éves egyenleg</string>
@@ -71,17 +71,17 @@
     <string name="label_backup_data">備份資料</string>
     <string name="label_balance">Balance</string>
     <string name="label_balance_mode_month">%1$s hó (%2$s-%3$s)</string>
-    <string name="label_balance_mode_month_total">Egyenleg %1$s-ig (-%2$s)</string>
+    <string name="label_balance_from_beginning_month">Egyenleg %1$s-ig (-%2$s)</string>
     <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_mode_year_total">Egyenleg %1$s évig (%2$s)</string>
-    <string name="label_balance_total_asset">Vagyon egyenleg</string>
-    <string name="label_balance_total_expense">Kiadás egyenleg</string>
-    <string name="label_balance_total_income">Bevétel egyenleg</string>
-    <string name="label_balance_total_liability">Tartozás egyenleg</string>
-    <string name="label_balance_total_other">Egyéb egyenleg</string>
-    <string name="label_balance_yearly_cumulative_timechart">%1$s %2$s évben (összesített)</string>
+    <string name="label_balance_from_beginning_year">Egyenleg %1$s évig (%2$s)</string>
+    <string name="label_balance_from_beginning_asset">Vagyon egyenleg</string>
+    <string name="label_balance_from_beginning_expense">Kiadás egyenleg</string>
+    <string name="label_balance_from_beginning_income">Bevétel egyenleg</string>
+    <string name="label_balance_from_beginning_liability">Tartozás egyenleg</string>
+    <string name="label_balance_from_beginning_other">Egyéb egyenleg</string>
+    <string name="label_balance_yearly_linechart_cumulative">%1$s %2$s évben (összesített)</string>
     <string name="label_balance_yearly_runchart">Vagyon-tartozás (összesített) %1$s évben</string>
-    <string name="label_balance_yearly_timechart">%1$s %2$s évben</string>
+    <string name="label_balance_yearly_linechart">%1$s %2$s évben</string>
     <string name="label_busy">Foglalt</string>
     <string name="label_cash_account">Készpénz számla</string>
     <string name="label_clear_folder">Munkakönyvtár ürítése</string>

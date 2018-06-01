@@ -5,9 +5,9 @@
 
     <string name="act_balance_piechart">結算圓餅圖</string>
     <string name="act_balance_reclist">明細清單</string>
-    <string name="act_balance_yearly_cumulative_timechart">每月結算累計年度圖</string>
+    <string name="act_balance_yearly_cumulative_linechart">每月結算累計年度圖</string>
     <string name="act_balance_yearly_runchart">資產債務趨勢圖</string>
-    <string name="act_balance_yearly_timechart">每月結算年度圖</string>
+    <string name="act_balance_yearly_linechart">每月結算年度圖</string>
     <string name="act_cancel">取消</string>
     <string name="act_close">關閉</string>
     <string name="act_copy">複製</string>
@@ -56,7 +56,7 @@
     <string name="nav_pg_monthly_list">月明細列表</string>
     <string name="nav_pg_weekly_list">周明細列表</string>
     <string name="nav_pg_yearly_list">年明細列表</string>
-    <string name="nav_pg_report_cumulative_balance">累計結算</string>
+    <string name="nav_pg_report_from_beginning_balance">總結算</string>
     <string name="nav_pg_report_monthly_balance">單月份結算</string>
     <string name="nav_pg_report_search">搜尋</string>
     <string name="nav_pg_report_yearly_balance">單年結算</string>
@@ -73,17 +73,17 @@
     <string name="label_backup_data">備份資料</string>
     <string name="label_balance">结算</string>
     <string name="label_balance_mode_month">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_mode_month_total">到 %1$s (%2$s)</string>
+    <string name="label_balance_from_beginning_month">到 %1$s (%2$s)</string>
     <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_mode_year_total">到 %1$s (%2$s)</string>
-    <string name="label_balance_total_asset">資產總結算</string>
-    <string name="label_balance_total_expense">支出總結算</string>
-    <string name="label_balance_total_income">收入總結算</string>
-    <string name="label_balance_total_liability">債務總結算</string>
-    <string name="label_balance_total_other">其他總結算</string>
-    <string name="label_balance_yearly_cumulative_timechart">%1$s 在 %2$s (累計)</string>
+    <string name="label_balance_from_beginning_year">到 %1$s (%2$s)</string>
+    <string name="label_balance_from_beginning_asset">資產總結算</string>
+    <string name="label_balance_from_beginning_expense">支出總結算</string>
+    <string name="label_balance_from_beginning_income">收入總結算</string>
+    <string name="label_balance_from_beginning_liability">債務總結算</string>
+    <string name="label_balance_from_beginning_other">其他總結算</string>
+    <string name="label_balance_yearly_linechart_cumulative">%1$s 在 %2$s (累計)</string>
     <string name="label_balance_yearly_runchart">資產債務趨勢 在 %1$s</string>
-    <string name="label_balance_yearly_timechart">%1$s 在 %2$s</string>
+    <string name="label_balance_yearly_linechart">%1$s 在 %2$s</string>
     <string name="label_busy">忙碌</string>
     <string name="label_cash_account">現金帳戶</string>
     <string name="label_clear_folder">清除工作目錄</string>
@@ -334,8 +334,8 @@
 
     <string name="card_nav_page">功能頁面</string>
     <string name="card_info_expense">支出資訊</string>
-    <string name="card_pie_weekly_expense">周支出(圓餅圖)</string>
-    <string name="card_pie_monthly_expense">月支出(圓餅圖)</string>
+    <string name="card_pie_weekly_expense">周支出</string>
+    <string name="card_pie_monthly_expense">月支出</string>
     <string name="msg_edit_desktop_title">編輯桌面標題</string>
     <string name="msg_edit_card_title">編輯卡片標題</string>
     <string name="act_add_card">新增卡片</string>

@@ -5,9 +5,9 @@
 
     <string name="act_balance_piechart">Daire grafik</string>
     <string name="act_balance_reclist">Ayrýntý listesi</string>
-    <string name="act_balance_yearly_cumulative_timechart">Yýllýk grafik(kümülativ)</string>
+    <string name="act_balance_yearly_cumulative_linechart">Yýllýk grafik(kümülativ)</string>
     <string name="act_balance_yearly_runchart">Yýllýk varlýk-borç çalýþma grafiði</string>
-    <string name="act_balance_yearly_timechart">Yýllýk grafik</string>
+    <string name="act_balance_yearly_linechart">Yýllýk grafik</string>
     <string name="act_cancel">Ýptal</string>
     <string name="act_close">Kapat</string>
     <string name="act_copy">Kopyala</string>
@@ -54,7 +54,7 @@
     <string name="nav_pg_monthly_list">Aylýk Liste</string>
     <string name="nav_pg_weekly_list">Haftalýk Liste</string>
     <string name="nav_pg_yearly_list">Yýllýk Liste</string>
-    <string name="nav_pg_report_cumulative_balance">Kümülativ Denge</string>
+    <string name="nav_pg_report_from_beginning_balance">Kümülativ Denge</string>
     <string name="nav_pg_report_monthly_balance">Aylýk denge</string>
     <string name="nav_pg_report_search">Search</string>
     <string name="nav_pg_report_yearly_balance">Yýllýk denge</string>
@@ -71,17 +71,17 @@
     <string name="label_backup_data">備份資料</string>
     <string name="label_balance">Balance</string>
     <string name="label_balance_mode_month">%1$s ayýnda (%2$s-%3$s)</string>
-    <string name="label_balance_mode_month_total">Þu aya kadar %1$s (-%2$s)</string>
+    <string name="label_balance_from_beginning_month">Þu aya kadar %1$s (-%2$s)</string>
     <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_mode_year_total">Þu yýla kadar denge %1$s (%2$s)</string>
-    <string name="label_balance_total_asset">Varlýk dengesi</string>
-    <string name="label_balance_total_expense">Gider dengesi</string>
-    <string name="label_balance_total_income">Gelir dengesi</string>
-    <string name="label_balance_total_liability">Borç dengesi</string>
-    <string name="label_balance_total_other">Diðer dengeler</string>
-    <string name="label_balance_yearly_cumulative_timechart">Þundan %1$s þuna %2$s (kümülativ)</string>
+    <string name="label_balance_from_beginning_year">Þu yýla kadar denge %1$s (%2$s)</string>
+    <string name="label_balance_from_beginning_asset">Varlýk dengesi</string>
+    <string name="label_balance_from_beginning_expense">Gider dengesi</string>
+    <string name="label_balance_from_beginning_income">Gelir dengesi</string>
+    <string name="label_balance_from_beginning_liability">Borç dengesi</string>
+    <string name="label_balance_from_beginning_other">Diðer dengeler</string>
+    <string name="label_balance_yearly_linechart_cumulative">Þundan %1$s þuna %2$s (kümülativ)</string>
     <string name="label_balance_yearly_runchart">Varlýk-borç(kümülativ) in %1$s</string>
-    <string name="label_balance_yearly_timechart">%1$s in %2$s</string>
+    <string name="label_balance_yearly_linechart">%1$s in %2$s</string>
     <string name="label_busy">Meþgul</string>
     <string name="label_cash_account">Nakit hesabý</string>
     <string name="label_clear_folder">Seçili dizini temizle</string>

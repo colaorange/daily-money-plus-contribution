@@ -5,9 +5,9 @@
 
     <string name="act_balance_piechart">Grafico a torta</string>
     <string name="act_balance_reclist">Lista voci</string>
-    <string name="act_balance_yearly_cumulative_timechart">Grafico annuale (cumulativo)</string>
+    <string name="act_balance_yearly_cumulative_linechart">Grafico annuale (cumulativo)</string>
     <string name="act_balance_yearly_runchart">Grafico annuale Patrimonio-Debiti</string>
-    <string name="act_balance_yearly_timechart">Grafico annuale</string>
+    <string name="act_balance_yearly_linechart">Grafico annuale</string>
     <string name="act_cancel">Annulla</string>
     <string name="act_close">Chiudi</string>
     <string name="act_copy">Copia</string>
@@ -54,7 +54,7 @@
     <string name="nav_pg_monthly_list">Lista mensile</string>
     <string name="nav_pg_weekly_list">Lista settimanale</string>
     <string name="nav_pg_yearly_list">Lista annuale</string>
-    <string name="nav_pg_report_cumulative_balance">Bilancio cumulativo</string>
+    <string name="nav_pg_report_from_beginning_balance">Bilancio cumulativo</string>
     <string name="nav_pg_report_monthly_balance">Bilancio mensile</string>
     <string name="nav_pg_report_search">Cerca</string>
     <string name="nav_pg_report_yearly_balance">Bilancio annuale</string>
@@ -71,17 +71,17 @@
     <string name="label_backup_data">Backup</string>
     <string name="label_balance">Bilancio</string>
     <string name="label_balance_mode_month">%1$s (%2$s-%3$s)</string>
-    <string name="label_balance_mode_month_total">fino al %1$s (%2$s)</string>
+    <string name="label_balance_from_beginning_month">fino al %1$s (%2$s)</string>
     <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_mode_year_total">Bilancio fino all\'anno %1$s (%2$s)</string>
-    <string name="label_balance_total_asset">Bilancio Conti</string>
-    <string name="label_balance_total_expense">Bilancio Spese</string>
-    <string name="label_balance_total_income">Bilancio Entrate</string>
-    <string name="label_balance_total_liability">Bilancio Debiti</string>
-    <string name="label_balance_total_other">Bilancio Altro</string>
-    <string name="label_balance_yearly_cumulative_timechart">%1$s in %2$s (cumulativo)</string>
+    <string name="label_balance_from_beginning_year">Bilancio fino all\'anno %1$s (%2$s)</string>
+    <string name="label_balance_from_beginning_asset">Bilancio Conti</string>
+    <string name="label_balance_from_beginning_expense">Bilancio Spese</string>
+    <string name="label_balance_from_beginning_income">Bilancio Entrate</string>
+    <string name="label_balance_from_beginning_liability">Bilancio Debiti</string>
+    <string name="label_balance_from_beginning_other">Bilancio Altro</string>
+    <string name="label_balance_yearly_linechart_cumulative">%1$s in %2$s (cumulativo)</string>
     <string name="label_balance_yearly_runchart">Patrimonio - Debiti (cumulativo) in %1$s</string>
-    <string name="label_balance_yearly_timechart">%1$s in %2$s</string>
+    <string name="label_balance_yearly_linechart">%1$s in %2$s</string>
     <string name="label_busy">Occupato</string>
     <string name="label_cash_account">Conto in Contanti</string>
     <string name="label_clear_folder">Pulisci cartella di lavoro</string>

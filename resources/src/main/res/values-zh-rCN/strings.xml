@@ -5,9 +5,9 @@
 
     <string name="act_balance_piechart">结算图饼图</string>
     <string name="act_balance_reclist">明细清单</string>
-    <string name="act_balance_yearly_cumulative_timechart">每月结算累计年度图</string>
+    <string name="act_balance_yearly_cumulative_linechart">每月结算累计年度图</string>
     <string name="act_balance_yearly_runchart">资产债务趋势图</string>
-    <string name="act_balance_yearly_timechart">每月结算年度图</string>
+    <string name="act_balance_yearly_linechart">每月结算年度图</string>
     <string name="act_cancel">取消</string>
     <string name="act_close">关闭</string>
     <string name="act_copy">複製</string>
@@ -56,7 +56,7 @@
     <string name="nav_pg_monthly_list">月明细列表</string>
     <string name="nav_pg_weekly_list">周明细列表</string>
     <string name="nav_pg_yearly_list">年明细列表</string>
-    <string name="nav_pg_report_cumulative_balance">累计结算</string>
+    <string name="nav_pg_report_from_beginning_balance">累计结算</string>
     <string name="nav_pg_report_monthly_balance">月份结算</string>
     <string name="nav_pg_report_search">搜尋</string>
     <string name="nav_pg_report_yearly_balance">年结算</string>
@@ -73,17 +73,17 @@
     <string name="label_backup_data">備份資料</string>
     <string name="label_balance">结算</string>
     <string name="label_balance_mode_month">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_mode_month_total">到 %1$s(%2$s)</string>
+    <string name="label_balance_from_beginning_month">到 %1$s(%2$s)</string>
     <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_mode_year_total">到 %1$s (%2$s)</string>
-    <string name="label_balance_total_asset">资产总计</string>
-    <string name="label_balance_total_expense">花费总计</string>
-    <string name="label_balance_total_income">收入总计</string>
-    <string name="label_balance_total_liability">债务总计</string>
-    <string name="label_balance_total_other">其他总计</string>
-    <string name="label_balance_yearly_cumulative_timechart">%1$s 在 %2$s (累计)</string>
+    <string name="label_balance_from_beginning_year">到 %1$s (%2$s)</string>
+    <string name="label_balance_from_beginning_asset">资产总计</string>
+    <string name="label_balance_from_beginning_expense">花费总计</string>
+    <string name="label_balance_from_beginning_income">收入总计</string>
+    <string name="label_balance_from_beginning_liability">债务总计</string>
+    <string name="label_balance_from_beginning_other">其他总计</string>
+    <string name="label_balance_yearly_linechart_cumulative">%1$s 在 %2$s (累计)</string>
     <string name="label_balance_yearly_runchart">资产债务趋势 在 %1$s</string>
-    <string name="label_balance_yearly_timechart">%1$s 在 %2$s</string>
+    <string name="label_balance_yearly_linechart">%1$s 在 %2$s</string>
     <string name="label_busy">忙碌</string>
     <string name="label_cash_account">现金账户</string>
     <string name="label_clear_folder">清除工作目录</string>

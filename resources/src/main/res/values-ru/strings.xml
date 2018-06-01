@@ -5,9 +5,9 @@
 
     <string name="act_balance_piechart">Круговая диаграмма</string>
     <string name="act_balance_reclist">Список описаний</string>
-    <string name="act_balance_yearly_cumulative_timechart">Годовая диаграмма(совокупно)</string>
+    <string name="act_balance_yearly_cumulative_linechart">Годовая диаграмма(совокупно)</string>
     <string name="act_balance_yearly_runchart">Годовые Активы-Обязательство запустить диаграмму</string>
-    <string name="act_balance_yearly_timechart">Годовая диаграмма</string>
+    <string name="act_balance_yearly_linechart">Годовая диаграмма</string>
     <string name="act_cancel">Cancel</string>
     <string name="act_close">Close</string>
     <string name="act_copy">Copy</string>
@@ -54,7 +54,7 @@
     <string name="nav_pg_monthly_list">Ежемесячный список</string>
     <string name="nav_pg_weekly_list">Еженедельный список</string>
     <string name="nav_pg_yearly_list">Ежегодный список</string>
-    <string name="nav_pg_report_cumulative_balance">Совокупный баланс</string>
+    <string name="nav_pg_report_from_beginning_balance">Совокупный баланс</string>
     <string name="nav_pg_report_monthly_balance">Ежемесячный баланс</string>
     <string name="nav_pg_report_search">Search</string>
     <string name="nav_pg_report_yearly_balance">Ежегодный баланс</string>
@@ -71,17 +71,17 @@
     <string name="label_backup_data">備份資料</string>
     <string name="label_balance">Баланс</string>
     <string name="label_balance_mode_month">за %1$s (%2$s-%3$s)</string>
-    <string name="label_balance_mode_month_total">до %1$s (%2$s)</string>
+    <string name="label_balance_from_beginning_month">до %1$s (%2$s)</string>
     <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_mode_year_total">Баланс до %1$s года (%2$s)</string>
-    <string name="label_balance_total_asset">Активы баланса</string>
-    <string name="label_balance_total_expense">Расходы баланса</string>
-    <string name="label_balance_total_income">Баланс доходов</string>
-    <string name="label_balance_total_liability">Обязательство баланса</string>
-    <string name="label_balance_total_other">Другое в балансе</string>
-    <string name="label_balance_yearly_cumulative_timechart">%1$s в %2$s (совокупно)</string>
+    <string name="label_balance_from_beginning_year">Баланс до %1$s года (%2$s)</string>
+    <string name="label_balance_from_beginning_asset">Активы баланса</string>
+    <string name="label_balance_from_beginning_expense">Расходы баланса</string>
+    <string name="label_balance_from_beginning_income">Баланс доходов</string>
+    <string name="label_balance_from_beginning_liability">Обязательство баланса</string>
+    <string name="label_balance_from_beginning_other">Другое в балансе</string>
+    <string name="label_balance_yearly_linechart_cumulative">%1$s в %2$s (совокупно)</string>
     <string name="label_balance_yearly_runchart">Активы-Обязательство(совокупн) в %1$s</string>
-    <string name="label_balance_yearly_timechart">%1$s в %2$s</string>
+    <string name="label_balance_yearly_linechart">%1$s в %2$s</string>
     <string name="label_busy">Busy</string>
     <string name="label_cash_account">Денежные счета</string>
     <string name="label_clear_folder">Очистить рабочий каталог</string>

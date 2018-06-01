@@ -5,9 +5,9 @@
 
     <string name="act_balance_piechart">Γράφημα πίτας</string>
     <string name="act_balance_reclist">Λίστα συναλλαγών</string>
-    <string name="act_balance_yearly_cumulative_timechart">Ετήσιο διάγραμμα (σωρευτικό)</string>
+    <string name="act_balance_yearly_cumulative_linechart">Ετήσιο διάγραμμα (σωρευτικό)</string>
     <string name="act_balance_yearly_runchart">Ετήσιο Asset-Liability run γράφημα</string>
-    <string name="act_balance_yearly_timechart">Ετήσιο γράφημα</string>
+    <string name="act_balance_yearly_linechart">Ετήσιο γράφημα</string>
     <string name="act_cancel">Άκυρο</string>
     <string name="act_close">Κλείσιμο</string>
     <string name="act_copy">Αντιγραφή</string>
@@ -54,7 +54,7 @@
     <string name="nav_pg_monthly_list">Μηνιαία λίστα</string>
     <string name="nav_pg_weekly_list">Εβδομ. λίστα</string>
     <string name="nav_pg_yearly_list">Ετήσια λίστα</string>
-    <string name="nav_pg_report_cumulative_balance">Αθροιστικό Υπόλοιπο</string>
+    <string name="nav_pg_report_from_beginning_balance">Αθροιστικό Υπόλοιπο</string>
     <string name="nav_pg_report_monthly_balance">Μηνιαίο ισοζύγιο</string>
     <string name="nav_pg_report_search">Αναζήτηση</string>
     <string name="nav_pg_report_yearly_balance">Ετήσιο ισοζύγιο</string>
@@ -71,17 +71,17 @@
     <string name="label_backup_data">Backup δεδομένων</string>
     <string name="label_balance">Balance</string>
     <string name="label_balance_mode_month">%1$s (%2$s-%3$s)</string>
-    <string name="label_balance_mode_month_total">Μέχρι %1$s (%2$s)</string>
+    <string name="label_balance_from_beginning_month">Μέχρι %1$s (%2$s)</string>
     <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_mode_year_total">Ισοζύγιο μέχρι το έτος %1$s (%2$s)</string>
-    <string name="label_balance_total_asset">Περιουσία</string>
-    <string name="label_balance_total_expense">Δαπάνες</string>
-    <string name="label_balance_total_income">Εισοδήματα</string>
-    <string name="label_balance_total_liability">Πιστωτικές κάρτες</string>
-    <string name="label_balance_total_other">Άλλα Υπόλοιπα</string>
-    <string name="label_balance_yearly_cumulative_timechart">%1$s in %2$s (σωρευτικό)</string>
+    <string name="label_balance_from_beginning_year">Ισοζύγιο μέχρι το έτος %1$s (%2$s)</string>
+    <string name="label_balance_from_beginning_asset">Περιουσία</string>
+    <string name="label_balance_from_beginning_expense">Δαπάνες</string>
+    <string name="label_balance_from_beginning_income">Εισοδήματα</string>
+    <string name="label_balance_from_beginning_liability">Πιστωτικές κάρτες</string>
+    <string name="label_balance_from_beginning_other">Άλλα Υπόλοιπα</string>
+    <string name="label_balance_yearly_linechart_cumulative">%1$s in %2$s (σωρευτικό)</string>
     <string name="label_balance_yearly_runchart">Asset-Liability (σωρευτικό) in %1$s</string>
-    <string name="label_balance_yearly_timechart">%1$s in %2$s</string>
+    <string name="label_balance_yearly_linechart">%1$s in %2$s</string>
     <string name="label_busy">Απασχολημένο</string>
     <string name="label_cash_account">Λογαριασμός Μετρητών</string>
     <string name="label_clear_folder">Καθαρισμός Φακέλου αρχείων</string>

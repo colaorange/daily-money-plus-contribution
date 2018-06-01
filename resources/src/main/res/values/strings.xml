@@ -5,9 +5,9 @@
 
     <string name="act_balance_piechart">Pie chart</string>
     <string name="act_balance_reclist">Record list</string>
-    <string name="act_balance_yearly_cumulative_timechart">Yearly chart(cumulative)</string>
+    <string name="act_balance_yearly_cumulative_linechart">Yearly chart(cumulative)</string>
     <string name="act_balance_yearly_runchart">Yearly Asset-Liability run chart</string>
-    <string name="act_balance_yearly_timechart">Yearly chart</string>
+    <string name="act_balance_yearly_linechart">Yearly chart</string>
     <string name="act_cancel">Cancel</string>
     <string name="act_close">Close</string>
     <string name="act_copy">Copy</string>
@@ -54,7 +54,7 @@
     <string name="nav_pg_monthly_list">Monthly list</string>
     <string name="nav_pg_weekly_list">Weekly list</string>
     <string name="nav_pg_yearly_list">Yearly list</string>
-    <string name="nav_pg_report_cumulative_balance">Cumulative Balance</string>
+    <string name="nav_pg_report_from_beginning_balance">From beginning Balance</string>
     <string name="nav_pg_report_monthly_balance">Monthly balance</string>
     <string name="nav_pg_report_search">Search</string>
     <string name="nav_pg_report_yearly_balance">Yearly balance</string>
@@ -71,17 +71,17 @@
     <string name="label_backup_data">Backup Data</string>
     <string name="label_balance">Balance</string>
     <string name="label_balance_mode_month">In %1$s (%2$s-%3$s)</string>
-    <string name="label_balance_mode_month_total">Until %1$s (-%2$s)</string>
+    <string name="label_balance_from_beginning_month">Until %1$s (-%2$s)</string>
     <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_mode_year_total">Balance until year %1$s (%2$s)</string>
-    <string name="label_balance_total_asset">Asset balance</string>
-    <string name="label_balance_total_expense">Expense balance</string>
-    <string name="label_balance_total_income">Income balance</string>
-    <string name="label_balance_total_liability">Liability balance</string>
-    <string name="label_balance_total_other">Other balance</string>
-    <string name="label_balance_yearly_cumulative_timechart">%1$s in %2$s (cumulative)</string>
+    <string name="label_balance_from_beginning_year">Balance until year %1$s (%2$s)</string>
+    <string name="label_balance_from_beginning_asset">Asset balance</string>
+    <string name="label_balance_from_beginning_expense">Expense balance</string>
+    <string name="label_balance_from_beginning_income">Income balance</string>
+    <string name="label_balance_from_beginning_liability">Liability balance</string>
+    <string name="label_balance_from_beginning_other">Other balance</string>
+    <string name="label_balance_yearly_linechart_cumulative">%1$s in %2$s (cumulative)</string>
     <string name="label_balance_yearly_runchart">Asset-Liability(cumulative) in %1$s</string>
-    <string name="label_balance_yearly_timechart">%1$s in %2$s</string>
+    <string name="label_balance_yearly_linechart">%1$s in %2$s</string>
     <string name="label_busy">Busy</string>
     <string name="label_cash_account">Cash account</string>
     <string name="label_clear_folder">Clear working folder</string>
