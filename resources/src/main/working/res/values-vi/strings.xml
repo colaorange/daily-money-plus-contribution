@@ -105,7 +105,7 @@
     <string name="label_initial_value">Ban đầu</string>
     <string name="label_liability">Khoản vay</string>
     <string name="label_money">Tiền</string>
-    <string name="label_month_details">%1$s (%2$s các ghi chép)</string>
+    <string name="label_month_records">%1$s (%2$s các ghi chép)</string>
     <string name="label_monthly_expense">Hàng tháng : %1$s</string>
     <string name="label_name">Tên</string>
     <string name="label_note">Ghi chú</string>
@@ -214,12 +214,12 @@
     <string name="label_type">Loại</string>
     <string name="label_unknown">Không biết</string>
     <string name="label_warn">Cảnh báo</string>
-    <string name="label_week_details">%5$s %1$s đến %2$s - Tuần %3$s/%4$s (%6$s)</string>
+    <string name="label_week_records">%5$s %1$s đến %2$s - Tuần %3$s/%4$s (%6$s)</string>
     <string name="label_weekly_expense">Hàng tuần : %1$s</string>
     <string name="label_what_is_new">What is new</string>
     <string name="label_working_book">Working book</string>
     <string name="label_working_book_account">Working book account</string>
-    <string name="label_year_details">%1$s (%2$s các ghi chép)</string>
+    <string name="label_year_records">%1$s (%2$s các ghi chép)</string>
 
     <string name="msg_account_created">Tài khoản %1$s đã được tạo mới theo đúng loại %2$s</string>
     <string name="msg_account_deleted">Tài khoản %1$s đã bị xóa</string>
@@ -232,7 +232,7 @@
     <string name="msg_cannot_delete_default_book">Không thể xóa sách mặc định</string>
     <string name="msg_cannot_delete_working_book">Không thể xóa sách đang hoạt động</string>
     <string name="msg_created_account">Đã tạo mới %1$s các tài khoản</string>
-    <string name="msg_created_detail">Đã tạo mới %1$s các chi tiết</string>
+    <string name="msg_created_record">Đã tạo mới %1$s các chi tiết</string>
     <string name="msg_csv_exported">Dữ liệu (%1$s) đã được xuất toàn bộ đến %2$s, </string>
     <string name="msg_csv_imported">Dữ liệu đã được nhập từ %2$s (%1$s)</string>
     <string name="msg_db_backuped">%1$s các tập tin sao lưu đến %2$s</string>

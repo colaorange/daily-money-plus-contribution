@@ -216,12 +216,12 @@
     <string name="label_type">Typ</string>
     <string name="label_unknown">Unbekannt</string>
     <string name="label_warn">Warnung</string>
-    <string name="label_week_details">%5$s %1$s an %2$s - Woche %3$s/%4$s (%6$s)</string>
+    <string name="label_week_records">%5$s %1$s an %2$s - Woche %3$s/%4$s (%6$s)</string>
     <string name="label_weekly_expense">Wöchentlich : %1$s</string>
     <string name="label_what_is_new">Was gibt es Neues</string>
     <string name="label_working_book">Aktuelle Datenbank</string>
     <string name="label_working_book_account">Aktuelle Datenbank Konto</string>
-    <string name="label_year_details">%1$s (%2$s Einträge)</string>
+    <string name="label_year_records">%1$s (%2$s Einträge)</string>
 
     <string name="msg_account_created">Konto %1$s als %2$s erstellt</string>
     <string name="msg_account_deleted">Konto %1$s wurde gelöscht</string>

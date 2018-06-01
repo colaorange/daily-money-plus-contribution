@@ -216,12 +216,12 @@
     <string name="label_type">Τύπος</string>
     <string name="label_unknown">Άγνωστο</string>
     <string name="label_warn">Προειδοποίηση</string>
-    <string name="label_week_details">%5$s %1$s ως %2$s - Εβδομ %3$s/%4$s (%6$s)</string>
+    <string name="label_week_records">%5$s %1$s ως %2$s - Εβδομ %3$s/%4$s (%6$s)</string>
     <string name="label_weekly_expense">Εβδομ : %1$s</string>
     <string name="label_what_is_new">Νεότερα</string>
     <string name="label_working_book">Working book</string>
     <string name="label_working_book_account">Working book account</string>
-    <string name="label_year_details">%1$s (%2$s εγγραφές)</string>
+    <string name="label_year_records">%1$s (%2$s εγγραφές)</string>
 
     <string name="msg_account_created">Ο λογαριασμός %1$s δημιουργήθηκε σε τύπο %2$s</string>
     <string name="msg_account_deleted">Ο λογαριασμός %1$s διαγράφηκε</string>

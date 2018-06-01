@@ -216,12 +216,12 @@
     <string name="label_type">Típus</string>
     <string name="label_unknown">Ismeretlen</string>
     <string name="label_warn">Figyelmeztetés</string>
-    <string name="label_week_details">%5$s %1$s től %2$s ig. %3$s/%4$s hét (%6$s)</string>
+    <string name="label_week_records">%5$s %1$s től %2$s ig. %3$s/%4$s hét (%6$s)</string>
     <string name="label_weekly_expense">Heti : %1$s</string>
     <string name="label_what_is_new">Újdonságok</string>
     <string name="label_working_book">Working book</string>
     <string name="label_working_book_account">Working book account</string>
-    <string name="label_year_details">%1$s (%2$s rekord)</string>
+    <string name="label_year_records">%1$s (%2$s rekord)</string>
 
     <string name="msg_account_created">%1$s számla létrehozva a %2$s típusban</string>
     <string name="msg_account_deleted">%1$s számla törölve</string>

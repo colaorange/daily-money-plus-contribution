@@ -218,12 +218,12 @@
     <string name="label_type">類型</string>
     <string name="label_unknown">未知</string>
     <string name="label_warn">警告</string>
-    <string name="label_week_details">%5$s %1$s到%2$s - 周%3$s/%4$s(%6$s筆)</string>
+    <string name="label_week_records">%5$s %1$s到%2$s - 周%3$s/%4$s(%6$s筆)</string>
     <string name="label_weekly_expense">本周支出 : %1$s</string>
     <string name="label_what_is_new">有什麼新功能</string>
     <string name="label_working_book">使用中的帳本</string>
     <string name="label_working_book_account">使用中帳本的帳戶</string>
-    <string name="label_year_details">%1$s (%2$s筆)</string>
+    <string name="label_year_records">%1$s (%2$s筆)</string>
 
     <string name="msg_account_created">帳戶 %1$s 成功的被建立在帳戶型態 %2$s 中</string>
     <string name="msg_account_deleted">帳戶 %1$s 成功的刪除</string>

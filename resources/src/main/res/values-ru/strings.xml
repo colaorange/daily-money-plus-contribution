@@ -216,12 +216,12 @@
     <string name="label_type">Type</string>
     <string name="label_unknown">Unknown</string>
     <string name="label_warn">Warn</string>
-    <string name="label_week_details">%5$s %1$s к %2$s - Неделя %3$s/%4$s (%6$s)</string>
+    <string name="label_week_records">%5$s %1$s к %2$s - Неделя %3$s/%4$s (%6$s)</string>
     <string name="label_weekly_expense">Еженедельно : %1$s</string>
     <string name="label_what_is_new">What is new</string>
     <string name="label_working_book">Working book</string>
     <string name="label_working_book_account">Working book account</string>
-    <string name="label_year_details">%1$s (%2$s записей)</string>
+    <string name="label_year_records">%1$s (%2$s записей)</string>
 
     <string name="msg_account_created">Счет %1$s был создан типа %2$s</string>
     <string name="msg_account_deleted">Счет %1$s был удален</string>

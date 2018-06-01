@@ -216,12 +216,12 @@
     <string name="label_type">Type</string>
     <string name="label_unknown">Unknown</string>
     <string name="label_warn">Warn</string>
-    <string name="label_week_details">%5$s %1$s to %2$s - Week %3$s/%4$s (%6$s)</string>
+    <string name="label_week_records">%5$s %1$s to %2$s - Week %3$s/%4$s (%6$s)</string>
     <string name="label_weekly_expense">Weekly : %1$s</string>
     <string name="label_what_is_new">What is new</string>
     <string name="label_working_book">Working book</string>
     <string name="label_working_book_account">Working book account</string>
-    <string name="label_year_details">%1$s (%2$s records)</string>
+    <string name="label_year_records">%1$s (%2$s records)</string>
 
     <string name="msg_account_created">Account %1$s was created in type %2$s</string>
     <string name="msg_account_deleted">Account %1$s was deleted</string>
@@ -357,4 +357,7 @@
     <string name="chart_arg_calculation_mode_cumulative">Cumulative</string>
     <string name="label_previous_period">Previous period</string>
     <string name="msg_edit_line_monthly_expense_args">Select the calculation mode of this chart</string>
+    <string name="label_yearly_value">Yearly : %1$s</string>
+    <string name="label_monthly_value">Monthly : %1$s</string>
+    <string name="label_weekly_value">Weekly : %1$s</string>
 </resources>

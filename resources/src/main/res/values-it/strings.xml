@@ -216,12 +216,12 @@
     <string name="label_type">Tipo</string>
     <string name="label_unknown">Sconosciuto</string>
     <string name="label_warn">Avviso</string>
-    <string name="label_week_details">%5$s: %1$s &gt; %2$s - Settimana %3$s/%4$s (%6$s)</string>
+    <string name="label_week_records">%5$s: %1$s &gt; %2$s - Settimana %3$s/%4$s (%6$s)</string>
     <string name="label_weekly_expense">Settimanali: %1$s</string>
     <string name="label_what_is_new">Novità</string>
     <string name="label_working_book">Registro in uso</string> <!-- (conti+voci) -->
     <string name="label_working_book_account">Registro in uso (conti)</string>
-    <string name="label_year_details">%1$s (%2$s voci)</string>
+    <string name="label_year_records">%1$s (%2$s voci)</string>
 
     <string name="msg_account_created">Il conto %1$s di tipo %2$s è stato creato</string>
     <string name="msg_account_deleted">Il conto %1$s è stato eliminato</string>
