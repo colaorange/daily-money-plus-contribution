@@ -364,8 +364,8 @@
     <string name="chart_arg_calculation_mode_cumulative">加總的</string>
     <string name="label_previous_period">上一個區間</string>
     <string name="msg_edit_line_monthly_expense_args">選擇卡片的計算模式</string>
-    <string name="label_yearly_value">每年的 : %1$s</string>
-    <string name="label_monthly_value">每月的 : %1$s</string>
-    <string name="label_weekly_value">每日的 : %1$s</string>
+    <string name="label_yearly_value">年的 : %1$s</string>
+    <string name="label_monthly_value">月的 : %1$s</string>
+    <string name="label_weekly_value">周的 : %1$s</string>
 
 </resources>
