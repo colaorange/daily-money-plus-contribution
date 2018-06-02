@@ -6,7 +6,7 @@
     <string name="act_balance_piechart">结算图饼图</string>
     <string name="act_balance_reclist">明细清单</string>
     <string name="act_balance_yearly_linechart_cumulative">每月结算累计年度图</string>
-    <string name="act_balance_yearly_from_beginning_aggregate_line_chart">资产债务趋势图</string>
+    <string name="act_balance_yearly_aggregate_line_chart">资产债务趋势图</string>
     <string name="act_balance_yearly_linechart">每月结算年度图</string>
     <string name="act_cancel">取消</string>
     <string name="act_close">关闭</string>
@@ -82,7 +82,7 @@
     <string name="label_balance_from_beginning_liability">债务总计</string>
     <string name="label_balance_from_beginning_other">其他总计</string>
     <string name="label_balance_yearly_linechart_cumulative">%1$s 在 %2$s (累计)</string>
-    <string name="label_balance_yearly_runchart">资产债务趋势 在 %1$s</string>
+    <string name="label_yearly_aggregate_line_chart">资产债务趋势 在 %1$s</string>
     <string name="label_balance_yearly_linechart">%1$s 在 %2$s</string>
     <string name="label_busy">忙碌</string>
     <string name="label_cash_account">现金账户</string>
@@ -334,8 +334,8 @@
 
     <string name="card_nav_page">功能页面</string>
     <string name="card_info_expense">花费信息</string>
-    <string name="card_pie_weekly_expense">周花费</string>
-    <string name="card_pie_monthly_expense">月花费</string>
+    <string name="card_pie_weekly_expense">本周花费</string>
+    <string name="card_pie_monthly_expense">本月花费</string>
     <string name="msg_edit_desktop_title">编辑桌面标题</string>
     <string name="msg_edit_card_title">编辑卡片标题</string>
     <string name="act_add_card">新增卡片</string>
@@ -354,4 +354,17 @@
     <string name="label_prefs_enable_desktop3">启用桌面3</string>
     <string name="label_prefs_enable_desktop4">启用桌面4</string>
 
+    <!-- 20180529 -->
+    <string name="card_line_monthly_expense">本月支出</string>
+    <string name="card_line_monthly_expense_aggregate">本月支出</string>
+
+    <string name="msg_edit_card_arg">编辑卡片参数</string>
+
+    <string name="chart_arg_calculation_mode_individual">个自的</string>
+    <string name="chart_arg_calculation_mode_cumulative">加总的</string>
+    <string name="label_previous_period">上一个区间</string>
+    <string name="msg_edit_line_monthly_expense_args">选择卡片的计算模式</string>
+    <string name="label_yearly_value">每年的 : %1$s</string>
+    <string name="label_monthly_value">每月的 : %1$s</string>
+    <string name="label_weekly_value">每日的 : %1$s</string>
 </resources>

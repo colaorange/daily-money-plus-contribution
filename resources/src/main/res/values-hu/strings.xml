@@ -6,7 +6,7 @@
     <string name="act_balance_piechart">Kördiagram</string>
     <string name="act_balance_reclist">Tétel lista</string>
     <string name="act_balance_yearly_linechart_cumulative">Éves diagram (összesített)</string>
-    <string name="act_balance_yearly_from_beginning_aggregate_line_chart">Éves vagyon-tartozás folyamatdiagram</string>
+    <string name="act_balance_yearly_aggregate_line_chart">Éves vagyon-tartozás folyamatdiagram</string>
     <string name="act_balance_yearly_linechart">Éves diagram</string>
     <string name="act_cancel">Mégse</string>
     <string name="act_close">Bezár</string>
@@ -80,7 +80,7 @@
     <string name="label_balance_from_beginning_liability">Tartozás egyenleg</string>
     <string name="label_balance_from_beginning_other">Egyéb egyenleg</string>
     <string name="label_balance_yearly_linechart_cumulative">%1$s %2$s évben (összesített)</string>
-    <string name="label_balance_yearly_runchart">Vagyon-tartozás (összesített) %1$s évben</string>
+    <string name="label_yearly_aggregate_line_chart">Vagyon-tartozás (összesített) %1$s évben</string>
     <string name="label_balance_yearly_linechart">%1$s %2$s évben</string>
     <string name="label_busy">Foglalt</string>
     <string name="label_cash_account">Készpénz számla</string>
@@ -315,6 +315,8 @@
     <string name="msg_common_finished">\' %1$s\' has finsihed</string>
     <string name="qmsg_common_confirm">Do you want to do \'%1$s\'?</string>
 
+    <string name="act_apply">Apply</string>
+
     <!-- 20180523-->
     <string name="act_more">More</string>
     <string name="act_arrange_desktop">Arrange desktop</string>
@@ -345,5 +347,18 @@
     <string name="label_prefs_enable_desktop3">Enable desktop 3</string>
     <string name="label_prefs_enable_desktop4">Enable desktop 4</string>
 
-    <string name="act_apply">Apply</string>
+
+    <!-- 20180529 -->
+    <string name="card_line_monthly_expense">Monthly expense</string>
+    <string name="card_line_monthly_expense_aggregate">Monthly aggregate expense</string>
+
+    <string name="msg_edit_card_arg">Edit arguments of this card</string>
+
+    <string name="chart_arg_calculation_mode_individual">Individual</string>
+    <string name="chart_arg_calculation_mode_cumulative">Cumulative</string>
+    <string name="label_previous_period">Previous period</string>
+    <string name="msg_edit_line_monthly_expense_args">Select the calculation mode of this chart</string>
+    <string name="label_yearly_value">Yearly : %1$s</string>
+    <string name="label_monthly_value">Monthly : %1$s</string>
+    <string name="label_weekly_value">Weekly : %1$s</string>
 </resources>

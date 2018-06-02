@@ -6,7 +6,7 @@
     <string name="act_balance_piechart">Grafico a torta</string>
     <string name="act_balance_reclist">Lista voci</string>
     <string name="act_balance_yearly_linechart_cumulative">Grafico annuale (cumulativo)</string>
-    <string name="act_balance_yearly_from_beginning_aggregate_line_chart">Grafico annuale Patrimonio-Debiti</string>
+    <string name="act_balance_yearly_aggregate_line_chart">Grafico annuale Patrimonio-Debiti</string>
     <string name="act_balance_yearly_linechart">Grafico annuale</string>
     <string name="act_cancel">Annulla</string>
     <string name="act_close">Chiudi</string>
@@ -80,7 +80,7 @@
     <string name="label_balance_from_beginning_liability">Bilancio Debiti</string>
     <string name="label_balance_from_beginning_other">Bilancio Altro</string>
     <string name="label_balance_yearly_linechart_cumulative">%1$s in %2$s (cumulativo)</string>
-    <string name="label_balance_yearly_runchart">Patrimonio - Debiti (cumulativo) in %1$s</string>
+    <string name="label_yearly_aggregate_line_chart">Patrimonio - Debiti (cumulativo) in %1$s</string>
     <string name="label_balance_yearly_linechart">%1$s in %2$s</string>
     <string name="label_busy">Occupato</string>
     <string name="label_cash_account">Conto in Contanti</string>
@@ -342,6 +342,20 @@
     <string name="msg_select_cards">Select cards to add to the desktop</string>
     <string name="msg_field_empty_selection">Selection %1$s is empty</string>
     <string name="label_card_type">Card type</string>
+
+    <!-- 20180529 -->
+    <string name="card_line_monthly_expense">Monthly expense</string>
+    <string name="card_line_monthly_expense_aggregate">Monthly aggregate expense</string>
+
+    <string name="msg_edit_card_arg">Edit arguments of this card</string>
+
+    <string name="chart_arg_calculation_mode_individual">Individual</string>
+    <string name="chart_arg_calculation_mode_cumulative">Cumulative</string>
+    <string name="label_previous_period">Previous period</string>
+    <string name="msg_edit_line_monthly_expense_args">Select the calculation mode of this chart</string>
+    <string name="label_yearly_value">Yearly : %1$s</string>
+    <string name="label_monthly_value">Monthly : %1$s</string>
+    <string name="label_weekly_value">Weekly : %1$s</string>
 
     <string name="label_prefs_enable_desktop2">Enable desktop 2</string>
     <string name="label_prefs_enable_desktop3">Enable desktop 3</string>

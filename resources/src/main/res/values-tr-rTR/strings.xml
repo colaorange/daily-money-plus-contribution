@@ -6,7 +6,7 @@
     <string name="act_balance_piechart">Daire grafik</string>
     <string name="act_balance_reclist">Ayrýntý listesi</string>
     <string name="act_balance_yearly_linechart_cumulative">Yýllýk grafik(kümülativ)</string>
-    <string name="act_balance_yearly_from_beginning_aggregate_line_chart">Yýllýk varlýk-borç çalýþma grafiði</string>
+    <string name="act_balance_yearly_aggregate_line_chart">Yýllýk varlýk-borç çalýþma grafiði</string>
     <string name="act_balance_yearly_linechart">Yýllýk grafik</string>
     <string name="act_cancel">Ýptal</string>
     <string name="act_close">Kapat</string>
@@ -80,7 +80,7 @@
     <string name="label_balance_from_beginning_liability">Borç dengesi</string>
     <string name="label_balance_from_beginning_other">Diðer dengeler</string>
     <string name="label_balance_yearly_linechart_cumulative">Þundan %1$s þuna %2$s (kümülativ)</string>
-    <string name="label_balance_yearly_runchart">Varlýk-borç(kümülativ) in %1$s</string>
+    <string name="label_yearly_aggregate_line_chart">Varlýk-borç(kümülativ) in %1$s</string>
     <string name="label_balance_yearly_linechart">%1$s in %2$s</string>
     <string name="label_busy">Meþgul</string>
     <string name="label_cash_account">Nakit hesabý</string>
@@ -344,6 +344,20 @@
     <string name="label_prefs_enable_desktop2">Enable desktop 2</string>
     <string name="label_prefs_enable_desktop3">Enable desktop 3</string>
     <string name="label_prefs_enable_desktop4">Enable desktop 4</string>
+
+    <!-- 20180529 -->
+    <string name="card_line_monthly_expense">Monthly expense</string>
+    <string name="card_line_monthly_expense_aggregate">Monthly aggregate expense</string>
+
+    <string name="msg_edit_card_arg">Edit arguments of this card</string>
+
+    <string name="chart_arg_calculation_mode_individual">Individual</string>
+    <string name="chart_arg_calculation_mode_cumulative">Cumulative</string>
+    <string name="label_previous_period">Previous period</string>
+    <string name="msg_edit_line_monthly_expense_args">Select the calculation mode of this chart</string>
+    <string name="label_yearly_value">Yearly : %1$s</string>
+    <string name="label_monthly_value">Monthly : %1$s</string>
+    <string name="label_weekly_value">Weekly : %1$s</string>
 
     <string name="act_apply">Apply</string>
 </resources>

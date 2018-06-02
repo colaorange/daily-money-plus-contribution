@@ -6,7 +6,7 @@
     <string name="act_balance_piechart">Gráfico circular</string>
     <string name="act_balance_reclist">Lista de movimientos</string>
     <string name="act_balance_yearly_linechart_cumulative">Gráfico anual(acumulativo)</string>
-    <string name="act_balance_yearly_from_beginning_aggregate_line_chart">Gráfico de ejecución Deudas-Activos</string>
+    <string name="act_balance_yearly_aggregate_line_chart">Gráfico de ejecución Deudas-Activos</string>
     <string name="act_balance_yearly_linechart">Gráfico anual</string>
     <string name="act_cancel">Cancelar</string>
     <string name="act_close">Cerrar</string>
@@ -80,7 +80,7 @@
     <string name="label_balance_from_beginning_liability">Balance de deudas</string>
     <string name="label_balance_from_beginning_other">Otros balances</string>
     <string name="label_balance_yearly_linechart_cumulative">%1$s in %2$s (acumulativo)</string>
-    <string name="label_balance_yearly_runchart">Activos-Deudas(acumulativo) en %1$s</string>
+    <string name="label_yearly_aggregate_line_chart">Activos-Deudas(acumulativo) en %1$s</string>
     <string name="label_balance_yearly_linechart">%1$s in %2$s</string>
     <string name="label_busy">Ocupado</string>
     <string name="label_cash_account">Cuenta de efectivo</string>
@@ -346,4 +346,18 @@
     <string name="label_prefs_enable_desktop2">Enable desktop 2</string>
     <string name="label_prefs_enable_desktop3">Enable desktop 3</string>
     <string name="label_prefs_enable_desktop4">Enable desktop 4</string>
+
+    <!-- 20180529 -->
+    <string name="card_line_monthly_expense">Monthly expense</string>
+    <string name="card_line_monthly_expense_aggregate">Monthly aggregate expense</string>
+
+    <string name="msg_edit_card_arg">Edit arguments of this card</string>
+
+    <string name="chart_arg_calculation_mode_individual">Individual</string>
+    <string name="chart_arg_calculation_mode_cumulative">Cumulative</string>
+    <string name="label_previous_period">Previous period</string>
+    <string name="msg_edit_line_monthly_expense_args">Select the calculation mode of this chart</string>
+    <string name="label_yearly_value">Yearly : %1$s</string>
+    <string name="label_monthly_value">Monthly : %1$s</string>
+    <string name="label_weekly_value">Weekly : %1$s</string>
 </resources>
