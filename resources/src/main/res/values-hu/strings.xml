@@ -5,8 +5,8 @@
 
     <string name="act_balance_piechart">Kördiagram</string>
     <string name="act_balance_reclist">Tétel lista</string>
-    <string name="act_balance_yearly_cumulative_linechart">Éves diagram (összesített)</string>
-    <string name="act_balance_yearly_runchart">Éves vagyon-tartozás folyamatdiagram</string>
+    <string name="act_balance_yearly_linechart_cumulative">Éves diagram (összesített)</string>
+    <string name="act_balance_yearly_from_beginning_aggregate_line_chart">Éves vagyon-tartozás folyamatdiagram</string>
     <string name="act_balance_yearly_linechart">Éves diagram</string>
     <string name="act_cancel">Mégse</string>
     <string name="act_close">Bezár</string>

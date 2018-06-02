@@ -5,8 +5,8 @@
 
     <string name="act_balance_piechart">Γράφημα πίτας</string>
     <string name="act_balance_reclist">Λίστα συναλλαγών</string>
-    <string name="act_balance_yearly_cumulative_linechart">Ετήσιο διάγραμμα (σωρευτικό)</string>
-    <string name="act_balance_yearly_runchart">Ετήσιο Asset-Liability run γράφημα</string>
+    <string name="act_balance_yearly_linechart_cumulative">Ετήσιο διάγραμμα (σωρευτικό)</string>
+    <string name="act_balance_yearly_from_beginning_aggregate_line_chart">Ετήσιο Asset-Liability run γράφημα</string>
     <string name="act_balance_yearly_linechart">Ετήσιο γράφημα</string>
     <string name="act_cancel">Άκυρο</string>
     <string name="act_close">Κλείσιμο</string>

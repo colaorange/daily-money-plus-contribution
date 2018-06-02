@@ -5,8 +5,8 @@
 
     <string name="act_balance_piechart">Круговая диаграмма</string>
     <string name="act_balance_reclist">Список описаний</string>
-    <string name="act_balance_yearly_cumulative_linechart">Годовая диаграмма(совокупно)</string>
-    <string name="act_balance_yearly_runchart">Годовые Активы-Обязательство запустить диаграмму</string>
+    <string name="act_balance_yearly_linechart_cumulative">Годовая диаграмма(совокупно)</string>
+    <string name="act_balance_yearly_from_beginning_aggregate_line_chart">Годовые Активы-Обязательство запустить диаграмму</string>
     <string name="act_balance_yearly_linechart">Годовая диаграмма</string>
     <string name="act_cancel">Cancel</string>
     <string name="act_close">Close</string>

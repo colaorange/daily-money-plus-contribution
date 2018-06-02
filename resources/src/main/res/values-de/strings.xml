@@ -5,8 +5,8 @@
 
     <string name="act_balance_piechart">Tortendiagramm</string>
     <string name="act_balance_reclist">Eintragsliste</string>
-    <string name="act_balance_yearly_cumulative_linechart">Jahresdiagramm(Kumulativ)</string>
-    <string name="act_balance_yearly_runchart">Jährliches Vermögen-Schulden Diagramm</string>
+    <string name="act_balance_yearly_linechart_cumulative">Jahresdiagramm(Kumulativ)</string>
+    <string name="act_balance_yearly_from_beginning_aggregate_line_chart">Jährliches Vermögen-Schulden Diagramm</string>
     <string name="act_balance_yearly_linechart">Jahresdiagramm</string>
     <string name="act_cancel">Abbrechen</string>
     <string name="act_close">Schließen</string>

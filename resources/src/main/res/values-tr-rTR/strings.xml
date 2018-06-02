@@ -5,8 +5,8 @@
 
     <string name="act_balance_piechart">Daire grafik</string>
     <string name="act_balance_reclist">Ayrýntý listesi</string>
-    <string name="act_balance_yearly_cumulative_linechart">Yýllýk grafik(kümülativ)</string>
-    <string name="act_balance_yearly_runchart">Yýllýk varlýk-borç çalýþma grafiði</string>
+    <string name="act_balance_yearly_linechart_cumulative">Yýllýk grafik(kümülativ)</string>
+    <string name="act_balance_yearly_from_beginning_aggregate_line_chart">Yýllýk varlýk-borç çalýþma grafiði</string>
     <string name="act_balance_yearly_linechart">Yýllýk grafik</string>
     <string name="act_cancel">Ýptal</string>
     <string name="act_close">Kapat</string>

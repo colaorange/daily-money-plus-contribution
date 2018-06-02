@@ -5,8 +5,8 @@
 
     <string name="act_balance_piechart">Gráfico circular</string>
     <string name="act_balance_reclist">Lista de movimientos</string>
-    <string name="act_balance_yearly_cumulative_linechart">Gráfico anual(acumulativo)</string>
-    <string name="act_balance_yearly_runchart">Gráfico de ejecución Deudas-Activos</string>
+    <string name="act_balance_yearly_linechart_cumulative">Gráfico anual(acumulativo)</string>
+    <string name="act_balance_yearly_from_beginning_aggregate_line_chart">Gráfico de ejecución Deudas-Activos</string>
     <string name="act_balance_yearly_linechart">Gráfico anual</string>
     <string name="act_cancel">Cancelar</string>
     <string name="act_close">Cerrar</string>

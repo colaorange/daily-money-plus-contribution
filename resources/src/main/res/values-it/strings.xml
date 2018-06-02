@@ -5,8 +5,8 @@
 
     <string name="act_balance_piechart">Grafico a torta</string>
     <string name="act_balance_reclist">Lista voci</string>
-    <string name="act_balance_yearly_cumulative_linechart">Grafico annuale (cumulativo)</string>
-    <string name="act_balance_yearly_runchart">Grafico annuale Patrimonio-Debiti</string>
+    <string name="act_balance_yearly_linechart_cumulative">Grafico annuale (cumulativo)</string>
+    <string name="act_balance_yearly_from_beginning_aggregate_line_chart">Grafico annuale Patrimonio-Debiti</string>
     <string name="act_balance_yearly_linechart">Grafico annuale</string>
     <string name="act_cancel">Annulla</string>
     <string name="act_close">Chiudi</string>

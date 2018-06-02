@@ -5,8 +5,8 @@
 
     <string name="act_balance_piechart">结算图饼图</string>
     <string name="act_balance_reclist">明细清单</string>
-    <string name="act_balance_yearly_cumulative_linechart">每月结算累计年度图</string>
-    <string name="act_balance_yearly_runchart">资产债务趋势图</string>
+    <string name="act_balance_yearly_linechart_cumulative">每月结算累计年度图</string>
+    <string name="act_balance_yearly_from_beginning_aggregate_line_chart">资产债务趋势图</string>
     <string name="act_balance_yearly_linechart">每月结算年度图</string>
     <string name="act_cancel">取消</string>
     <string name="act_close">关闭</string>

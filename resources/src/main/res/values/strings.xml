@@ -5,8 +5,8 @@
 
     <string name="act_balance_piechart">Pie chart</string>
     <string name="act_balance_reclist">Record list</string>
-    <string name="act_balance_yearly_cumulative_linechart">Yearly chart(cumulative)</string>
-    <string name="act_balance_yearly_runchart">Yearly Asset-Liability run chart</string>
+    <string name="act_balance_yearly_linechart_cumulative">Yearly chart (cumulative)</string>
+    <string name="act_balance_yearly_from_beginning_aggregate_line_chart">Yearly from beginning Asset-Liability chart</string>
     <string name="act_balance_yearly_linechart">Yearly chart</string>
     <string name="act_cancel">Cancel</string>
     <string name="act_close">Close</string>
@@ -54,7 +54,7 @@
     <string name="nav_pg_monthly_list">Monthly list</string>
     <string name="nav_pg_weekly_list">Weekly list</string>
     <string name="nav_pg_yearly_list">Yearly list</string>
-    <string name="nav_pg_report_from_beginning_balance">From beginning Balance</string>
+    <string name="nav_pg_report_from_beginning_balance">Total Balance</string>
     <string name="nav_pg_report_monthly_balance">Monthly balance</string>
     <string name="nav_pg_report_search">Search</string>
     <string name="nav_pg_report_yearly_balance">Yearly balance</string>
