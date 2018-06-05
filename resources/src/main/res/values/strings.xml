@@ -317,7 +317,7 @@
 
     <string name="act_apply">Apply</string>
 
-    <!-- 20180523-->
+    <!-- 20180523 0.10.1-->
     <string name="act_more">More</string>
     <string name="act_arrange_desktop">Arrange desktop</string>
     <string name="act_edit_title">Edit title</string>
@@ -360,4 +360,10 @@
     <string name="label_yearly_value">Yearly : %1$s</string>
     <string name="label_monthly_value">Monthly : %1$s</string>
     <string name="label_weekly_value">Weekly : %1$s</string>
+
+    <!-- 20180605, 0.10.2 -->
+    <string name="label_today">Today</string>
+    <string name="label_tomorrow">Tomorrow</string>
+    <string name="label_yesterday">Yesterday</string>
+    <string name="label_feature">Feature</string>
 </resources>

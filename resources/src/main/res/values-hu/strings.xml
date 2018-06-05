@@ -347,7 +347,6 @@
     <string name="label_prefs_enable_desktop3">Enable desktop 3</string>
     <string name="label_prefs_enable_desktop4">Enable desktop 4</string>
 
-
     <!-- 20180529 -->
     <string name="card_line_monthly_expense">Monthly expense</string>
     <string name="card_line_monthly_expense_aggregate">Monthly aggregate expense</string>
@@ -361,4 +360,10 @@
     <string name="label_yearly_value">Yearly : %1$s</string>
     <string name="label_monthly_value">Monthly : %1$s</string>
     <string name="label_weekly_value">Weekly : %1$s</string>
+
+    <!-- 20180605, 0.10.2 -->
+    <string name="label_today">Today</string>
+    <string name="label_tomorrow">Tomorrow</string>
+    <string name="label_yesterday">Yesterday</string>
+    <string name="label_feature">Feature</string>
 </resources>
