@@ -271,7 +271,6 @@
     <string name="qmsg_restore_data">Cảnh báo: Dữ liệu hiện tại sẽ bị thay thế, bạn có muốn khôi phục không? </string>
     <string name="qmsg_share_csv">Chia sẻ tập tin CSV nào?</string>
 
-    <string name="search_reset">Đặt lại</string>
 
     <string name="title_acceditor">Chỉnh sửa Tài khoản</string>
     <string name="title_acceditor_create">Tạo mới Tài khoản</string>

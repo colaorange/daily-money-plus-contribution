@@ -270,7 +270,6 @@
     <string name="qmsg_restore_data">WARN: Current data will be replaced, do you still want to restore?</string>
     <string name="qmsg_share_csv">Каким файлам CSV дать доступ?</string>
 
-    <string name="search_reset">Reset</string>
 
     <string name="title_acceditor">Редактор счета</string>
     <string name="title_acceditor_create">Создать счет</string>
@@ -365,5 +364,10 @@
     <string name="label_today">Today</string>
     <string name="label_tomorrow">Tomorrow</string>
     <string name="label_yesterday">Yesterday</string>
-    <string name="label_feature">Feature</string>
+    <string name="label_future">Future</string>
+
+    <!-- 20180606 -->
+    <string name="label_search">Search</string>
+    <string name="msg_no_condition">You didn\'t provide any condition</string>
+    <string name="msg_search_provide_condition">Provide some conditions to search</string>
 </resources>

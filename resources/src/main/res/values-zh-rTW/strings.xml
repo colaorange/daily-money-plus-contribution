@@ -277,7 +277,6 @@
     <string name="qmsg_restore_data">警告: 現行資料將被取代, 您依然想要還原資料嗎?</string>
     <string name="qmsg_share_csv">分享那些CSV檔?</string>
 
-    <string name="search_reset">重設</string>
 
     <string name="title_acceditor">帳戶編輯器</string>
     <string name="title_acceditor_create">建立帳戶</string>
@@ -372,6 +371,11 @@
     <string name="label_today">今天</string>
     <string name="label_tomorrow">明天</string>
     <string name="label_yesterday">昨天</string>
-    <string name="label_feature">未來</string>
+    <string name="label_future">未來</string>
+
+    <!-- 20180606 -->
+    <string name="label_search">搜尋</string>
+    <string name="msg_no_condition">你沒有提供任何條件</string>
+    <string name="msg_search_provide_condition">請提供條件以進行搜尋</string>
 
 </resources>
