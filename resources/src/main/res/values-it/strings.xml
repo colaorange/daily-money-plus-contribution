@@ -6,7 +6,7 @@
     <string name="label_chart_account_pie">Grafico a torta</string>
     <string name="label_balance_reclist">Lista voci</string>
     <string name="label_chart_account_cumulative_line">Account cumulative line-chart</string>
-    <string name="label_chart_from_beginning_account_aggregate_line">Account aggregate line-chart</string>
+    <string name="label_chart_from_beginning_account_aggregate_line">Total aggregate line-chart</string>
     <string name="label_chart_account_line">Account line-chart</string>
     <string name="act_cancel">Annulla</string>
     <string name="act_close">Chiudi</string>
@@ -374,4 +374,7 @@
     <!-- 20180611 -->
     <string name="act_slide_hint">Slide hint</string>
     <string name="msg_slide_hint">You can slide right or left to change to previous or next page</string>
+
+    <string name="label_chart_account_aggregate_line">Aggregate line-chart</string>
+    <string name="label_chart_account_aggregate_cumulative_line">Aggregate line-chart (cumulative)</string>
 </resources>

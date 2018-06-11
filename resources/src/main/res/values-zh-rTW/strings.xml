@@ -5,8 +5,8 @@
 
     <string name="label_chart_account_pie">帳戶圓餅圖</string>
     <string name="label_balance_reclist">明細清單</string>
-    <string name="label_chart_account_cumulative_line">帳戶累加折線圖</string>
-    <string name="label_chart_from_beginning_account_aggregate_line">帳戶整體折線圖</string>
+    <string name="label_chart_account_cumulative_line">帳戶折線圖(累加)</string>
+    <string name="label_chart_from_beginning_account_aggregate_line">總計集合折線圖</string>
     <string name="label_chart_account_line">帳戶折線圖</string>
     <string name="act_cancel">取消</string>
     <string name="act_close">關閉</string>
@@ -81,8 +81,8 @@
     <string name="label_balance_from_beginning_income">收入總結算</string>
     <string name="label_balance_from_beginning_liability">債務總結算</string>
     <string name="label_balance_from_beginning_other">其他總結算</string>
-    <string name="label_balance_yearly_linechart_cumulative">%1$s 在 %2$s (累計)</string>
-    <string name="msg_chart_from_beginning_account_aggregate_line">帳戶整體值到 %1$s</string>
+    <string name="label_balance_yearly_linechart_cumulative">%1$s 在 %2$s (累加)</string>
+    <string name="msg_chart_from_beginning_account_aggregate_line">帳戶總計到 %1$s</string>
     <string name="label_balance_yearly_linechart">%1$s 在 %2$s</string>
     <string name="label_busy">忙碌</string>
     <string name="label_cash_account">現金帳戶</string>
@@ -355,12 +355,12 @@
 
     <!-- 20180529 -->
     <string name="card_line_monthly_expense">本月各項支出</string>
-    <string name="card_line_monthly_expense_aggregate">本月整體支出</string>
+    <string name="card_line_monthly_expense_aggregate">本月集合支出</string>
 
     <string name="msg_edit_card_arg">編輯卡片參數</string>
 
     <string name="chart_arg_calculation_mode_individual">個自的</string>
-    <string name="chart_arg_calculation_mode_cumulative">加總的</string>
+    <string name="chart_arg_calculation_mode_cumulative">累加的</string>
     <string name="label_previous_period">上一個區間</string>
     <string name="msg_edit_line_monthly_expense_args">選擇卡片的計算模式</string>
     <string name="label_yearly_value">年 : %1$s</string>
@@ -381,4 +381,7 @@
     <!-- 20180611 -->
     <string name="act_slide_hint">滑動提示</string>
     <string name="msg_slide_hint">您可以向右或向左滑動來變更頁面到上一頁或下一頁</string>
+
+    <string name="label_chart_account_aggregate_line">集合折線圖</string>
+    <string name="label_chart_account_aggregate_cumulative_line">集合折線圖(累加)</string>
 </resources>
