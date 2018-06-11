@@ -3,11 +3,11 @@
     <string name="a1_lang_english_name">Hungarian</string>
     <string name="a1_lang_native_name">Magyar</string>
 
-    <string name="act_balance_piechart">Kördiagram</string>
-    <string name="act_balance_reclist">Tétel lista</string>
-    <string name="act_balance_yearly_linechart_cumulative">Éves diagram (összesített)</string>
-    <string name="act_balance_yearly_aggregate_line_chart">Éves vagyon-tartozás folyamatdiagram</string>
-    <string name="act_balance_yearly_linechart">Éves diagram</string>
+    <string name="label_chart_account_pie">Kördiagram</string>
+    <string name="label_balance_reclist">Tétel lista</string>
+    <string name="label_chart_account_cumulative_line">Account cumulative line-chart</string>
+    <string name="label_chart_from_beginning_account_aggregate_line">Account aggregate line-chart</string>
+    <string name="label_chart_account_line">Account line-chart</string>
     <string name="act_cancel">Mégse</string>
     <string name="act_close">Bezár</string>
     <string name="act_copy">Másol</string>
@@ -80,7 +80,7 @@
     <string name="label_balance_from_beginning_liability">Tartozás egyenleg</string>
     <string name="label_balance_from_beginning_other">Egyéb egyenleg</string>
     <string name="label_balance_yearly_linechart_cumulative">%1$s %2$s évben (összesített)</string>
-    <string name="label_yearly_aggregate_line_chart">Vagyon-tartozás (összesített) %1$s évben</string>
+    <string name="msg_chart_from_beginning_account_aggregate_line">Aggregate value until %1$s</string>
     <string name="label_balance_yearly_linechart">%1$s %2$s évben</string>
     <string name="label_busy">Foglalt</string>
     <string name="label_cash_account">Készpénz számla</string>

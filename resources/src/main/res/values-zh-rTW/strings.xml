@@ -3,11 +3,11 @@
     <string name="a1_lang_english_name">Tradional Chinese</string>
     <string name="a1_lang_native_name">繁體中文</string>
 
-    <string name="act_balance_piechart">結算圓餅圖</string>
-    <string name="act_balance_reclist">明細清單</string>
-    <string name="act_balance_yearly_linechart_cumulative">每月結算累計年度圖</string>
-    <string name="act_balance_yearly_aggregate_line_chart">資產債務趨勢圖</string>
-    <string name="act_balance_yearly_linechart">每月結算年度圖</string>
+    <string name="label_chart_account_pie">帳戶圓餅圖</string>
+    <string name="label_balance_reclist">明細清單</string>
+    <string name="label_chart_account_cumulative_line">帳戶累加折線圖</string>
+    <string name="label_chart_from_beginning_account_aggregate_line">帳戶整體折線圖</string>
+    <string name="label_chart_account_line">帳戶折線圖</string>
     <string name="act_cancel">取消</string>
     <string name="act_close">關閉</string>
     <string name="act_copy">複製</string>
@@ -82,7 +82,7 @@
     <string name="label_balance_from_beginning_liability">債務總結算</string>
     <string name="label_balance_from_beginning_other">其他總結算</string>
     <string name="label_balance_yearly_linechart_cumulative">%1$s 在 %2$s (累計)</string>
-    <string name="label_yearly_aggregate_line_chart">資產債務趨勢 在 %1$s</string>
+    <string name="msg_chart_from_beginning_account_aggregate_line">帳戶整體值到 %1$s</string>
     <string name="label_balance_yearly_linechart">%1$s 在 %2$s</string>
     <string name="label_busy">忙碌</string>
     <string name="label_cash_account">現金帳戶</string>
@@ -354,8 +354,8 @@
     <string name="label_prefs_enable_desktop4">啟用桌面4</string>
 
     <!-- 20180529 -->
-    <string name="card_line_monthly_expense">本月支出</string>
-    <string name="card_line_monthly_expense_aggregate">本月支出</string>
+    <string name="card_line_monthly_expense">本月各項支出</string>
+    <string name="card_line_monthly_expense_aggregate">本月整體支出</string>
 
     <string name="msg_edit_card_arg">編輯卡片參數</string>
 

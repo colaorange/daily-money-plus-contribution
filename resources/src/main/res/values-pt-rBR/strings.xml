@@ -3,11 +3,11 @@
     <string name="a1_lang_english_name">Portuguese</string>
     <string name="a1_lang_native_name">Português</string>
 
-    <string name="act_balance_piechart">Gráfico Pizza</string>
-    <string name="act_balance_reclist">Lista de Detalhes</string>
-    <string name="act_balance_yearly_linechart_cumulative">Gráfico anual cumulativo</string>
-    <string name="act_balance_yearly_aggregate_line_chart">Evolução Ativo-Empréstimo</string>
-    <string name="act_balance_yearly_linechart">Gráfico anual</string>
+    <string name="label_chart_account_pie">Gráfico Pizza</string>
+    <string name="label_balance_reclist">Lista de Detalhes</string>
+    <string name="label_chart_account_cumulative_line">Account cumulative line-chart</string>
+    <string name="label_chart_from_beginning_account_aggregate_line">Account aggregate line-chart</string>
+    <string name="label_chart_account_line">Account line-chart</string>
     <string name="act_cancel">Cancelar</string>
     <string name="act_close">Fechar</string>
     <string name="act_copy">Copiar</string>
@@ -80,7 +80,7 @@
     <string name="label_balance_from_beginning_liability">Balanço de Empréstimos</string>
     <string name="label_balance_from_beginning_other">Balanço de Outros</string>
     <string name="label_balance_yearly_linechart_cumulative">%1$s em %2$s cumulativo</string>
-    <string name="label_yearly_aggregate_line_chart">Ativo-Empréstimo cumulativo em %1$s</string>
+    <string name="msg_chart_from_beginning_account_aggregate_line">Aggregate value until %1$s</string>
     <string name="label_balance_yearly_linechart">%1$s em %2$s</string>
     <string name="label_busy">Ocupado</string>
     <string name="label_cash_account">Conta de dinheiro</string>

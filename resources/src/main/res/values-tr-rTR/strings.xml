@@ -3,11 +3,11 @@
     <string name="a1_lang_english_name">Turkish</string>
     <string name="a1_lang_native_name">Türk</string>
 
-    <string name="act_balance_piechart">Daire grafik</string>
-    <string name="act_balance_reclist">Ayrýntý listesi</string>
-    <string name="act_balance_yearly_linechart_cumulative">Yýllýk grafik(kümülativ)</string>
-    <string name="act_balance_yearly_aggregate_line_chart">Yýllýk varlýk-borç çalýþma grafiði</string>
-    <string name="act_balance_yearly_linechart">Yýllýk grafik</string>
+    <string name="label_chart_account_pie">Daire grafik</string>
+    <string name="label_balance_reclist">Ayrýntý listesi</string>
+    <string name="label_chart_account_cumulative_line">Account cumulative line-chart</string>
+    <string name="label_chart_from_beginning_account_aggregate_line">Account aggregate line-chart</string>
+    <string name="label_chart_account_line">Account line-chart</string>
     <string name="act_cancel">Ýptal</string>
     <string name="act_close">Kapat</string>
     <string name="act_copy">Kopyala</string>
@@ -80,7 +80,7 @@
     <string name="label_balance_from_beginning_liability">Borç dengesi</string>
     <string name="label_balance_from_beginning_other">Diðer dengeler</string>
     <string name="label_balance_yearly_linechart_cumulative">Þundan %1$s þuna %2$s (kümülativ)</string>
-    <string name="label_yearly_aggregate_line_chart">Varlýk-borç(kümülativ) in %1$s</string>
+    <string name="msg_chart_from_beginning_account_aggregate_line">Aggregate value until %1$s</string>
     <string name="label_balance_yearly_linechart">%1$s in %2$s</string>
     <string name="label_busy">Meþgul</string>
     <string name="label_cash_account">Nakit hesabý</string>

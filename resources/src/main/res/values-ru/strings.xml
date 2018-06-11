@@ -3,11 +3,11 @@
     <string name="a1_lang_english_name">Russian</string>
     <string name="a1_lang_native_name">Pусский</string>
 
-    <string name="act_balance_piechart">Круговая диаграмма</string>
-    <string name="act_balance_reclist">Список описаний</string>
-    <string name="act_balance_yearly_linechart_cumulative">Годовая диаграмма(совокупно)</string>
-    <string name="act_balance_yearly_aggregate_line_chart">Годовые Активы-Обязательство запустить диаграмму</string>
-    <string name="act_balance_yearly_linechart">Годовая диаграмма</string>
+    <string name="label_chart_account_pie">Круговая диаграмма</string>
+    <string name="label_balance_reclist">Список описаний</string>
+    <string name="label_chart_account_cumulative_line">Account cumulative line-chart</string>
+    <string name="label_chart_from_beginning_account_aggregate_line">Account aggregate line-chart</string>
+    <string name="label_chart_account_line">Account line-chart</string>
     <string name="act_cancel">Cancel</string>
     <string name="act_close">Close</string>
     <string name="act_copy">Copy</string>
@@ -80,7 +80,7 @@
     <string name="label_balance_from_beginning_liability">Обязательство баланса</string>
     <string name="label_balance_from_beginning_other">Другое в балансе</string>
     <string name="label_balance_yearly_linechart_cumulative">%1$s в %2$s (совокупно)</string>
-    <string name="label_yearly_aggregate_line_chart">Активы-Обязательство(совокупн) в %1$s</string>
+    <string name="msg_chart_from_beginning_account_aggregate_line">Aggregate value until %1$s</string>
     <string name="label_balance_yearly_linechart">%1$s в %2$s</string>
     <string name="label_busy">Busy</string>
     <string name="label_cash_account">Денежные счета</string>

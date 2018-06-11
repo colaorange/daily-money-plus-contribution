@@ -3,11 +3,11 @@
     <string name="a1_lang_english_name">Greek</string>
     <string name="a1_lang_native_name">Ελληνικά</string>
 
-    <string name="act_balance_piechart">Γράφημα πίτας</string>
-    <string name="act_balance_reclist">Λίστα συναλλαγών</string>
-    <string name="act_balance_yearly_linechart_cumulative">Ετήσιο διάγραμμα (σωρευτικό)</string>
-    <string name="act_balance_yearly_aggregate_line_chart">Ετήσιο Asset-Liability run γράφημα</string>
-    <string name="act_balance_yearly_linechart">Ετήσιο γράφημα</string>
+    <string name="label_chart_account_pie">Γράφημα πίτας</string>
+    <string name="label_balance_reclist">Λίστα συναλλαγών</string>
+    <string name="label_chart_account_cumulative_line">Account cumulative line-chart</string>
+    <string name="label_chart_from_beginning_account_aggregate_line">Account aggregate line-chart</string>
+    <string name="label_chart_account_line">Account line-chart</string>
     <string name="act_cancel">Άκυρο</string>
     <string name="act_close">Κλείσιμο</string>
     <string name="act_copy">Αντιγραφή</string>
@@ -80,7 +80,7 @@
     <string name="label_balance_from_beginning_liability">Πιστωτικές κάρτες</string>
     <string name="label_balance_from_beginning_other">Άλλα Υπόλοιπα</string>
     <string name="label_balance_yearly_linechart_cumulative">%1$s in %2$s (σωρευτικό)</string>
-    <string name="label_yearly_aggregate_line_chart">Asset-Liability (σωρευτικό) in %1$s</string>
+    <string name="msg_chart_from_beginning_account_aggregate_line">Aggregate value until %1$s</string>
     <string name="label_balance_yearly_linechart">%1$s in %2$s</string>
     <string name="label_busy">Απασχολημένο</string>
     <string name="label_cash_account">Λογαριασμός Μετρητών</string>
