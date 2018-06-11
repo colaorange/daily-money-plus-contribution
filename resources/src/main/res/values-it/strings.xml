@@ -370,4 +370,8 @@
     <string name="label_search">Search</string>
     <string name="msg_no_condition">You didn\'t provide any condition</string>
     <string name="msg_search_provide_condition">Provide some conditions to search</string>
+
+    <!-- 20180611 -->
+    <string name="act_slide_hint">Slide hint</string>
+    <string name="msg_slide_hint">You can slide right or left to change to previous or next page</string>
 </resources>

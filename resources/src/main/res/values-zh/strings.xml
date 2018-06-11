@@ -377,4 +377,8 @@
     <string name="label_search">搜尋</string>
     <string name="msg_no_condition">你沒有提供任何條件</string>
     <string name="msg_search_provide_condition">請提供條件以進行搜尋</string>
+
+    <!-- 20180611 -->
+    <string name="act_slide_hint">滑動提示</string>
+    <string name="msg_slide_hint">您可以向右或向左滑動來變更頁面到上一頁或下一頁</string>
 </resources>

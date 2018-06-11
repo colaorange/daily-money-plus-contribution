@@ -375,8 +375,13 @@
 
     <!-- 20180606 -->
     <string name="label_search">搜寻</string>
-    <string name="msg_no_condition">你没有提供任何条件</string>
+    <string name="msg_no_condition">您没有提供任何条件</string>
     <string name="msg_search_provide_condition">请提供条件以进行搜寻</string>
+
+    <!-- 20180611 -->
+    <string name="act_slide_hint">滑动提示</string>
+    <string name="msg_slide_hint">您可以向右或向左滑动来变更页面到上一页或下一页</string>
+
 
 
 </resources>
