@@ -70,10 +70,8 @@
     <string name="label_asset">Vermögen</string>
     <string name="label_backup_data">Backup erstellen</string>
     <string name="label_balance">Bilanz</string>
-    <string name="label_balance_mode_month">In %1$s (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_month">bis %1$s (-%2$s)</string>
-    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_year">Bilanz bis ins Jahr %1$s (%2$s)</string>
+    <string name="label_in_time">In %1$s (%2$s-%3$s)</string>
+    <string name="label_until_time">bis %1$s (-%2$s)</string>
     <string name="label_balance_from_beginning_asset">Vermögensbilanz</string>
     <string name="label_balance_from_beginning_expense">Ausgabensbilanz</string>
     <string name="label_balance_from_beginning_income">Einkommensbilanz</string>

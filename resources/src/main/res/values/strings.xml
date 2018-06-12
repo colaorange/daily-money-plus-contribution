@@ -70,10 +70,8 @@
     <string name="label_asset">Asset</string>
     <string name="label_backup_data">Backup Data</string>
     <string name="label_balance">Balance</string>
-    <string name="label_balance_mode_month">In %1$s (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_month">Until %1$s (-%2$s)</string>
-    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_year">Balance until year %1$s (%2$s)</string>
+    <string name="label_in_time">In %1$s (%2$s-%3$s)</string>
+    <string name="label_until_time">Until %1$s (-%2$s)</string>
     <string name="label_balance_from_beginning_asset">Asset balance</string>
     <string name="label_balance_from_beginning_expense">Expense balance</string>
     <string name="label_balance_from_beginning_income">Income balance</string>

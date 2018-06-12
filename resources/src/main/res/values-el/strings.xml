@@ -70,10 +70,8 @@
     <string name="label_asset">Λογαριασμοί</string>
     <string name="label_backup_data">Backup δεδομένων</string>
     <string name="label_balance">Balance</string>
-    <string name="label_balance_mode_month">%1$s (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_month">Μέχρι %1$s (%2$s)</string>
-    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_year">Ισοζύγιο μέχρι το έτος %1$s (%2$s)</string>
+    <string name="label_in_time">%1$s (%2$s-%3$s)</string>
+    <string name="label_until_time">Μέχρι %1$s (%2$s)</string>
     <string name="label_balance_from_beginning_asset">Περιουσία</string>
     <string name="label_balance_from_beginning_expense">Δαπάνες</string>
     <string name="label_balance_from_beginning_income">Εισοδήματα</string>

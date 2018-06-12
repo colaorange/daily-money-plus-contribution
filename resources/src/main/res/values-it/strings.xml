@@ -70,10 +70,8 @@
     <string name="label_asset">Conto</string>
     <string name="label_backup_data">Backup</string>
     <string name="label_balance">Bilancio</string>
-    <string name="label_balance_mode_month">%1$s (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_month">fino al %1$s (%2$s)</string>
-    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_year">Bilancio fino all\'anno %1$s (%2$s)</string>
+    <string name="label_in_time">%1$s (%2$s-%3$s)</string>
+    <string name="label_until_time">fino al %1$s (%2$s)</string>
     <string name="label_balance_from_beginning_asset">Bilancio Conti</string>
     <string name="label_balance_from_beginning_expense">Bilancio Spese</string>
     <string name="label_balance_from_beginning_income">Bilancio Entrate</string>

@@ -70,10 +70,8 @@
     <string name="label_asset">Активы</string>
     <string name="label_backup_data">備份資料</string>
     <string name="label_balance">Баланс</string>
-    <string name="label_balance_mode_month">за %1$s (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_month">до %1$s (%2$s)</string>
-    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_year">Баланс до %1$s года (%2$s)</string>
+    <string name="label_in_time">за %1$s (%2$s-%3$s)</string>
+    <string name="label_until_time">до %1$s (%2$s)</string>
     <string name="label_balance_from_beginning_asset">Активы баланса</string>
     <string name="label_balance_from_beginning_expense">Расходы баланса</string>
     <string name="label_balance_from_beginning_income">Баланс доходов</string>

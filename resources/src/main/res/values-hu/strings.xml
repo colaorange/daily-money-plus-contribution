@@ -70,10 +70,8 @@
     <string name="label_asset">Vagyon</string>
     <string name="label_backup_data">備份資料</string>
     <string name="label_balance">Balance</string>
-    <string name="label_balance_mode_month">%1$s hó (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_month">Egyenleg %1$s-ig (-%2$s)</string>
-    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_year">Egyenleg %1$s évig (%2$s)</string>
+    <string name="label_in_time">%1$s hó (%2$s-%3$s)</string>
+    <string name="label_until_time">Egyenleg %1$s-ig (-%2$s)</string>
     <string name="label_balance_from_beginning_asset">Vagyon egyenleg</string>
     <string name="label_balance_from_beginning_expense">Kiadás egyenleg</string>
     <string name="label_balance_from_beginning_income">Bevétel egyenleg</string>

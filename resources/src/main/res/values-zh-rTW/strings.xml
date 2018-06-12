@@ -72,10 +72,8 @@
     <string name="label_asset">資產</string>
     <string name="label_backup_data">備份資料</string>
     <string name="label_balance">结算</string>
-    <string name="label_balance_mode_month">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_month">到 %1$s (%2$s)</string>
-    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_year">到 %1$s (%2$s)</string>
+    <string name="label_in_time">在 %1$s - (%2$s-%3$s)</string>
+    <string name="label_until_time">到 %1$s (%2$s)</string>
     <string name="label_balance_from_beginning_asset">資產總結算</string>
     <string name="label_balance_from_beginning_expense">支出總結算</string>
     <string name="label_balance_from_beginning_income">收入總結算</string>

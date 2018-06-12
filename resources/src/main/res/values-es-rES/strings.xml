@@ -70,10 +70,8 @@
     <string name="label_asset">Activos</string>
     <string name="label_backup_data">備份資料</string>
     <string name="label_balance">Balance</string>
-    <string name="label_balance_mode_month">En %1$s (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_month">Hasta %1$s (-%2$s)</string>
-    <string name="label_balance_mode_year">%1$s - (%2$s-%3$s)</string>
-    <string name="label_balance_from_beginning_year">Balance hasta el año %1$s (%2$s)</string>
+    <string name="label_in_time">En %1$s (%2$s-%3$s)</string>
+    <string name="label_until_time">Hasta %1$s (-%2$s)</string>
     <string name="label_balance_from_beginning_asset">Balance de activos</string>
     <string name="label_balance_from_beginning_expense">Balance de gastos</string>
     <string name="label_balance_from_beginning_income">Balance de ingresos</string>
