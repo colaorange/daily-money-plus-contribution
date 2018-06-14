@@ -375,4 +375,7 @@
 
     <string name="label_chart_account_aggregate_line">Aggregate line-chart</string>
     <string name="label_chart_account_aggregate_cumulative_line">Aggregate line-chart (cumulative)</string>
+
+    <!--20180614-->
+    <string name="msg_data_loading">Data loading...</string>
 </resources>
