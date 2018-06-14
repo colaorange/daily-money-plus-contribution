@@ -86,7 +86,7 @@
     <string name="label_contributor">Collaboratori</string>
     <string name="label_count">(%1$s)</string>
     <string name="label_create_default">Crea conti di default</string>
-    <string name="label_cumulative_cash">Contanti: %1$s</string>
+    <string name="label_cumulative_cash">Contanti</string>
     <string name="label_date">Data</string>
     <string name="label_day_records">%1$s (%2$s record)</string>
     <string name="label_default">Default</string>
@@ -108,7 +108,7 @@
     <string name="label_liability">Debiti</string>
     <string name="label_money">Soldi</string>
     <string name="label_month_records">%1$s (%2$s voci)</string>
-    <string name="label_monthly_expense">Mensili: %1$s</string>
+    <string name="label_this_month_expense">Mensili</string>
     <string name="label_name">Nome</string>
     <string name="label_note">Note</string>
     <string name="label_other">Altro</string>
@@ -185,11 +185,6 @@
     <string name="label_rec_layout3">Soldi - A</string>
     <string name="label_rec_layout4">Soldi - Note</string>
     <string name="label_reclist_from">%1$s</string>
-    <string name="label_reclist_sum_asset">Conto %1$s </string>
-    <string name="label_reclist_sum_expense">Spesa %1$s</string>
-    <string name="label_reclist_sum_income">Entrata %1$s</string>
-    <string name="label_reclist_sum_liability">Debito %1$s</string>
-    <string name="label_reclist_sum_other">Altro %1$s</string>
     <string name="label_reclist_to">%1$s</string>
     <string name="label_record">Voci</string>
     <string name="label_record_only">Solo voci</string>
@@ -215,7 +210,7 @@
     <string name="label_unknown">Sconosciuto</string>
     <string name="label_warn">Avviso</string>
     <string name="label_week_records">%5$s: %1$s &gt; %2$s - Settimana %3$s/%4$s (%6$s)</string>
-    <string name="label_weekly_expense">Settimanali: %1$s</string>
+    <string name="label_this_week_expense">Settimanali</string>
     <string name="label_what_is_new">Novità</string>
     <string name="label_working_book">Registro in uso</string> <!-- (conti+voci) -->
     <string name="label_working_book_account">Registro in uso (conti)</string>
@@ -375,4 +370,12 @@
 
     <string name="label_chart_account_aggregate_line">Aggregate line-chart</string>
     <string name="label_chart_account_aggregate_cumulative_line">Aggregate line-chart (cumulative)</string>
+
+    <!--20180614-->
+    <string name="msg_data_loading">Data loading...</string>
+
+    <string name="label_yearly">Yearly</string>
+    <string name="label_monthly">Monthly</string>
+    <string name="label_weekly">Weekly</string>
+    <string name="label_cash">Cash</string>
 </resources>

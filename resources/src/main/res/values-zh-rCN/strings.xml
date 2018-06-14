@@ -88,7 +88,7 @@
     <string name="label_contributor">貢獻者</string>
     <string name="label_count">(%1$s)</string>
     <string name="label_create_default">建立预设的资料(账户)</string>
-    <string name="label_cumulative_cash">现金 : %1$s</string>
+    <string name="label_cumulative_cash">现金</string>
     <string name="label_date">日期</string>
     <string name="label_day_records">%1$s (%2$s笔</string>
     <string name="label_default">预设</string>
@@ -110,7 +110,7 @@
     <string name="label_liability">债务</string>
     <string name="label_money">金钱</string>
     <string name="label_month_records">%1$s (%2$s笔)</string>
-    <string name="label_monthly_expense">本月支出 : %1$s</string>
+    <string name="label_this_month_expense">本月支出</string>
     <string name="label_name">名称</string>
     <string name="label_note">备注</string>
     <string name="label_other">其他</string>
@@ -187,11 +187,6 @@
     <string name="label_rec_layout3">金钱-账户</string>
     <string name="label_rec_layout4">金钱-备注</string>
     <string name="label_reclist_from">%1$s</string>
-    <string name="label_reclist_sum_asset">资产%1$s</string>
-    <string name="label_reclist_sum_expense">支出%1$s</string>
-    <string name="label_reclist_sum_income">收入%1$s</string>
-    <string name="label_reclist_sum_liability">债务%1$s</string>
-    <string name="label_reclist_sum_other">其他%1$s</string>
     <string name="label_reclist_to">%1$s</string>
     <string name="label_record">明细</string>
     <string name="label_record_only">只有明细</string>
@@ -217,7 +212,7 @@
     <string name="label_unknown">未知</string>
     <string name="label_warn">警告</string>
     <string name="label_week_records">%5$s %1$s到%2$s - 周%3$s/%4$s(%6$s笔)</string>
-    <string name="label_weekly_expense">本周支出 : %1$s</string>
+    <string name="label_this_week_expense">本周支出</string>
     <string name="label_what_is_new">有什麼新功能</string>
     <string name="label_working_book">使用中的帐本</string>
     <string name="label_working_book_account">使用中帐本的帐号</string>
@@ -361,9 +356,9 @@
     <string name="chart_arg_calculation_mode_cumulative">累加的</string>
     <string name="label_previous_period">上一个区间</string>
     <string name="msg_edit_line_monthly_expense_args">选择卡片的计算模式</string>
-    <string name="label_yearly_value">年 : %1$s</string>
-    <string name="label_monthly_value">月 : %1$s</string>
-    <string name="label_weekly_value">周 : %1$s</string>
+    <string name="label_yearly_value">每年 : %1$s</string>
+    <string name="label_monthly_value">每月 : %1$s</string>
+    <string name="label_weekly_value">每周 : %1$s</string>
 
     <!-- 20180605, 0.10.2 -->
     <string name="label_today">今天</string>
@@ -382,4 +377,13 @@
 
     <string name="label_chart_account_aggregate_line">集合折线图</string>
     <string name="label_chart_account_aggregate_cumulative_line">集合折线图(累加)</string>
+
+    <!--20180614-->
+    <string name="msg_data_loading">数据加载中...</string>
+
+    <string name="label_yearly">每年</string>
+    <string name="label_monthly">每月</string>
+    <string name="label_weekly">每周</string>
+    <string name="label_cash">现金</string>
+
 </resources>

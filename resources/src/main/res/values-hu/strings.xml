@@ -86,7 +86,7 @@
     <string name="label_contributor">Contributor</string>
     <string name="label_count">(%1$s)</string>
     <string name="label_create_default">Alap adatok létrehozása (számla)</string>
-    <string name="label_cumulative_cash">Kápé : %1$s</string>
+    <string name="label_cumulative_cash">Kápé</string>
     <string name="label_date">Dátum</string>
     <string name="label_day_records">%1$s (%2$s rekord)</string>
     <string name="label_default">Alapért.</string>
@@ -108,7 +108,7 @@
     <string name="label_liability">Tartozás</string>
     <string name="label_money">Pénz</string>
     <string name="label_month_records">%1$s (%2$s rekord)</string>
-    <string name="label_monthly_expense">Havi : %1$s</string>
+    <string name="label_this_month_expense">Havi</string>
     <string name="label_name">Név</string>
     <string name="label_note">Megjegyzés</string>
     <string name="label_other">Egyéb</string>
@@ -185,11 +185,6 @@
     <string name="label_rec_layout3">Pénz - Cél</string>
     <string name="label_rec_layout4">Pénz - Megj.</string>
     <string name="label_reclist_from">%1$s</string>
-    <string name="label_reclist_sum_asset">Vagyon %1$s </string>
-    <string name="label_reclist_sum_expense">Kiadás %1$s</string>
-    <string name="label_reclist_sum_income">Bevétel %1$s</string>
-    <string name="label_reclist_sum_liability">Tartozás %1$s</string>
-    <string name="label_reclist_sum_other">Egyéb %1$s</string>
     <string name="label_reclist_to">%1$s</string>
     <string name="label_record">Tétel</string>
     <string name="label_record_only">Csak tétel</string>
@@ -215,7 +210,7 @@
     <string name="label_unknown">Ismeretlen</string>
     <string name="label_warn">Figyelmeztetés</string>
     <string name="label_week_records">%5$s %1$s től %2$s ig. %3$s/%4$s hét (%6$s)</string>
-    <string name="label_weekly_expense">Heti : %1$s</string>
+    <string name="label_this_week_expense">Heti</string>
     <string name="label_what_is_new">Újdonságok</string>
     <string name="label_working_book">Working book</string>
     <string name="label_working_book_account">Working book account</string>
@@ -375,4 +370,12 @@
 
     <string name="label_chart_account_aggregate_line">Aggregate line-chart</string>
     <string name="label_chart_account_aggregate_cumulative_line">Aggregate line-chart (cumulative)</string>
+
+    <!--20180614-->
+    <string name="msg_data_loading">Data loading...</string>
+
+    <string name="label_yearly">Yearly</string>
+    <string name="label_monthly">Monthly</string>
+    <string name="label_weekly">Weekly</string>
+    <string name="label_cash">Cash</string>
 </resources>

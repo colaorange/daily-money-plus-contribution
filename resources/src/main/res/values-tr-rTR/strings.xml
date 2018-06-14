@@ -86,7 +86,7 @@
     <string name="label_contributor">Contributor</string>
     <string name="label_count">(%1$s)</string>
     <string name="label_create_default">Varsayýlan veri oluþtur(hesap)</string>
-    <string name="label_cumulative_cash">Nakit : %1$s</string>
+    <string name="label_cumulative_cash">Nakit</string>
     <string name="label_date">Tarih</string>
     <string name="label_day_records">%1$s (%2$s records)</string>
     <string name="label_default">Varsayýlan</string>
@@ -108,7 +108,7 @@
     <string name="label_liability">Borç</string>
     <string name="label_money">Para</string>
     <string name="label_month_records">%1$s (%2$s records)</string>
-    <string name="label_monthly_expense">Aylýk : %1$s</string>
+    <string name="label_this_month_expense">Aylýk</string>
     <string name="label_name">Ýsim</string>
     <string name="label_note">Note</string>
     <string name="label_other">Diðer</string>
@@ -185,11 +185,6 @@
     <string name="label_rec_layout3">Para - Nereye</string>
     <string name="label_rec_layout4">Para - Not</string>
     <string name="label_reclist_from">%1$s</string>
-    <string name="label_reclist_sum_asset">Varlýk %1$s </string>
-    <string name="label_reclist_sum_expense">Gider %1$s</string>
-    <string name="label_reclist_sum_income">Gelir %1$s</string>
-    <string name="label_reclist_sum_liability">Borç %1$s</string>
-    <string name="label_reclist_sum_other">Diðer %1$s</string>
     <string name="label_reclist_to">%1$s</string>
     <string name="label_record">Ayrýntý</string>
     <string name="label_record_only">Sadece ayrýntý</string>
@@ -215,7 +210,7 @@
     <string name="label_unknown">Bilinmeyen</string>
     <string name="label_warn">Dikkat</string>
     <string name="label_week_records">%5$s %1$s to %2$s - Hafta %3$s/%4$s (%6$s)</string>
-    <string name="label_weekly_expense">Haftalýk : %1$s</string>
+    <string name="label_this_week_expense">Haftalýk</string>
     <string name="label_what_is_new">Yenilikler</string>
     <string name="label_working_book">Working book</string>
     <string name="label_working_book_account">Working book account</string>
@@ -375,4 +370,12 @@
 
     <string name="label_chart_account_aggregate_line">Aggregate line-chart</string>
     <string name="label_chart_account_aggregate_cumulative_line">Aggregate line-chart (cumulative)</string>
+
+    <!--20180614-->
+    <string name="msg_data_loading">Data loading...</string>
+
+    <string name="label_yearly">Yearly</string>
+    <string name="label_monthly">Monthly</string>
+    <string name="label_weekly">Weekly</string>
+    <string name="label_cash">Cash</string>
 </resources>

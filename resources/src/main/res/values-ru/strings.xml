@@ -86,7 +86,7 @@
     <string name="label_contributor">Contributor</string>
     <string name="label_count">(%1$s)</string>
     <string name="label_create_default">Создание данных по умолчанию (счет)</string>
-    <string name="label_cumulative_cash">Деньги : %1$s</string>
+    <string name="label_cumulative_cash">Деньги</string>
     <string name="label_date">Дата</string>
     <string name="label_day_records">%1$s (%2$s записей)</string>
     <string name="label_default">Default</string>
@@ -108,7 +108,7 @@
     <string name="label_liability">Обязательство</string>
     <string name="label_money">Деньги</string>
     <string name="label_month_records">%1$s (%2$s записей)</string>
-    <string name="label_monthly_expense">Ежемесячно : %1$s</string>
+    <string name="label_this_month_expense">Ежемесячно</string>
     <string name="label_name">Name</string>
     <string name="label_note">Примечание</string>
     <string name="label_other">Другие</string>
@@ -185,11 +185,6 @@
     <string name="label_rec_layout3">Деньги - К</string>
     <string name="label_rec_layout4">Деньги - Примечание</string>
     <string name="label_reclist_from">%1$s</string>
-    <string name="label_reclist_sum_asset">Активы %1$s </string>
-    <string name="label_reclist_sum_expense">Счет %1$s</string>
-    <string name="label_reclist_sum_income">Доход %1$s</string>
-    <string name="label_reclist_sum_liability">Обязательство %1$s</string>
-    <string name="label_reclist_sum_other">Другие %1$s</string>
     <string name="label_reclist_to">%1$s</string>
     <string name="label_record">Описание</string>
     <string name="label_record_only">Только подробности</string>
@@ -215,7 +210,7 @@
     <string name="label_unknown">Unknown</string>
     <string name="label_warn">Warn</string>
     <string name="label_week_records">%5$s %1$s к %2$s - Неделя %3$s/%4$s (%6$s)</string>
-    <string name="label_weekly_expense">Еженедельно : %1$s</string>
+    <string name="label_this_week_expense">Еженедельно</string>
     <string name="label_what_is_new">What is new</string>
     <string name="label_working_book">Working book</string>
     <string name="label_working_book_account">Working book account</string>
@@ -375,4 +370,12 @@
 
     <string name="label_chart_account_aggregate_line">Aggregate line-chart</string>
     <string name="label_chart_account_aggregate_cumulative_line">Aggregate line-chart (cumulative)</string>
+
+    <!--20180614-->
+    <string name="msg_data_loading">Data loading...</string>
+
+    <string name="label_yearly">Yearly</string>
+    <string name="label_monthly">Monthly</string>
+    <string name="label_weekly">Weekly</string>
+    <string name="label_cash">Cash</string>
 </resources>

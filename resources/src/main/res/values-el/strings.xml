@@ -86,7 +86,7 @@
     <string name="label_contributor">Contributor</string>
     <string name="label_count">(%1$s)</string>
     <string name="label_create_default">Δημιουργία προεπιλεγμένων δεδομένων (λογαριασμός)</string>
-    <string name="label_cumulative_cash">Μετρητά : %1$s</string>
+    <string name="label_cumulative_cash">Μετρητά</string>
     <string name="label_date">Ημερομηνία</string>
     <string name="label_day_records">%1$s (%2$s εγγραφές)</string>
     <string name="label_default">Προκαθορισμένο</string>
@@ -108,7 +108,7 @@
     <string name="label_liability">Κάρτες</string>
     <string name="label_money">Ποσό</string>
     <string name="label_month_records">%1$s (%2$s εγγραφές)</string>
-    <string name="label_monthly_expense">Μήνας : %1$s</string>
+    <string name="label_this_month_expense">Μήνας</string>
     <string name="label_name">Όνομα</string>
     <string name="label_note">Σημείωση</string>
     <string name="label_other">Άλλα</string>
@@ -185,11 +185,6 @@
     <string name="label_rec_layout3">Ποσό - Σε</string>
     <string name="label_rec_layout4">Ποσό - Σημείωση</string>
     <string name="label_reclist_from">%1$s</string>
-    <string name="label_reclist_sum_asset">Υπολ %1$s</string>
-    <string name="label_reclist_sum_expense">Έξοδα %1$s</string>
-    <string name="label_reclist_sum_income">Έσοδα %1$s</string>
-    <string name="label_reclist_sum_liability">Κάρτες %1$s</string>
-    <string name="label_reclist_sum_other">Διάφορα %1$s</string>
     <string name="label_reclist_to">%1$s</string>
     <string name="label_record">Συναλλαγές</string>
     <string name="label_record_only">Αρχεία συναλλαγών</string>
@@ -215,7 +210,7 @@
     <string name="label_unknown">Άγνωστο</string>
     <string name="label_warn">Προειδοποίηση</string>
     <string name="label_week_records">%5$s %1$s ως %2$s - Εβδομ %3$s/%4$s (%6$s)</string>
-    <string name="label_weekly_expense">Εβδομ : %1$s</string>
+    <string name="label_this_week_expense">Εβδομ</string>
     <string name="label_what_is_new">Νεότερα</string>
     <string name="label_working_book">Working book</string>
     <string name="label_working_book_account">Working book account</string>
@@ -375,4 +370,12 @@
 
     <string name="label_chart_account_aggregate_line">Aggregate line-chart</string>
     <string name="label_chart_account_aggregate_cumulative_line">Aggregate line-chart (cumulative)</string>
+
+    <!--20180614-->
+    <string name="msg_data_loading">Data loading...</string>
+
+    <string name="label_yearly">Yearly</string>
+    <string name="label_monthly">Monthly</string>
+    <string name="label_weekly">Weekly</string>
+    <string name="label_cash">Cash</string>
 </resources>

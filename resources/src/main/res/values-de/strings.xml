@@ -86,7 +86,7 @@
     <string name="label_contributor">Mitwirker</string>
     <string name="label_count">(%1$s)</string>
     <string name="label_create_default">Standardkonten erzeugen</string>
-    <string name="label_cumulative_cash">Bar : %1$s</string>
+    <string name="label_cumulative_cash">Bar</string>
     <string name="label_date">Datum</string>
     <string name="label_day_records">%1$s (%2$s Einträge)</string>
     <string name="label_default">Standard</string>
@@ -108,7 +108,7 @@
     <string name="label_liability">Schulden</string>
     <string name="label_money">Geld</string>
     <string name="label_month_records">%1$s (%2$s Einträge)</string>
-    <string name="label_monthly_expense">Monatlich : %1$s</string>
+    <string name="label_this_month_expense">Monatlich</string>
     <string name="label_name">Name</string>
     <string name="label_note">Bemerkung</string>
     <string name="label_other">Sonstiges</string>
@@ -185,11 +185,6 @@
     <string name="label_rec_layout3">Betrag - Empfänger</string>
     <string name="label_rec_layout4">Betrag - Notiz</string>
     <string name="label_reclist_from">%1$s</string>
-    <string name="label_reclist_sum_asset">Vermögen %1$s </string>
-    <string name="label_reclist_sum_expense">Ausgaben %1$s</string>
-    <string name="label_reclist_sum_income">Einnahmen %1$s</string>
-    <string name="label_reclist_sum_liability">Schulden %1$s</string>
-    <string name="label_reclist_sum_other">Sonstiges %1$s</string>
     <string name="label_reclist_to">%1$s</string>
     <string name="label_record">Eintrag</string>
     <string name="label_record_only">Nur Einträge</string>
@@ -215,7 +210,7 @@
     <string name="label_unknown">Unbekannt</string>
     <string name="label_warn">Warnung</string>
     <string name="label_week_records">%5$s %1$s an %2$s - Woche %3$s/%4$s (%6$s)</string>
-    <string name="label_weekly_expense">Wöchentlich : %1$s</string>
+    <string name="label_this_week_expense">Wöchentlich</string>
     <string name="label_what_is_new">Was gibt es Neues</string>
     <string name="label_working_book">Aktuelle Datenbank</string>
     <string name="label_working_book_account">Aktuelle Datenbank Konto</string>
@@ -375,4 +370,12 @@
 
     <string name="label_chart_account_aggregate_line">Aggregate line-chart</string>
     <string name="label_chart_account_aggregate_cumulative_line">Aggregate line-chart (cumulative)</string>
+
+    <!--20180614-->
+    <string name="msg_data_loading">Data loading...</string>
+
+    <string name="label_yearly">Yearly</string>
+    <string name="label_monthly">Monthly</string>
+    <string name="label_weekly">Weekly</string>
+    <string name="label_cash">Cash</string>
 </resources>

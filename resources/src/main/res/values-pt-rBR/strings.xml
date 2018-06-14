@@ -86,7 +86,7 @@
     <string name="label_contributor">Contributor</string>
     <string name="label_count">(%1$s)</string>
     <string name="label_create_default">Criar dados padrão(conta)</string>
-    <string name="label_cumulative_cash">Dinheiro : %1$s</string>
+    <string name="label_cumulative_cash">Dinheiro</string>
     <string name="label_date">Data</string>
     <string name="label_day_records">%1$s (%2$s records)</string>
     <string name="label_default">Padrão</string>
@@ -108,7 +108,7 @@
     <string name="label_liability">Empréstimos</string>
     <string name="label_money">Dinheiro</string>
     <string name="label_month_records">%1$s (%2$s records)</string>
-    <string name="label_monthly_expense">Mensalmente : %1$s</string>
+    <string name="label_this_month_expense">Mensalmente</string>
     <string name="label_name">Nome</string>
     <string name="label_note">Nota</string>
     <string name="label_other">Outro</string>
@@ -185,11 +185,6 @@
     <string name="label_rec_layout3">Dinheiro - Para</string>
     <string name="label_rec_layout4">Dinheiro - Nota</string>
     <string name="label_reclist_from">%1$s</string>
-    <string name="label_reclist_sum_asset">Asset %1$s </string>
-    <string name="label_reclist_sum_expense">Desesas %1$s</string>
-    <string name="label_reclist_sum_income">Entradas %1$s</string>
-    <string name="label_reclist_sum_liability">Empréstimos %1$s</string>
-    <string name="label_reclist_sum_other">Outros %1$s</string>
     <string name="label_reclist_to">%1$s</string>
     <string name="label_record">Detalhes</string>
     <string name="label_record_only">Somente detalhes</string>
@@ -215,7 +210,7 @@
     <string name="label_unknown">Desconhecido</string>
     <string name="label_warn">Aviso</string>
     <string name="label_week_records">%5$s %1$s to %2$s - Semana %3$s/%4$s (%6$s)</string>
-    <string name="label_weekly_expense">Semanalmente : %1$s</string>
+    <string name="label_this_week_expense">Semanalmente</string>
     <string name="label_what_is_new">Novidades</string>
     <string name="label_working_book">Working book</string>
     <string name="label_working_book_account">Working book account</string>
@@ -375,4 +370,12 @@
 
     <string name="label_chart_account_aggregate_line">Aggregate line-chart</string>
     <string name="label_chart_account_aggregate_cumulative_line">Aggregate line-chart (cumulative)</string>
+
+    <!--20180614-->
+    <string name="msg_data_loading">Data loading...</string>
+
+    <string name="label_yearly">Yearly</string>
+    <string name="label_monthly">Monthly</string>
+    <string name="label_weekly">Weekly</string>
+    <string name="label_cash">Cash</string>
 </resources>
