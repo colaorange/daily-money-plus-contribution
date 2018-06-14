@@ -164,8 +164,8 @@
     <string name="label_prefs_password_sum">設定進入應用程式的密碼</string>
     <string name="label_prefs_passwordvd">密碼保護-2</string>
     <string name="label_prefs_passwordvd_sum">輸入相同的密碼來啟動密碼保護</string>
-    <string name="label_prefs_reclayout">明細排版</string>
-    <string name="label_prefs_reclayout_sum">選擇不同的明細排版</string>
+    <string name="label_prefs_record_layout">明細排版</string>
+    <string name="label_prefs_reccord_layout_sum">選擇不同的明細排版</string>
     <string name="label_prefs_startday_month">月份的第一天</string>
     <string name="label_prefs_startday_month_sum">設定月份的第一天(數值在1 - 28)中間</string>
     <string name="label_prefs_startday_year_month">年度的開始月份</string>
@@ -385,4 +385,8 @@
     <string name="label_monthly">每月</string>
     <string name="label_weekly">每周</string>
     <string name="label_cash">現金</string>
+    <string name="label_prefs_group_records_by_date">群組明細</string>
+    <string name="label_prefs_group_records_by_date_sum">依日期群組明細</string>
+
+    <string name="label_format">格式</string>
 </resources>

@@ -162,8 +162,8 @@
     <string name="label_prefs_password_sum">Program jelszó beállítása</string>
     <string name="label_prefs_passwordvd">Jelszó védelem-2</string>
     <string name="label_prefs_passwordvd_sum">Írd be újra a jelszót a védelem aktiválásához</string>
-    <string name="label_prefs_reclayout">Tétel formátum</string>
-    <string name="label_prefs_reclayout_sum">A tétellista formátumának beállítása</string>
+    <string name="label_prefs_record_layout">Tétel formátum</string>
+    <string name="label_prefs_reccord_layout_sum">A tétellista formátumának beállítása</string>
     <string name="label_prefs_startday_month">Hónap kezdőnapja</string>
     <string name="label_prefs_startday_month_sum">Hónap kezdőnapjának beállítása (1 - 28 között)</string>
     <string name="label_prefs_startday_year_month">Start month of year</string>
@@ -374,8 +374,12 @@
     <!--20180614-->
     <string name="msg_data_loading">Data loading...</string>
 
-    <string name="label_yearly">Yearly</string>
-    <string name="label_monthly">Monthly</string>
-    <string name="label_weekly">Weekly</string>
-    <string name="label_cash">Cash</string>
+    <string name="label_yearly">Éves</string>
+    <string name="label_monthly">Havi</string>
+    <string name="label_weekly">Heti</string>
+    <string name="label_cash">Kápé</string>
+    <string name="label_prefs_group_records_by_date">Group records</string>
+    <string name="label_prefs_group_records_by_date_sum">Group records by date</string>
+
+    <string name="label_format">Format</string>
 </resources>

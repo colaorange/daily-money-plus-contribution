@@ -162,8 +162,8 @@
     <string name="label_prefs_password_sum">Set application password</string>
     <string name="label_prefs_passwordvd">Password protection-2</string>
     <string name="label_prefs_passwordvd_sum">Set same password again to enable protection</string>
-    <string name="label_prefs_reclayout">Record layout</string>
-    <string name="label_prefs_reclayout_sum">Choose different type for record list layout</string>
+    <string name="label_prefs_record_layout">Record layout</string>
+    <string name="label_prefs_reccord_layout_sum">Choose different type for record list layout</string>
     <string name="label_prefs_startday_month">Start day of a month</string>
     <string name="label_prefs_startday_month_sum">Set the start day of a month(between 1 - 28)</string>
     <string name="label_prefs_startday_year_month">Start month of year</string>
@@ -378,4 +378,8 @@
     <string name="label_monthly">Monthly</string>
     <string name="label_weekly">Weekly</string>
     <string name="label_cash">Cash</string>
+    <string name="label_prefs_group_records_by_date">Group records</string>
+    <string name="label_prefs_group_records_by_date_sum">Group records by date</string>
+
+    <string name="label_format">Format</string>
 </resources>

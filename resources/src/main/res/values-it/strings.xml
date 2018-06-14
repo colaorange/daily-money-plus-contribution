@@ -162,8 +162,8 @@
     <string name="label_prefs_password_sum">Imposta una password di protezione per l\'applicazione</string>
     <string name="label_prefs_passwordvd">Ripeti password</string>
     <string name="label_prefs_passwordvd_sum">Reinserisci la stessa password per abilitare la protezione</string>
-    <string name="label_prefs_reclayout">Formato delle voci contabili</string>
-    <string name="label_prefs_reclayout_sum">Scegli in che modo mostrare le voci contabili nella lista</string>
+    <string name="label_prefs_record_layout">Formato delle voci contabili</string>
+    <string name="label_prefs_reccord_layout_sum">Scegli in che modo mostrare le voci contabili nella lista</string>
     <string name="label_prefs_startday_month">Primo giorno del mese</string>
     <string name="label_prefs_startday_month_sum">Scegli il primo giorno del mese (tra 1 e 28)</string>
     <string name="label_prefs_startday_year_month">Inizio dell\'anno (mese)</string>
@@ -374,8 +374,12 @@
     <!--20180614-->
     <string name="msg_data_loading">Data loading...</string>
 
-    <string name="label_yearly">Yearly</string>
-    <string name="label_monthly">Monthly</string>
-    <string name="label_weekly">Weekly</string>
-    <string name="label_cash">Cash</string>
+    <string name="label_yearly">Annuale</string>
+    <string name="label_monthly">Mensile</string>
+    <string name="label_weekly">Settimanale</string>
+    <string name="label_cash">Contanti</string>
+    <string name="label_prefs_group_records_by_date">Group records</string>
+    <string name="label_prefs_group_records_by_date_sum">Group records by date</string>
+
+    <string name="label_format">Format</string>
 </resources>

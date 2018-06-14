@@ -162,8 +162,8 @@
     <string name="label_prefs_password_sum">Escolha uma senha para a aplicação</string>
     <string name="label_prefs_passwordvd">Proteção por senha-2</string>
     <string name="label_prefs_passwordvd_sum">Digite novamente a senha para ativar a proteção</string>
-    <string name="label_prefs_reclayout">Detalhes de layout</string>
-    <string name="label_prefs_reclayout_sum">Escolha um tipo diferente de layout</string>
+    <string name="label_prefs_record_layout">Detalhes de layout</string>
+    <string name="label_prefs_reccord_layout_sum">Escolha um tipo diferente de layout</string>
     <string name="label_prefs_startday_month">Inicie o dia do mês</string>
     <string name="label_prefs_startday_month_sum">Escolha o dia do mês entre 1 - 28</string>
     <string name="label_prefs_startday_year_month">Start month of year</string>
@@ -374,8 +374,12 @@
     <!--20180614-->
     <string name="msg_data_loading">Data loading...</string>
 
-    <string name="label_yearly">Yearly</string>
-    <string name="label_monthly">Monthly</string>
-    <string name="label_weekly">Weekly</string>
-    <string name="label_cash">Cash</string>
+    <string name="label_yearly">Anual</string>
+    <string name="label_monthly">Mensal</string>
+    <string name="label_weekly">Semanal</string>
+    <string name="label_cash">Dinheiro</string>
+    <string name="label_prefs_group_records_by_date">Group records</string>
+    <string name="label_prefs_group_records_by_date_sum">Group records by date</string>
+
+    <string name="label_format">Format</string>
 </resources>

@@ -162,8 +162,8 @@
     <string name="label_prefs_password_sum">Wähle dein Passwort</string>
     <string name="label_prefs_passwordvd">Passwort erneut eingeben</string>
     <string name="label_prefs_passwordvd_sum">Bitte das gleiche Passwort nocheinmal eingeben um den Passwortschutz zu aktivieren</string>
-    <string name="label_prefs_reclayout">Detail-Layout</string>
-    <string name="label_prefs_reclayout_sum">Wähle einen anderen Typ als Detaillisten-Layout</string>
+    <string name="label_prefs_record_layout">Detail-Layout</string>
+    <string name="label_prefs_reccord_layout_sum">Wähle einen anderen Typ als Detaillisten-Layout</string>
     <string name="label_prefs_startday_month">Erster Tag des Monats</string>
     <string name="label_prefs_startday_month_sum">Wähle den ersten Tag des Monats(zwischen 1 – 28)</string>
     <string name="label_prefs_startday_year_month">Erstes Monat eines Jahres</string>
@@ -374,8 +374,12 @@
     <!--20180614-->
     <string name="msg_data_loading">Data loading...</string>
 
-    <string name="label_yearly">Yearly</string>
-    <string name="label_monthly">Monthly</string>
-    <string name="label_weekly">Weekly</string>
-    <string name="label_cash">Cash</string>
+    <string name="label_yearly">Jährliche</string>
+    <string name="label_monthly">Monatliche</string>
+    <string name="label_weekly">Wöchentliche</string>
+    <string name="label_cash">Bargeld</string>
+    <string name="label_prefs_group_records_by_date">Group records</string>
+    <string name="label_prefs_group_records_by_date_sum">Group records by date</string>
+
+    <string name="label_format">Format</string>
 </resources>

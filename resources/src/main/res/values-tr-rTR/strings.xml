@@ -162,8 +162,8 @@
     <string name="label_prefs_password_sum">Uygulama þifresini ayarla</string>
     <string name="label_prefs_passwordvd">Þifre korumasý-2</string>
     <string name="label_prefs_passwordvd_sum">Koruma için ayný þifreyi tekrar girin</string>
-    <string name="label_prefs_reclayout">Ayrýntý düzeni</string>
-    <string name="label_prefs_reclayout_sum">Tercih ettiðiniz ayrýntý listesi düzenini seçin</string>
+    <string name="label_prefs_record_layout">Ayrýntý düzeni</string>
+    <string name="label_prefs_reccord_layout_sum">Tercih ettiðiniz ayrýntý listesi düzenini seçin</string>
     <string name="label_prefs_startday_month">Ayýn baþlangýç günü</string>
     <string name="label_prefs_startday_month_sum">Ayýn baþlangýç gününü belirle(1 - 28 arasýnda)</string>
     <string name="label_prefs_startday_year_month">Start month of year</string>
@@ -374,8 +374,12 @@
     <!--20180614-->
     <string name="msg_data_loading">Data loading...</string>
 
-    <string name="label_yearly">Yearly</string>
-    <string name="label_monthly">Monthly</string>
-    <string name="label_weekly">Weekly</string>
-    <string name="label_cash">Cash</string>
+    <string name="label_yearly">Yýllýk</string>
+    <string name="label_monthly">Aylýk</string>
+    <string name="label_weekly">Haftalýk</string>
+    <string name="label_cash">Nakit</string>
+    <string name="label_prefs_group_records_by_date">Group records</string>
+    <string name="label_prefs_group_records_by_date_sum">Group records by date</string>
+
+    <string name="label_format">Format</string>
 </resources>

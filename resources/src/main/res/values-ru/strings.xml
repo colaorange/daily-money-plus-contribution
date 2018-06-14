@@ -162,8 +162,8 @@
     <string name="label_prefs_password_sum">Установите пароль приложения</string>
     <string name="label_prefs_passwordvd">Защита паролем-2</string>
     <string name="label_prefs_passwordvd_sum">Установите тот же пароль еще раз, чтобы включить защиту</string>
-    <string name="label_prefs_reclayout">Подробный план</string>
-    <string name="label_prefs_reclayout_sum">Выберите другой тип для деталей макета списка</string>
+    <string name="label_prefs_record_layout">Подробный план</string>
+    <string name="label_prefs_reccord_layout_sum">Выберите другой тип для деталей макета списка</string>
     <string name="label_prefs_startday_month">Start day of a month</string>
     <string name="label_prefs_startday_month_sum">Set the start day of a month(between 1 - 28)</string>
     <string name="label_prefs_startday_year_month">Start month of year</string>
@@ -374,8 +374,12 @@
     <!--20180614-->
     <string name="msg_data_loading">Data loading...</string>
 
-    <string name="label_yearly">Yearly</string>
-    <string name="label_monthly">Monthly</string>
-    <string name="label_weekly">Weekly</string>
-    <string name="label_cash">Cash</string>
+    <string name="label_yearly">Ежегодный</string>
+    <string name="label_monthly">Ежемесячный</string>
+    <string name="label_weekly">Еженедельный</string>
+    <string name="label_cash">Наличные</string>
+    <string name="label_prefs_group_records_by_date">Group records</string>
+    <string name="label_prefs_group_records_by_date_sum">Group records by date</string>
+
+    <string name="label_format">Format</string>
 </resources>
