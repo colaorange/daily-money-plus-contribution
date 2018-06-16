@@ -54,7 +54,7 @@
     <string name="nav_pg_reclist">明細列表</string>
     <string name="nav_pg_daily_list">日明細列表</string>
     <string name="nav_pg_monthly_list">月明細列表</string>
-    <string name="nav_pg_weekly_list">周明細列表</string>
+    <string name="nav_pg_weekly_list">週明細列表</string>
     <string name="nav_pg_yearly_list">年明細列表</string>
     <string name="nav_pg_report_from_beginning_balance">總結算</string>
     <string name="nav_pg_report_monthly_balance">單月份結算</string>
@@ -134,7 +134,7 @@
     <string name="label_prefs_auto_backup_at_hours_sum">指定自動備份的時間(0-23)</string>
     <string name="label_prefs_auto_backup_sum">啟用自動備份, 在指定的星期日期及時間, 執行備份</string>
     <string name="label_prefs_auto_backup_weekdays">自動備份的星期日期</string>
-    <string name="label_prefs_auto_backup_weekdays_sum">指定自動備份的星期日期(周一到周日)</string>
+    <string name="label_prefs_auto_backup_weekdays_sum">指定自動備份的星期日期(週一到週日)</string>
     <string name="label_prefs_backup_with_timestamp">時戳備份</string>
     <string name="label_prefs_backup_with_timestamp_sum">當備份時,同時複製檔案到含時戳的目錄, 會佔用額外的空間</string>
     <string name="label_prefs_csv_encoding">CSV 編碼</string>
@@ -211,8 +211,8 @@
     <string name="label_type">類型</string>
     <string name="label_unknown">未知</string>
     <string name="label_warn">警告</string>
-    <string name="label_week_records">%5$s %1$s到%2$s - 周%3$s/%4$s(%6$s筆)</string>
-    <string name="label_this_week_expense">本周支出</string>
+    <string name="label_week_records">%5$s %1$s到%2$s - 週%3$s/%4$s(%6$s筆)</string>
+    <string name="label_this_week_expense">本週支出</string>
     <string name="label_what_is_new">有什麼新功能</string>
     <string name="label_working_book">使用中的帳本</string>
     <string name="label_working_book_account">使用中帳本的帳戶</string>
@@ -326,7 +326,7 @@
 
     <string name="card_nav_page">功能頁面</string>
     <string name="card_info_expense">支出資訊</string>
-    <string name="card_pie_weekly_expense">本周支出</string>
+    <string name="card_pie_weekly_expense">本週支出</string>
     <string name="card_pie_monthly_expense">本月支出</string>
     <string name="msg_edit_desktop_title">編輯桌面標題</string>
     <string name="msg_edit_card_title">編輯卡片標題</string>
@@ -358,7 +358,7 @@
     <string name="msg_edit_line_monthly_expense_args">選擇卡片的計算模式</string>
     <string name="label_yearly_value">每年 : %1$s</string>
     <string name="label_monthly_value">每月 : %1$s</string>
-    <string name="label_weekly_value">每周 : %1$s</string>
+    <string name="label_weekly_value">每週 : %1$s</string>
 
     <!-- 20180605, 0.10.2 -->
     <string name="label_today">今天</string>
@@ -383,7 +383,7 @@
 
     <string name="label_yearly">每年</string>
     <string name="label_monthly">每月</string>
-    <string name="label_weekly">每周</string>
+    <string name="label_weekly">每週</string>
     <string name="label_cash">現金</string>
     <string name="label_prefs_group_records_by_date">群組明細</string>
     <string name="label_prefs_group_records_by_date_sum">依日期群組明細</string>
