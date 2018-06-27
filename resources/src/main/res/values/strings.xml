@@ -205,7 +205,7 @@
     <string name="label_theme_orange">Orange</string>
     <string name="label_theme_sakura">Sakura</string>
     <string name="label_to_account">To</string>
-    <string name="label_to_date">to Date</string>
+    <string name="label_to_date">To date</string>
     <string name="label_type">Type</string>
     <string name="label_unknown">Unknown</string>
     <string name="label_warn">Warn</string>
@@ -382,4 +382,12 @@
     <string name="label_prefs_group_records_by_date_sum">Group records by date</string>
 
     <string name="label_format">Format</string>
+
+    <!--20180628 -->
+    <string name="label_to_book">To a book</string>
+    <string name="label_a_new_book">A new book</string>
+    <string name="label_migrate">Migrate</string>
+    <string name="label_preview">Preview</string>
+    <string name="msg_migrate_provide_condition">Provide some conditions to migrate</string>
+    <string name="label_migrate_record">Migrate records</string>
 </resources>
