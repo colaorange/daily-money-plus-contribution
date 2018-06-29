@@ -388,6 +388,9 @@
     <string name="label_a_new_book">A new book</string>
     <string name="label_migrate">Migrate</string>
     <string name="label_preview">Preview</string>
-    <string name="msg_migrate_provide_condition">Provide some conditions to migrate</string>
-    <string name="label_migrate_record">Migrate records</string>
+    <string name="msg_migrate_provide_condition">Provide some conditions to preview the migration</string>
+    <string name="label_migrate_records">Migrate records</string>
+    <string name="label_records">Records</string>
+    <string name="label_migrate_create_accounts">Accounts</string>
+    <string name="label_migrate_update_accounts">Update</string>
 </resources>
