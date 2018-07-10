@@ -388,9 +388,14 @@
     <string name="label_a_new_book">A new book</string>
     <string name="label_migrate">Migrate</string>
     <string name="label_preview">Preview</string>
-    <string name="msg_migrate_provide_condition">Provide some conditions to preview the migration</string>
+    <string name="msg_record_migrate_provide_condition">Provide some conditions to preview the migration</string>
     <string name="label_migrate_records">Migrate records</string>
     <string name="label_records">Records</string>
-    <string name="label_migrate_create_accounts">Accounts</string>
-    <string name="label_migrate_update_accounts">Update</string>
+    <string name="label_record_migrate_create_accounts">Accounts</string>
+    <string name="label_record_migrate_update_accounts">Update</string>
+    <string name="msg_record_migrate_step1_info">It will move %1$s records to %2$s</string>
+    <string name="msg_record_migrate_step2_info">It will add %1$s accounts to %2$s</string>
+    <string name="msg_record_migrate_step3_info">It will update %1$s accounts of current book</string>
+    <string name="msg_record_migrate_done">Record migration has been completed</string>
+    <string name="qmsg_record_migrate">Do you want to migrate records? Don\'t quit app before task completed</string>
 </resources>
