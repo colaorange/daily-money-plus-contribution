@@ -389,4 +389,24 @@
     <string name="label_prefs_group_records_by_date_sum">依日期群組明細</string>
 
     <string name="label_format">格式</string>
+
+    <!--20180628 -->
+    <string name="label_to_book">到帳本</string>
+    <string name="label_new_book">新帳本</string>
+    <string name="label_migrate">遷移</string>
+    <string name="label_preview">預覽</string>
+    <string name="msg_record_migrate_provide_condition">請供一些條件來進行遷移預覽</string>
+    <string name="label_migrate_records">遷移明細</string>
+    <string name="label_records">明細</string>
+    <string name="label_record_migrate_create_accounts">帳戶</string>
+    <string name="label_record_migrate_update_accounts">更新</string>
+    <string name="msg_record_migrate_new_record_info">將移動 %1$s (%2$s) 筆明細到 %3$s</string>
+    <string name="msg_record_migrate_new_account_info">將新增 %1$s (%2$s) 筆帳戶到%3$s</string>
+    <string name="msg_record_migrate_update_account_info">將更新 %1$s (%2$s) 筆現行帳本的帳戶</string>
+    <string name="msg_record_migrate_done">明細遷移完成</string>
+    <string name="qmsg_record_migrate">您想要遷移明細嗎?</string>
+    <string name="msg_record_migrate_note">請記得先備份, 並且在工作處理時請勿離開程式</string>
+    <string name="label_zone_ring">指環專區</string>
+    <string name="label_start">開始</string>
+    <string name="label_by_date">到這一天</string>
 </resources>
