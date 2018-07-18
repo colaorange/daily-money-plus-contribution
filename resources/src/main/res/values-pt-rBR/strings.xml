@@ -205,7 +205,7 @@
     <string name="label_theme_orange">Orange</string>
     <string name="label_theme_sakura">Sakura</string>
     <string name="label_to_account">Para</string>
-    <string name="label_to_date">to Date</string>
+    <string name="label_to_date">To date</string>
     <string name="label_type">Tipo</string>
     <string name="label_unknown">Desconhecido</string>
     <string name="label_warn">Aviso</string>
@@ -382,4 +382,24 @@
     <string name="label_prefs_group_records_by_date_sum">Group records by date</string>
 
     <string name="label_format">Format</string>
+
+    <!--20180628 -->
+    <string name="label_to_book">To a book</string>
+    <string name="label_new_book">New book</string>
+    <string name="label_migrate">Migrate</string>
+    <string name="label_preview">Preview</string>
+    <string name="msg_record_migrate_provide_condition">Provide some conditions to preview the migration</string>
+    <string name="label_migrate_records">Migrate records</string>
+    <string name="label_records">Records</string>
+    <string name="label_record_migrate_create_accounts">Accounts</string>
+    <string name="label_record_migrate_update_accounts">Update</string>
+    <string name="msg_record_migrate_new_record_info">It will move %1$s (%2$s) records to %3$s</string>
+    <string name="msg_record_migrate_new_account_info">It will add %1$s (%2$s) accounts to %3$s</string>
+    <string name="msg_record_migrate_update_account_info">It will update %1$s (%2$s) accounts of current book</string>
+    <string name="msg_record_migrate_done">Record migration has been completed</string>
+    <string name="qmsg_record_migrate">Do you want to migrate records?</string>
+    <string name="msg_record_migrate_note">Please backup first and don\'t quit app when task is processing</string>
+    <string name="label_zone_ring">Zone of Rings</string>
+    <string name="label_start">Start</string>
+    <string name="label_by_date">By a date</string>
 </resources>
