@@ -3,23 +3,48 @@
     <string name="a1_lang_english_name">German</string>
     <string name="a1_lang_native_name">Deutsch</string>
 
-    <string name="label_chart_account_pie">Tortendiagramm</string>
-    <string name="label_balance_reclist">Eintragsliste</string>
-    <string name="label_chart_account_cumulative_line">Account cumulative line-chart</string>
-    <string name="label_chart_from_beginning_account_aggregate_line">Total aggregate line-chart</string>
-    <string name="label_chart_account_line">Account line-chart</string>
+    <string name="act_add_card">Add card</string>
+    <string name="act_apply">Anwenden</string>
+    <string name="act_arrange_desktop">Arrange desktop</string>
+    <string name="act_bookmark">Lesezeichen setzen</string>
     <string name="act_cancel">Abbrechen</string>
+    <string name="act_change_mode">Modus ändern</string>
+    <string name="act_clear_templates">Vorlagen löschen</string>
     <string name="act_close">Schließen</string>
     <string name="act_copy">Kopieren</string>
     <string name="act_create">Erstellen</string>
     <string name="act_delete">Löschen</string>
     <string name="act_edit">Bearbeiten</string>
-    <string name="act_new">Neu</string>
-    <string name="act_ok">OK</string>
-    <string name="act_set_working_book">Setze diese Datenbank als aktuell</string>
-    <string name="act_stop">Stop</string>
+    <string name="act_edit_args">Edit arguments</string>
+    <string name="act_edit_title">Edit title</string>
+    <string name="act_go_today">zu Heute wechseln</string>
     <string name="act_hierarchical_balance">Hierarchical</string>
+    <string name="act_more">More</string>
+    <string name="act_move">Move</string>
+    <string name="act_move_down">Move down</string>
+    <string name="act_move_up">Move up</string>
+    <string name="act_new">Neu</string>
+    <string name="act_next">Nächste</string>
+    <string name="act_ok">OK</string>
+    <string name="act_operations">Aktionen</string>
+    <string name="act_prev">Vorherige</string>
+    <string name="act_run">Ausführen</string>
+    <string name="act_set_template">Vorlage erstellen</string>
+    <string name="act_set_working_book">Setze diese Datenbank als aktuell</string>
+    <string name="act_slide_hint">Slide hint</string>
+    <string name="act_stop">Stop</string>
+    <string name="act_swap">Wechseln</string>
     <string name="act_update">Aktualisieren</string>
+
+    <string name="card_info_expense">Expense information</string>
+    <string name="card_line_monthly_expense">Monthly expense</string>
+    <string name="card_line_monthly_expense_aggregate">Monthly aggregate expense</string>
+    <string name="card_nav_page">Navigation page</string>
+    <string name="card_pie_monthly_expense">Monthly expense</string>
+    <string name="card_pie_weekly_expense">Weekly expense</string>
+
+    <string name="chart_arg_calculation_mode_cumulative">Cumulative</string>
+    <string name="chart_arg_calculation_mode_individual">Individual</string>
 
     <string name="defacc_bank">Bank.A</string>
     <string name="defacc_cash">Bargeld</string>
@@ -36,33 +61,19 @@
     <string name="defacc_salary">Gehalt</string>
     <string name="defacc_transportation">Transport</string>
 
-    <string name="default_pref_format_date" accept="M/D/Y, D/M/Y, Y/M/D">M/D/Y</string>
-    <string name="default_pref_format_month" accept="digital, short, full">digital</string>
-    <string name="default_pref_format_time" accept="12, 24">12</string>
+    <string accept="M/D/Y, D/M/Y, Y/M/D" name="default_pref_format_date">M/D/Y</string>
+    <string accept="digital, short, full" name="default_pref_format_month">digital</string>
+    <string accept="12, 24" name="default_pref_format_time">12</string>
 
     <string name="desktop_main">Hauptseite</string>
     <string name="desktop_reports">Berichte</string>
     <string name="desktop_tests">Tests</string>
 
-    <string name="nav_pg_account">Konten</string>
-    <string name="nav_pg_add_record">Buchung hinzufügen</string>
-    <string name="nav_pg_book">Datenbanken</string>
-    <string name="nav_pg_data_main">Daten</string>
-    <string name="nav_pg_prefs">Einstellungen</string>
-    <string name="nav_pg_reclist">Details</string>
-    <string name="nav_pg_daily_list">Tägliche Liste</string>
-    <string name="nav_pg_monthly_list">Monatliche Liste</string>
-    <string name="nav_pg_weekly_list">Wöchentliche Liste</string>
-    <string name="nav_pg_yearly_list">Jährliche Liste</string>
-    <string name="nav_pg_report_from_beginning_balance">Gesamte Bilanz</string>
-    <string name="nav_pg_report_monthly_balance">Monatliche Bilanz</string>
-    <string name="nav_pg_report_search">Suchen</string>
-    <string name="nav_pg_report_yearly_balance">Jährliche Bilanz</string>
-
     <string name="label_about">Über</string>
     <string name="label_acc_reclist_dateinfo">%1$s bis %2$s</string>
     <string name="label_account">Konto</string>
     <string name="label_account_only">Nur Konten</string>
+    <string name="label_accounting">Accounting</string>
     <string name="label_alert">Benachrichtigung</string>
     <string name="label_all">Alles</string>
     <string name="label_all_books">Alle Datenbanken</string>
@@ -70,61 +81,75 @@
     <string name="label_asset">Vermögen</string>
     <string name="label_backup_data">Backup erstellen</string>
     <string name="label_balance">Bilanz</string>
-    <string name="label_in_time">In %1$s (%2$s-%3$s)</string>
-    <string name="label_until_time">bis %1$s (-%2$s)</string>
     <string name="label_balance_from_beginning_asset">Vermögensbilanz</string>
     <string name="label_balance_from_beginning_expense">Ausgabensbilanz</string>
     <string name="label_balance_from_beginning_income">Einkommensbilanz</string>
     <string name="label_balance_from_beginning_liability">Schuldenbilanz</string>
     <string name="label_balance_from_beginning_other">Sonstige Bilanz</string>
-    <string name="label_balance_yearly_linechart_cumulative">%1$s in %2$s (Kummulativ)</string>
-    <string name="msg_chart_from_beginning_account_aggregate_line">Account aggregate value until %1$s</string>
+    <string name="label_balance_reclist">Eintragsliste</string>
     <string name="label_balance_yearly_linechart">%1$s in %2$s</string>
+    <string name="label_balance_yearly_linechart_cumulative">%1$s in %2$s (Kummulativ)</string>
+    <string name="label_book">Datenbank</string>
     <string name="label_busy">beschäftigt</string>
+    <string name="label_by_date">By a date</string>
+    <string name="label_card_type">Card type</string>
+    <string name="label_cash">Bargeld</string>
     <string name="label_cash_account">Bargeld</string>
+    <string name="label_chart_account_aggregate_cumulative_line">Aggregate line-chart (cumulative)</string>
+    <string name="label_chart_account_aggregate_line">Aggregate line-chart</string>
+    <string name="label_chart_account_cumulative_line">Account cumulative line-chart</string>
+    <string name="label_chart_account_line">Account line-chart</string>
+    <string name="label_chart_account_pie">Tortendiagramm</string>
+    <string name="label_chart_from_beginning_account_aggregate_line">Total aggregate line-chart</string>
     <string name="label_clear_folder">Arbeitsordner leeren</string>
+    <string name="label_contribution">Mitwirkung</string>
     <string name="label_contributor">Mitwirker</string>
     <string name="label_count">(%1$s)</string>
     <string name="label_create_default">Standardkonten erzeugen</string>
+    <string name="label_csv">CSV</string>
     <string name="label_cumulative_cash">Bar</string>
+    <string name="label_data">Data</string>
     <string name="label_date">Datum</string>
     <string name="label_day_records">%1$s (%2$s Einträge)</string>
     <string name="label_default">Standard</string>
     <string name="label_default_book_symbol">€</string>
+    <string name="label_desktop">Desktop</string>
+    <string name="label_developer">Entwickler</string>
+    <string name="label_display">Ansicht</string>
     <string name="label_error">Fehler</string>
     <string name="label_expense">Ausgaben</string>
     <string name="label_export_csv">CSV Exportieren</string>
     <string name="label_firstday_mon">Montag</string>
     <string name="label_firstday_sat">Samstag</string>
     <string name="label_firstday_sun">Sonntag</string>
+    <string name="label_format">Format</string>
     <string name="label_from_account">Von</string>
     <string name="label_from_date">ab</string>
+    <string name="label_future">Future</string>
     <string name="label_history">Historisch</string>
     <string name="label_how2use">Wie benutzt man dieses Programm</string>
     <string name="label_import_csv">CSV Importieren</string>
+    <string name="label_in_time">In %1$s (%2$s-%3$s)</string>
     <string name="label_income">Einnahmen</string>
     <string name="label_info">Information</string>
     <string name="label_initial_value">Kontostand zu Beginn</string>
+    <string name="label_latest_used">Zuletzt verwendet</string>
     <string name="label_liability">Schulden</string>
+    <string name="label_migrate">Migrate</string>
+    <string name="label_migrate_records">Migrate records</string>
+    <string name="label_mode_display_title">Display title</string>
     <string name="label_money">Geld</string>
     <string name="label_month_records">%1$s (%2$s Einträge)</string>
-    <string name="label_this_month_expense">Monatlich</string>
+    <string name="label_monthly">Monatliche</string>
+    <string name="label_monthly_value">Monthly : %1$s</string>
     <string name="label_name">Name</string>
+    <string name="label_new_book">New book</string>
     <string name="label_note">Bemerkung</string>
     <string name="label_other">Sonstiges</string>
+    <string name="label_others">Sonstiges</string>
     <string name="label_position_after">Danach</string>
     <string name="label_position_front">Davor</string>
     <string name="label_position_none">Keine Ansicht</string>
-    <string name="label_accounting">Accounting</string>
-    <string name="label_contribution">Mitwirkung</string>
-    <string name="label_csv">CSV</string>
-    <string name="label_data">Data</string>
-    <string name="label_developer">Entwickler</string>
-    <string name="label_display">Ansicht</string>
-    <string name="label_others">Sonstiges</string>
-    <string name="label_security">Sicherheit</string>
-    <string name="label_prefs_startday_year">Erster Tag eines Jahres</string>
-    <string name="label_prefs_startday_year_sum">Wähle den ersten Tag eines Jahres (Monat und Monat-Tag)</string>
     <string name="label_prefs_allow_analytics">Daten an Google Analytics senden</string>
     <string name="label_prefs_allow_analytics_sum">[Es werden keine weiteren Daten versendet]Das versenden der Daten hilft mir das Programm zu verbessern</string>
     <string name="label_prefs_auto_backup">Automatisches Backup</string>
@@ -137,6 +162,9 @@
     <string name="label_prefs_backup_with_timestamp_sum">Dokumente in einen Ordner mit Zeitangabe kopieren (extra Speicherplatz erforderlich)</string>
     <string name="label_prefs_csv_encoding">CSV verschlüsseln</string>
     <string name="label_prefs_csv_encoding_sum">Nicht ändern wenn du nicht weißt was das bedeutet</string>
+    <string name="label_prefs_enable_desktop2">Enable desktop 2</string>
+    <string name="label_prefs_enable_desktop3">Enable desktop 3</string>
+    <string name="label_prefs_enable_desktop4">Enable desktop 4</string>
     <string name="label_prefs_firstday_week">Erster Tag der Woche</string>
     <string name="label_prefs_firstday_week_sum">Wähle den ersten Tag der Woche</string>
     <string name="label_prefs_format_date">Datumsformat</string>
@@ -151,6 +179,8 @@
     <string name="label_prefs_format_month_sum">Digital, kurz oder vollständig</string>
     <string name="label_prefs_format_time">Zeitformat</string>
     <string name="label_prefs_format_time_sum">12 oder 24</string>
+    <string name="label_prefs_group_records_by_date">Group records</string>
+    <string name="label_prefs_group_records_by_date_sum">Group records by date</string>
     <string name="label_prefs_lang_contribution">Mitwirkung zur Übersetzung</string>
     <string name="label_prefs_lang_contribution_sum">Sende mir eine Email um an der Übersetzung mitwirken zu können</string>
     <string name="label_prefs_lastbackup">Letztes Backup</string>
@@ -162,14 +192,16 @@
     <string name="label_prefs_password_sum">Wähle dein Passwort</string>
     <string name="label_prefs_passwordvd">Passwort erneut eingeben</string>
     <string name="label_prefs_passwordvd_sum">Bitte das gleiche Passwort nocheinmal eingeben um den Passwortschutz zu aktivieren</string>
-    <string name="label_prefs_record_layout">Detail-Layout</string>
     <string name="label_prefs_reccord_layout_sum">Wähle einen anderen Typ als Detaillisten-Layout</string>
+    <string name="label_prefs_record_layout">Detail-Layout</string>
     <string name="label_prefs_startday_month">Erster Tag des Monats</string>
     <string name="label_prefs_startday_month_sum">Wähle den ersten Tag des Monats(zwischen 1 – 28)</string>
+    <string name="label_prefs_startday_year">Erster Tag eines Jahres</string>
     <string name="label_prefs_startday_year_month">Erstes Monat eines Jahres</string>
     <string name="label_prefs_startday_year_month_day">Erster Monatstag eines Jahres</string>
     <string name="label_prefs_startday_year_month_day_sum">Wähle den ersten Monatstag eines Buchhaltungsjahres</string>
     <string name="label_prefs_startday_year_month_sum">Wähle den ersten Monat eines Buchhaltungsjahres</string>
+    <string name="label_prefs_startday_year_sum">Wähle den ersten Tag eines Jahres (Monat und Monat-Tag)</string>
     <string name="label_prefs_testsdekstop">Testdesktop öffnen</string>
     <string name="label_prefs_testsdekstop_sum">Öffnet den Testdektop. Nur für Entwickler</string>
     <string name="label_prefs_text_size">Textgröße</string>
@@ -179,6 +211,8 @@
     <string name="label_prefs_vote">Bewerte mich</string>
     <string name="label_prefs_vote_sum">Vote stars (★★★★★) if you like DM+</string>
     <string name="label_prefs_workingfolder">Arbeitsordner</string>
+    <string name="label_preview">Preview</string>
+    <string name="label_previous_period">Previous period</string>
     <string name="label_pwd_protection">Passwortschutz</string>
     <string name="label_rec_layout1">Empfänger - Betrag</string>
     <string name="label_rec_layout2">Bemerkung - Betrag</string>
@@ -187,16 +221,23 @@
     <string name="label_reclist_from">%1$s</string>
     <string name="label_reclist_to">%1$s</string>
     <string name="label_record">Eintrag</string>
+    <string name="label_record_migrate_create_accounts">Accounts</string>
+    <string name="label_record_migrate_update_accounts">Update</string>
     <string name="label_record_only">Nur Einträge</string>
+    <string name="label_records">Records</string>
     <string name="label_reports">Bericht</string>
     <string name="label_request_storage_permission">Speichererlaubnis abfragen</string>
     <string name="label_reset">Zurücksetzen</string>
     <string name="label_reset_working_book">Reset aktuelle Datenbank</string>
     <string name="label_restore_data">Daten wiederherstellen</string>
+    <string name="label_search">Search</string>
+    <string name="label_security">Sicherheit</string>
     <string name="label_share">Teilen</string>
     <string name="label_share_csv">CSV freigeben</string>
+    <string name="label_start">Start</string>
     <string name="label_symbol">Währungssymbol</string>
     <string name="label_symbol_position">Währungssymbol Position</string>
+    <string name="label_template">Vorlage</string>
     <string name="label_text_size_large">Groß</string>
     <string name="label_text_size_medium">Mittel</string>
     <string name="label_text_size_normal">Normal</string>
@@ -204,17 +245,29 @@
     <string name="label_theme_lemon">Lemon</string>
     <string name="label_theme_orange">Orange</string>
     <string name="label_theme_sakura">Sakura</string>
+    <string name="label_this_month_expense">Monatlich</string>
+    <string name="label_this_week_expense">Wöchentlich</string>
     <string name="label_to_account">An</string>
+    <string name="label_to_book">To a book</string>
     <string name="label_to_date">Zum Datum</string>
+    <string name="label_today">Today</string>
+    <string name="label_tomorrow">Tomorrow</string>
     <string name="label_type">Typ</string>
     <string name="label_unknown">Unbekannt</string>
+    <string name="label_until_time">bis %1$s (-%2$s)</string>
+    <string name="label_usual">Festgelegt</string>
     <string name="label_warn">Warnung</string>
     <string name="label_week_records">%5$s %1$s an %2$s - Woche %3$s/%4$s (%6$s)</string>
-    <string name="label_this_week_expense">Wöchentlich</string>
+    <string name="label_weekly">Wöchentliche</string>
+    <string name="label_weekly_value">Weekly : %1$s</string>
     <string name="label_what_is_new">Was gibt es Neues</string>
     <string name="label_working_book">Aktuelle Datenbank</string>
     <string name="label_working_book_account">Aktuelle Datenbank Konto</string>
     <string name="label_year_records">%1$s (%2$s Einträge)</string>
+    <string name="label_yearly">Jährliche</string>
+    <string name="label_yearly_value">Yearly : %1$s</string>
+    <string name="label_yesterday">Yesterday</string>
+    <string name="label_zone_ring">Zone of Rings</string>
 
     <string name="msg_account_created">Konto %1$s als %2$s erstellt</string>
     <string name="msg_account_deleted">Konto %1$s wurde gelöscht</string>
@@ -226,180 +279,96 @@
     <string name="msg_busy">Die Anwendung arbeitet gerade, bitte warte einen Moment...</string>
     <string name="msg_cannot_delete_default_book">Die Standard-Datenbank kann nicht gelöscht werden</string>
     <string name="msg_cannot_delete_working_book">Die aktuelle Datenbank kann nicht gelöscht werden</string>
+    <string name="msg_chart_from_beginning_account_aggregate_line">Account aggregate value until %1$s</string>
+    <string name="msg_common_finished">\' %1$s\' ist beendet</string>
     <string name="msg_created_account">%1$s Konten wurden erstellt</string>
     <string name="msg_created_record">%1$s Einträge wurden erstellt</string>
     <string name="msg_csv_exported">Daten (%1$s) wurden nach %2$s exportiert, </string>
     <string name="msg_csv_imported">Daten wurden importiert %2$s (%1$s)</string>
+    <string name="msg_data_loading">Data loading...</string>
     <string name="msg_db_backuped">%1$s Daten als Backup gespeichert in %2$s</string>
     <string name="msg_db_restored">%1$s Daten wiederhergestellt von %2$s</string>
     <string name="msg_default_created">Standardkonten wurden erstellt</string>
+    <string name="msg_edit_card_arg">Edit arguments of this card</string>
+    <string name="msg_edit_card_title">Edit card\'s title</string>
+    <string name="msg_edit_desktop_title">Edit desktop\'s title</string>
+    <string name="msg_edit_line_monthly_expense_args">Select the calculation mode of this chart</string>
+    <string name="msg_edit_nav_pages_args">Select pages that you want to show, the order depends on selection sequence</string>
     <string name="msg_error">Fehler : %1$s</string>
     <string name="msg_field_empty">%1$s ist leer</string>
+    <string name="msg_field_empty_selection">Selection %1$s is empty</string>
     <string name="msg_field_zero">%1$s ist Null</string>
     <string name="msg_firsttime_use_hint">Willkommen zu Daily Money</string>
     <string name="msg_folder_cleared">Arbeitsordner %1$s wurde geleert</string>
+    <string name="msg_n_items">%1$s items</string>
+    <string name="msg_no_condition">You didn\'t provide any condition</string>
     <string name="msg_no_csv">Keine CSV Datein vorhanden</string>
+    <string name="msg_no_data">Keine Daten vorhanden</string>
     <string name="msg_no_data_to_backup">Keine Daten zum Wiederherstellen oder Backup erstellen vorhanden </string>
+    <string name="msg_not_available_for">No available for %1$s</string>
+    <string name="msg_press_long_move">Press longer to drag and move the item</string>
     <string name="msg_record_created">Eintrag wurde erstellt</string>
     <string name="msg_record_deleted">Eintrag wurde gelöscht</string>
+    <string name="msg_record_migrate_done">Record migration has been completed</string>
+    <string name="msg_record_migrate_new_account_info">It will add %1$s (%2$s) accounts to %3$s</string>
+    <string name="msg_record_migrate_new_record_info">It will move %1$s (%2$s) records to %3$s</string>
+    <string name="msg_record_migrate_note">Please backup first and don\'t quit app when task is processing</string>
+    <string name="msg_record_migrate_provide_condition">Provide some conditions to preview the migration</string>
+    <string name="msg_record_migrate_update_account_info">It will update %1$s (%2$s) accounts of current book</string>
     <string name="msg_record_updated">Eintrag wurde aktualisiert</string>
     <string name="msg_rested">Daten wurden zurückgesetzt</string>
     <string name="msg_same_from_to">Ausgangs- und Zielkonto sind gleich</string>
+    <string name="msg_search_provide_condition">Provide some conditions to search</string>
+    <string name="msg_select_cards">Select cards to add to the desktop</string>
     <string name="msg_share_csv_content">Daily Money CSV Datei</string>
     <string name="msg_share_csv_title">Daily Money %1$s</string>
+    <string name="msg_slide_hint">You can slide right or left to change to previous or next page</string>
     <string name="msg_working_folder_no_access">Kein Zugriff auf den aktuellen Ordner %1$s möglich, Zugriff in den Systemeinstellungen erlauben</string>
     <string name="msg_wrong_password">Falsches Passwort!</string>
     <string name="msg_wrong_password_validation">Das zweite Passwort muss mit dem ersten übereinstimmen</string>
 
+    <string name="nav_pg_account">Konten</string>
+    <string name="nav_pg_add_record">Buchung hinzufügen</string>
+    <string name="nav_pg_book">Datenbanken</string>
+    <string name="nav_pg_daily_list">Tägliche Liste</string>
+    <string name="nav_pg_data_main">Daten</string>
+    <string name="nav_pg_monthly_list">Monatliche Liste</string>
+    <string name="nav_pg_prefs">Einstellungen</string>
+    <string name="nav_pg_reclist">Details</string>
+    <string name="nav_pg_report_from_beginning_balance">Gesamte Bilanz</string>
+    <string name="nav_pg_report_monthly_balance">Monatliche Bilanz</string>
+    <string name="nav_pg_report_search">Suchen</string>
+    <string name="nav_pg_report_yearly_balance">Jährliche Bilanz</string>
+    <string name="nav_pg_weekly_list">Wöchentliche Liste</string>
+    <string name="nav_pg_yearly_list">Jährliche Liste</string>
+
     <string name="qmsg_clear_folder">Willst du den Arbeitsordner leeren %1$s? Alle CSV Dateien werden gelöscht</string>
+    <string name="qmsg_common_confirm">\'%1$s\' wirklich ausführen?</string>
     <string name="qmsg_create_default">Willst du Standarddaten erstellen?</string>
     <string name="qmsg_delete_account">Willst du Konto %1$s löschen?</string>
     <string name="qmsg_delete_book">Willst du die Datenbank %1$s und alle enthaltenen Daten löschen?</string>
     <string name="qmsg_delete_record">Willst du Eintrag %1$s löschen?</string>
     <string name="qmsg_export_csv">Willst du die Daten in CSV exportieren?</string>
     <string name="qmsg_import_csv">Willst du CSV Daten importieren?</string>
+    <string name="qmsg_record_migrate">Do you want to migrate records?</string>
     <string name="qmsg_reset">Willst du die Daten zurücksetzen?</string>
     <string name="qmsg_reset_working_book">WARNUNG: Die aktuelle Datenbank wird gelöscht, willst du wirklich zurücksetzen?</string>
     <string name="qmsg_restore_data">WARNUNG: Aktuelle Dateien werden ersetzt, willst du wirklich wiederherstellen? </string>
+    <string name="qmsg_set_tempalte">Als Vorlage verwenden</string>
     <string name="qmsg_share_csv">Welche CSV Datei soll freigegeben werden</string>
-
 
     <string name="title_acceditor">Konteneditor</string>
     <string name="title_acceditor_create">Konto erstellen</string>
     <string name="title_acceditor_update">Konto berbeiten</string>
     <string name="title_accmgnt">Konten verwalten</string>
-    <string name="label_book">Datenbank</string>
     <string name="title_bookeditor_create">Erstelle eine Datenbank</string>
     <string name="title_bookeditor_update">Bearbeite die Datenbank</string>
     <string name="title_bookmgnt">Datenbank Management</string>
     <string name="title_datamain">Datenpflege</string>
-    <string name="label_desktop">Desktop</string>
     <string name="title_prefs">Einstellungen</string>
     <string name="title_receditor">Eintragseditor</string>
     <string name="title_receditor_create">Eintrag erstellen</string>
     <string name="title_receditor_update">Eintrag bearbeiten</string>
     <string name="title_reclist">Eintragsliste</string>
     <string name="title_recmgnt">Einträge verwalten</string>
-
-    <!-- since 20180510-->
-    <string name="act_bookmark">Lesezeichen setzen</string>
-    <string name="act_swap">Wechseln</string>
-
-    <string name="label_usual">Festgelegt</string>
-    <string name="label_latest_used">Zuletzt verwendet</string>
-
-    <!--since 20150514 -->
-    <string name="act_prev">Vorherige</string>
-    <string name="act_next">Nächste</string>
-    <string name="act_go_today">zu Heute wechseln</string>
-    <string name="act_change_mode">Modus ändern</string>
-    <string name="act_operations">Aktionen</string>
-
-    <string name="msg_no_data">Keine Daten vorhanden</string>
-
-    <!-- since 20180517 -->
-    <string name="act_run">Ausführen</string>
-    <!-- since 20180518 -->
-    <string name="label_template">Vorlage</string>
-    <string name="act_set_template">Vorlage erstellen</string>
-    <string name="qmsg_set_tempalte">Als Vorlage verwenden</string>
-    <string name="act_clear_templates">Vorlagen löschen</string>
-    <string name="msg_common_finished">\' %1$s\' ist beendet</string>
-    <string name="qmsg_common_confirm">\'%1$s\' wirklich ausführen?</string>
-
-    <string name="act_apply">Anwenden</string>
-
-    <!-- 20180523-->
-    <string name="act_more">More</string>
-    <string name="act_arrange_desktop">Arrange desktop</string>
-    <string name="act_edit_title">Edit title</string>
-    <string name="act_move_up">Move up</string>
-    <string name="act_move_down">Move down</string>
-    <string name="label_mode_display_title">Display title</string>
-
-    <string name="card_nav_page">Navigation page</string>
-    <string name="card_info_expense">Expense information</string>
-    <string name="card_pie_weekly_expense">Weekly expense</string>
-    <string name="card_pie_monthly_expense">Monthly expense</string>
-    <string name="msg_edit_desktop_title">Edit desktop\'s title</string>
-    <string name="msg_edit_card_title">Edit card\'s title</string>
-    <string name="act_add_card">Add card</string>
-    <string name="act_move">Move</string>
-    <string name="msg_press_long_move">Press longer to drag and move the item</string>
-
-    <string name="act_edit_args">Edit arguments</string>
-    <string name="msg_edit_nav_pages_args">Select pages that you want to show, the order depends on selection sequence</string>
-    <string name="msg_n_items">%1$s items</string>
-    <string name="msg_not_available_for">No available for %1$s</string>
-    <string name="msg_select_cards">Select cards to add to the desktop</string>
-    <string name="msg_field_empty_selection">Selection %1$s is empty</string>
-    <string name="label_card_type">Card type</string>
-
-    <string name="label_prefs_enable_desktop2">Enable desktop 2</string>
-    <string name="label_prefs_enable_desktop3">Enable desktop 3</string>
-    <string name="label_prefs_enable_desktop4">Enable desktop 4</string>
-
-    <!-- 20180529 -->
-    <string name="card_line_monthly_expense">Monthly expense</string>
-    <string name="card_line_monthly_expense_aggregate">Monthly aggregate expense</string>
-
-    <string name="msg_edit_card_arg">Edit arguments of this card</string>
-
-    <string name="chart_arg_calculation_mode_individual">Individual</string>
-    <string name="chart_arg_calculation_mode_cumulative">Cumulative</string>
-    <string name="label_previous_period">Previous period</string>
-    <string name="msg_edit_line_monthly_expense_args">Select the calculation mode of this chart</string>
-    <string name="label_yearly_value">Yearly : %1$s</string>
-    <string name="label_monthly_value">Monthly : %1$s</string>
-    <string name="label_weekly_value">Weekly : %1$s</string>
-
-    <!-- 20180605, 0.10.2 -->
-    <string name="label_today">Today</string>
-    <string name="label_tomorrow">Tomorrow</string>
-    <string name="label_yesterday">Yesterday</string>
-    <string name="label_future">Future</string>
-
-    <!-- 20180606 -->
-    <string name="label_search">Search</string>
-    <string name="msg_no_condition">You didn\'t provide any condition</string>
-    <string name="msg_search_provide_condition">Provide some conditions to search</string>
-
-    <!-- 20180611 -->
-    <string name="act_slide_hint">Slide hint</string>
-    <string name="msg_slide_hint">You can slide right or left to change to previous or next page</string>
-
-    <string name="label_chart_account_aggregate_line">Aggregate line-chart</string>
-    <string name="label_chart_account_aggregate_cumulative_line">Aggregate line-chart (cumulative)</string>
-
-    <!--20180614-->
-    <string name="msg_data_loading">Data loading...</string>
-
-    <string name="label_yearly">Jährliche</string>
-    <string name="label_monthly">Monatliche</string>
-    <string name="label_weekly">Wöchentliche</string>
-    <string name="label_cash">Bargeld</string>
-    <string name="label_prefs_group_records_by_date">Group records</string>
-    <string name="label_prefs_group_records_by_date_sum">Group records by date</string>
-
-    <string name="label_format">Format</string>
-
-    <!--20180628 -->
-    <string name="label_to_book">To a book</string>
-    <string name="label_new_book">New book</string>
-    <string name="label_migrate">Migrate</string>
-    <string name="label_preview">Preview</string>
-    <string name="msg_record_migrate_provide_condition">Provide some conditions to preview the migration</string>
-    <string name="label_migrate_records">Migrate records</string>
-    <string name="label_records">Records</string>
-    <string name="label_record_migrate_create_accounts">Accounts</string>
-    <string name="label_record_migrate_update_accounts">Update</string>
-    <string name="msg_record_migrate_new_record_info">It will move %1$s (%2$s) records to %3$s</string>
-    <string name="msg_record_migrate_new_account_info">It will add %1$s (%2$s) accounts to %3$s</string>
-    <string name="msg_record_migrate_update_account_info">It will update %1$s (%2$s) accounts of current book</string>
-    <string name="msg_record_migrate_done">Record migration has been completed</string>
-    <string name="qmsg_record_migrate">Do you want to migrate records?</string>
-    <string name="msg_record_migrate_note">Please backup first and don\'t quit app when task is processing</string>
-    <string name="label_zone_ring">Zone of Rings</string>
-    <string name="label_start">Start</string>
-    <string name="label_by_date">By a date</string>
 </resources>

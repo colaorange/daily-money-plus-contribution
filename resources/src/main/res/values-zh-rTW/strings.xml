@@ -3,25 +3,50 @@
     <string name="a1_lang_english_name">Tradional Chinese</string>
     <string name="a1_lang_native_name">繁體中文</string>
 
-    <string name="label_chart_account_pie">帳戶圓餅圖</string>
-    <string name="label_balance_reclist">明細清單</string>
-    <string name="label_chart_account_cumulative_line">帳戶折線圖(累加)</string>
-    <string name="label_chart_from_beginning_account_aggregate_line">總計集合折線圖</string>
-    <string name="label_chart_account_line">帳戶折線圖</string>
+    <string name="act_add_card">新增卡片</string>
+    <string name="act_apply">套用</string>
+    <string name="act_arrange_desktop">安排桌面</string>
+    <string name="act_bookmark">書籤</string>
     <string name="act_cancel">取消</string>
+    <string name="act_change_mode">變更模式</string>
+    <string name="act_clear_templates">清除所有樣版</string>
     <string name="act_close">關閉</string>
     <string name="act_copy">複製</string>
     <string name="act_create">建立</string>
     <string name="act_delete">刪除</string>
     <string name="act_edit">編輯</string>
-    <string name="act_new">新增</string>
-    <string name="act_ok">OK</string>
-    <string name="act_set_working_book">設定為使用中的帳本</string>
-    <string name="act_stop">停止</string>
+    <string name="act_edit_args">編輯參數</string>
+    <string name="act_edit_title">編輯標題</string>
+    <string name="act_go_today">到今天</string>
     <string name="act_hierarchical_balance">階層式結算</string>
+    <string name="act_more">更多</string>
+    <string name="act_move">移動</string>
+    <string name="act_move_down">下移</string>
+    <string name="act_move_up">上移</string>
+    <string name="act_new">新增</string>
+    <string name="act_next">後一項</string>
+    <string name="act_ok">OK</string>
+    <string name="act_operations">更多操作</string>
+    <string name="act_prev">前一項</string>
+    <string name="act_run">執行</string>
+    <string name="act_set_template">設定樣版</string>
+    <string name="act_set_working_book">設定為使用中的帳本</string>
+    <string name="act_slide_hint">滑動提示</string>
+    <string name="act_stop">停止</string>
+    <string name="act_swap">交換</string>
     <string name="act_update">更新</string>
 
     <string name="app_name" tools:ignore="ExtraTranslation">每日記帳本+</string>
+
+    <string name="card_info_expense">支出資訊</string>
+    <string name="card_line_monthly_expense">本月各項支出</string>
+    <string name="card_line_monthly_expense_aggregate">本月集合支出</string>
+    <string name="card_nav_page">功能頁面</string>
+    <string name="card_pie_monthly_expense">本月支出</string>
+    <string name="card_pie_weekly_expense">本週支出</string>
+
+    <string name="chart_arg_calculation_mode_cumulative">累加的</string>
+    <string name="chart_arg_calculation_mode_individual">個自的</string>
 
     <string name="defacc_bank">銀行</string>
     <string name="defacc_cash">現金</string>
@@ -38,33 +63,19 @@
     <string name="defacc_salary">薪水</string>
     <string name="defacc_transportation">交通油錢</string>
 
-    <string name="default_pref_format_date" accept="M/D/Y, D/M/Y, Y/M/D">Y/M/D</string>
-    <string name="default_pref_format_month" accept="digital, short, full">digital</string>
-    <string name="default_pref_format_time" accept="12, 24">24</string>
+    <string accept="M/D/Y, D/M/Y, Y/M/D" name="default_pref_format_date">Y/M/D</string>
+    <string accept="digital, short, full" name="default_pref_format_month">digital</string>
+    <string accept="12, 24" name="default_pref_format_time">24</string>
 
     <string name="desktop_main">主要</string>
     <string name="desktop_reports">報表</string>
     <string name="desktop_tests">測試</string>
 
-    <string name="nav_pg_account">帳戶管理</string>
-    <string name="nav_pg_add_record">新增明細</string>
-    <string name="nav_pg_book">帳本管理</string>
-    <string name="nav_pg_data_main">資料維護</string>
-    <string name="nav_pg_prefs">喜好設定</string>
-    <string name="nav_pg_reclist">明細列表</string>
-    <string name="nav_pg_daily_list">日明細列表</string>
-    <string name="nav_pg_monthly_list">月明細列表</string>
-    <string name="nav_pg_weekly_list">週明細列表</string>
-    <string name="nav_pg_yearly_list">年明細列表</string>
-    <string name="nav_pg_report_from_beginning_balance">總結算</string>
-    <string name="nav_pg_report_monthly_balance">單月份結算</string>
-    <string name="nav_pg_report_search">搜尋</string>
-    <string name="nav_pg_report_yearly_balance">單年結算</string>
-
     <string name="label_about">關於</string>
     <string name="label_acc_reclist_dateinfo">%1$s 到 %2$s</string>
     <string name="label_account">帳戶</string>
     <string name="label_account_only">只有帳戶</string>
+    <string name="label_accounting">會計</string>
     <string name="label_alert">警告</string>
     <string name="label_all">全部</string>
     <string name="label_all_books">全部帳本</string>
@@ -72,61 +83,75 @@
     <string name="label_asset">資產</string>
     <string name="label_backup_data">備份資料</string>
     <string name="label_balance">结算</string>
-    <string name="label_in_time">在 %1$s - (%2$s-%3$s)</string>
-    <string name="label_until_time">到 %1$s (%2$s)</string>
     <string name="label_balance_from_beginning_asset">資產總結算</string>
     <string name="label_balance_from_beginning_expense">支出總結算</string>
     <string name="label_balance_from_beginning_income">收入總結算</string>
     <string name="label_balance_from_beginning_liability">債務總結算</string>
     <string name="label_balance_from_beginning_other">其他總結算</string>
-    <string name="label_balance_yearly_linechart_cumulative">%1$s 在 %2$s (累加)</string>
-    <string name="msg_chart_from_beginning_account_aggregate_line">帳戶總計到 %1$s</string>
+    <string name="label_balance_reclist">明細清單</string>
     <string name="label_balance_yearly_linechart">%1$s 在 %2$s</string>
+    <string name="label_balance_yearly_linechart_cumulative">%1$s 在 %2$s (累加)</string>
+    <string name="label_book">帳本</string>
     <string name="label_busy">忙碌</string>
+    <string name="label_by_date">到這一天</string>
+    <string name="label_card_type">卡片類型</string>
+    <string name="label_cash">現金</string>
     <string name="label_cash_account">現金帳戶</string>
+    <string name="label_chart_account_aggregate_cumulative_line">集合折線圖(累加)</string>
+    <string name="label_chart_account_aggregate_line">集合折線圖</string>
+    <string name="label_chart_account_cumulative_line">帳戶折線圖(累加)</string>
+    <string name="label_chart_account_line">帳戶折線圖</string>
+    <string name="label_chart_account_pie">帳戶圓餅圖</string>
+    <string name="label_chart_from_beginning_account_aggregate_line">總計集合折線圖</string>
     <string name="label_clear_folder">清除工作目錄</string>
+    <string name="label_contribution">貢獻</string>
     <string name="label_contributor">貢獻者</string>
     <string name="label_count">(%1$s)</string>
     <string name="label_create_default">建立預設的資料(帳戶)</string>
+    <string name="label_csv">CSV</string>
     <string name="label_cumulative_cash">現金</string>
+    <string name="label_data">資料</string>
     <string name="label_date">日期</string>
     <string name="label_day_records">%1$s (%2$s筆)</string>
     <string name="label_default">預設</string>
     <string name="label_default_book_symbol">$</string>
+    <string name="label_desktop">桌面</string>
+    <string name="label_developer">開發者</string>
+    <string name="label_display">顯示</string>
     <string name="label_error">錯誤</string>
     <string name="label_expense">支出</string>
     <string name="label_export_csv">匯出 CSV</string>
     <string name="label_firstday_mon">星期一</string>
     <string name="label_firstday_sat">星期六</string>
     <string name="label_firstday_sun">星期日</string>
+    <string name="label_format">格式</string>
     <string name="label_from_account">從帳戶</string>
     <string name="label_from_date">起日</string>
+    <string name="label_future">未來</string>
     <string name="label_history">版本歷史</string>
     <string name="label_how2use">如何使用</string>
     <string name="label_import_csv">匯入 CSV</string>
+    <string name="label_in_time">在 %1$s - (%2$s-%3$s)</string>
     <string name="label_income">收入</string>
     <string name="label_info">資訊</string>
     <string name="label_initial_value">初始值</string>
+    <string name="label_latest_used">最後使用</string>
     <string name="label_liability">債務</string>
+    <string name="label_migrate">遷移</string>
+    <string name="label_migrate_records">遷移明細</string>
+    <string name="label_mode_display_title">顯示標題</string>
     <string name="label_money">金錢</string>
     <string name="label_month_records">%1$s (%2$s筆)</string>
-    <string name="label_this_month_expense">本月支出</string>
+    <string name="label_monthly">每月</string>
+    <string name="label_monthly_value">每月 : %1$s</string>
     <string name="label_name">名稱</string>
+    <string name="label_new_book">新帳本</string>
     <string name="label_note">備註</string>
     <string name="label_other">其他</string>
+    <string name="label_others">其他</string>
     <string name="label_position_after">在後面</string>
     <string name="label_position_front">在前面</string>
     <string name="label_position_none">不呈現</string>
-    <string name="label_accounting">會計</string>
-    <string name="label_contribution">貢獻</string>
-    <string name="label_csv">CSV</string>
-    <string name="label_data">資料</string>
-    <string name="label_developer">開發者</string>
-    <string name="label_display">顯示</string>
-    <string name="label_others">其他</string>
-    <string name="label_security">安全</string>
-    <string name="label_prefs_startday_year">年度的第一天</string>
-    <string name="label_prefs_startday_year_sum">設定年度的第一天(例如 7月1日)</string>
     <string name="label_prefs_allow_analytics">傳送使用狀況</string>
     <string name="label_prefs_allow_analytics_sum">[不會傳送任何其他資料] 傳送使用狀況將協助改善這個軟體</string>
     <string name="label_prefs_auto_backup">自動備份</string>
@@ -139,6 +164,9 @@
     <string name="label_prefs_backup_with_timestamp_sum">當備份時,同時複製檔案到含時戳的目錄, 會佔用額外的空間</string>
     <string name="label_prefs_csv_encoding">CSV 編碼</string>
     <string name="label_prefs_csv_encoding_sum">勿任意更改,將影響匯入匯出CSV</string>
+    <string name="label_prefs_enable_desktop2">啟用桌面2</string>
+    <string name="label_prefs_enable_desktop3">啟用桌面3</string>
+    <string name="label_prefs_enable_desktop4">啟用桌面4</string>
     <string name="label_prefs_firstday_week">星期的第一天</string>
     <string name="label_prefs_firstday_week_sum">設定每個星期的第一天為星期一還是星期日</string>
     <string name="label_prefs_format_date">日期的格式</string>
@@ -153,6 +181,8 @@
     <string name="label_prefs_format_month_sum">數字, 短名, 全名</string>
     <string name="label_prefs_format_time">時間格式</string>
     <string name="label_prefs_format_time_sum">12或24小時制</string>
+    <string name="label_prefs_group_records_by_date">群組明細</string>
+    <string name="label_prefs_group_records_by_date_sum">依日期群組明細</string>
     <string name="label_prefs_lang_contribution">提供其他語言翻譯</string>
     <string name="label_prefs_lang_contribution_sum">如果您能提供其他語言翻譯, 請寄信聯絡我幫助這個App</string>
     <string name="label_prefs_lastbackup">最後資料備份時間</string>
@@ -164,14 +194,16 @@
     <string name="label_prefs_password_sum">設定進入應用程式的密碼</string>
     <string name="label_prefs_passwordvd">密碼保護-2</string>
     <string name="label_prefs_passwordvd_sum">輸入相同的密碼來啟動密碼保護</string>
-    <string name="label_prefs_record_layout">明細排版</string>
     <string name="label_prefs_reccord_layout_sum">選擇不同的明細排版</string>
+    <string name="label_prefs_record_layout">明細排版</string>
     <string name="label_prefs_startday_month">月份的第一天</string>
     <string name="label_prefs_startday_month_sum">設定月份的第一天(數值在1 - 28)中間</string>
+    <string name="label_prefs_startday_year">年度的第一天</string>
     <string name="label_prefs_startday_year_month">年度的開始月份</string>
     <string name="label_prefs_startday_year_month_day">年度的開始月份日期</string>
     <string name="label_prefs_startday_year_month_day_sum">設定會計年度的開始月份日期</string>
     <string name="label_prefs_startday_year_month_sum">設定會計年度的開始月份</string>
+    <string name="label_prefs_startday_year_sum">設定年度的第一天(例如 7月1日)</string>
     <string name="label_prefs_testsdekstop">測試桌面</string>
     <string name="label_prefs_testsdekstop_sum">啟用測試桌面, 僅供開發者使用</string>
     <string name="label_prefs_text_size">字型大小</string>
@@ -181,6 +213,8 @@
     <string name="label_prefs_vote">加星星去</string>
     <string name="label_prefs_vote_sum">喜歡每日記帳本+的話, 記得去加星星 (★★★★★) 衝衝人氣</string>
     <string name="label_prefs_workingfolder">工作目錄</string>
+    <string name="label_preview">預覽</string>
+    <string name="label_previous_period">上一個區間</string>
     <string name="label_pwd_protection">密碼保護</string>
     <string name="label_rec_layout1">帳戶-金錢</string>
     <string name="label_rec_layout2">備註-金錢</string>
@@ -189,16 +223,23 @@
     <string name="label_reclist_from">%1$s</string>
     <string name="label_reclist_to">%1$s</string>
     <string name="label_record">明細</string>
+    <string name="label_record_migrate_create_accounts">帳戶</string>
+    <string name="label_record_migrate_update_accounts">更新</string>
     <string name="label_record_only">只有明細</string>
+    <string name="label_records">明細</string>
     <string name="label_reports">報表</string>
     <string name="label_request_storage_permission">請求讀取權限</string>
     <string name="label_reset">重置</string>
     <string name="label_reset_working_book">重置使用中的帳本</string>
     <string name="label_restore_data">還原資料</string>
+    <string name="label_search">搜尋</string>
+    <string name="label_security">安全</string>
     <string name="label_share">分享</string>
     <string name="label_share_csv">分享CSV</string>
+    <string name="label_start">開始</string>
     <string name="label_symbol">符號</string>
     <string name="label_symbol_position">符號位置</string>
+    <string name="label_template">樣版</string>
     <string name="label_text_size_large">大型</string>
     <string name="label_text_size_medium">中型</string>
     <string name="label_text_size_normal">一般</string>
@@ -206,17 +247,29 @@
     <string name="label_theme_lemon">檸檬</string>
     <string name="label_theme_orange">橘子</string>
     <string name="label_theme_sakura">櫻花</string>
+    <string name="label_this_month_expense">本月支出</string>
+    <string name="label_this_week_expense">本週支出</string>
     <string name="label_to_account">到帳戶</string>
+    <string name="label_to_book">到帳本</string>
     <string name="label_to_date">迄日</string>
+    <string name="label_today">今天</string>
+    <string name="label_tomorrow">明天</string>
     <string name="label_type">類型</string>
     <string name="label_unknown">未知</string>
+    <string name="label_until_time">到 %1$s (%2$s)</string>
+    <string name="label_usual">通常</string>
     <string name="label_warn">警告</string>
     <string name="label_week_records">%5$s %1$s到%2$s - 週%3$s/%4$s(%6$s筆)</string>
-    <string name="label_this_week_expense">本週支出</string>
+    <string name="label_weekly">每週</string>
+    <string name="label_weekly_value">每週 : %1$s</string>
     <string name="label_what_is_new">有什麼新功能</string>
     <string name="label_working_book">使用中的帳本</string>
     <string name="label_working_book_account">使用中帳本的帳戶</string>
     <string name="label_year_records">%1$s (%2$s筆)</string>
+    <string name="label_yearly">每年</string>
+    <string name="label_yearly_value">每年 : %1$s</string>
+    <string name="label_yesterday">昨天</string>
+    <string name="label_zone_ring">指環專區</string>
 
     <string name="msg_account_created">帳戶 %1$s 成功的被建立在帳戶型態 %2$s 中</string>
     <string name="msg_account_deleted">帳戶 %1$s 成功的刪除</string>
@@ -228,30 +281,68 @@
     <string name="msg_busy">程式忙碌中，請等一下</string>
     <string name="msg_cannot_delete_default_book">不允許刪除預設帳本</string>
     <string name="msg_cannot_delete_working_book">不允許刪除使用中的帳本</string>
+    <string name="msg_chart_from_beginning_account_aggregate_line">帳戶總計到 %1$s</string>
+    <string name="msg_common_finished">\' %1$s\'被完成了</string>
     <string name="msg_created_account">一共建立了 %1$s 個帳戶</string>
     <string name="msg_created_record">一共建立了 %1$s 筆明細</string>
     <string name="msg_csv_exported">資料(%1$s)全部被匯出到 %2$s</string>
     <string name="msg_csv_imported">資料從 %2$s (%1$s)被匯入</string>
+    <string name="msg_data_loading">資料載入中...</string>
     <string name="msg_db_backuped">%1$s 個檔案備份至 %2$s</string>
     <string name="msg_db_restored">%1$s 個檔案從 %2$s 還原</string>
     <string name="msg_default_created">預設的資料(帳戶)已經被建立</string>
+    <string name="msg_edit_card_arg">編輯卡片參數</string>
+    <string name="msg_edit_card_title">編輯卡片標題</string>
+    <string name="msg_edit_desktop_title">編輯桌面標題</string>
+    <string name="msg_edit_line_monthly_expense_args">選擇卡片的計算模式</string>
+    <string name="msg_edit_nav_pages_args">選擇您要顯示的頁面, 順序由你選擇的先後決定</string>
     <string name="msg_error">錯誤 : %1$s</string>
     <string name="msg_field_empty">%1$s 是空的</string>
+    <string name="msg_field_empty_selection">選擇 %1$s 是空的</string>
     <string name="msg_field_zero">%1$s 是零</string>
     <string name="msg_firsttime_use_hint">歡迎使用每日記帳本</string>
     <string name="msg_folder_cleared">工作目錄 %1$s 已經被清除</string>
+    <string name="msg_n_items">%1$s 項目</string>
+    <string name="msg_no_condition">您沒有提供任何條件</string>
     <string name="msg_no_csv">沒有CSV檔案</string>
+    <string name="msg_no_data">沒有資料</string>
     <string name="msg_no_data_to_backup">沒有資料可供備份/匯出</string>
+    <string name="msg_not_available_for">無法對 %1$s 提供</string>
+    <string name="msg_press_long_move">長按後利用拖拉來移動</string>
     <string name="msg_record_created">明細已被建立</string>
     <string name="msg_record_deleted">明細已被刪除</string>
+    <string name="msg_record_migrate_done">明細遷移完成</string>
+    <string name="msg_record_migrate_new_account_info">將新增 %1$s (%2$s) 筆帳戶到%3$s</string>
+    <string name="msg_record_migrate_new_record_info">將移動 %1$s (%2$s) 筆明細到 %3$s</string>
+    <string name="msg_record_migrate_note">請記得先備份, 並且在工作處理時請勿離開程式</string>
+    <string name="msg_record_migrate_provide_condition">請供一些條件來進行遷移預覽</string>
+    <string name="msg_record_migrate_update_account_info">將更新 %1$s (%2$s) 筆現行帳本的帳戶</string>
     <string name="msg_record_updated">明細已被更新</string>
     <string name="msg_rested">資料已經被重置</string>
     <string name="msg_same_from_to">相同的帳戶</string>
+    <string name="msg_search_provide_condition">請提供條件以進行搜尋</string>
+    <string name="msg_select_cards">選擇要加入桌面的卡片</string>
     <string name="msg_share_csv_content">Daily Money CSV 檔案</string>
     <string name="msg_share_csv_title">Daily Money %1$s</string>
+    <string name="msg_slide_hint">您可以向右或向左滑動來變更頁面到上一頁或下一頁</string>
     <string name="msg_working_folder_no_access">工作目錄 %1$s 無法存取, 請到系統設定開啟存取權限</string>
     <string name="msg_wrong_password">錯誤的密碼!</string>
     <string name="msg_wrong_password_validation">驗証的密碼必需一致</string>
+
+    <string name="nav_pg_account">帳戶管理</string>
+    <string name="nav_pg_add_record">新增明細</string>
+    <string name="nav_pg_book">帳本管理</string>
+    <string name="nav_pg_daily_list">日明細列表</string>
+    <string name="nav_pg_data_main">資料維護</string>
+    <string name="nav_pg_monthly_list">月明細列表</string>
+    <string name="nav_pg_prefs">喜好設定</string>
+    <string name="nav_pg_reclist">明細列表</string>
+    <string name="nav_pg_report_from_beginning_balance">總結算</string>
+    <string name="nav_pg_report_monthly_balance">單月份結算</string>
+    <string name="nav_pg_report_search">搜尋</string>
+    <string name="nav_pg_report_yearly_balance">單年結算</string>
+    <string name="nav_pg_weekly_list">週明細列表</string>
+    <string name="nav_pg_yearly_list">年明細列表</string>
 
     <string name="path_about" tools:ignore="ExtraTranslation">zh/about.html</string>
     <string name="path_history" tools:ignore="ExtraTranslation">zh/history.html</string>
@@ -259,154 +350,32 @@
     <string name="path_what_is_new" tools:ignore="ExtraTranslation">zh/whatsnew.html</string>
 
     <string name="qmsg_clear_folder">您想要清除工作目錄%1$s嗎?所有的目錄內的檔案將被移除</string>
+    <string name="qmsg_common_confirm">您想要執行\'%1$s\'嗎?</string>
     <string name="qmsg_create_default">您想要建立預設的資料(帳戶)嗎?</string>
     <string name="qmsg_delete_account">您想要刪除帳戶 %1$s?</string>
     <string name="qmsg_delete_book">您想要刪除帳本 %1$s 及其包含的帳戶及明細資料嗎?</string>
     <string name="qmsg_delete_record">您想要刪除明細 %1$s?</string>
     <string name="qmsg_export_csv">您想要匯出資料並覆蓋CSV檔嗎?</string>
     <string name="qmsg_import_csv">您想要匯入CSV檔並增加資料嗎?</string>
+    <string name="qmsg_record_migrate">您想要遷移明細嗎?</string>
     <string name="qmsg_reset">您想要重置資料嗎?</string>
     <string name="qmsg_reset_working_book">警告: 使用中的帳本將被清除, 您仍然要重置嗎?</string>
     <string name="qmsg_restore_data">警告: 現行資料將被取代, 您依然想要還原資料嗎?</string>
+    <string name="qmsg_set_tempalte">設定為樣版</string>
     <string name="qmsg_share_csv">分享那些CSV檔?</string>
-
 
     <string name="title_acceditor">帳戶編輯器</string>
     <string name="title_acceditor_create">建立帳戶</string>
     <string name="title_acceditor_update">更新帳戶</string>
     <string name="title_accmgnt">帳戶管理</string>
-    <string name="label_book">帳本</string>
     <string name="title_bookeditor_create">建立帳本</string>
     <string name="title_bookeditor_update">更新帳本</string>
     <string name="title_bookmgnt">帳本管理</string>
     <string name="title_datamain">資料維護</string>
-    <string name="label_desktop">桌面</string>
     <string name="title_prefs">喜好設定</string>
     <string name="title_receditor">明細編輯器</string>
     <string name="title_receditor_create">建立明細</string>
     <string name="title_receditor_update">更新明細</string>
     <string name="title_reclist">明細列表</string>
     <string name="title_recmgnt">明細管理器</string>
-
-    <!-- since 20180510-->
-    <string name="act_bookmark">書籤</string>
-    <string name="act_swap">交換</string>
-
-    <string name="label_usual">通常</string>
-    <string name="label_latest_used">最後使用</string>
-
-    <!--since 20150514 -->
-    <string name="act_prev">前一項</string>
-    <string name="act_next">後一項</string>
-    <string name="act_go_today">到今天</string>
-    <string name="act_change_mode">變更模式</string>
-    <string name="act_operations">更多操作</string>
-
-    <string name="msg_no_data">沒有資料</string>
-
-    <!-- since 20180517 -->
-    <string name="act_run">執行</string>
-    <!-- since 20180518 -->
-    <string name="label_template">樣版</string>
-    <string name="act_set_template">設定樣版</string>
-    <string name="qmsg_set_tempalte">設定為樣版</string>
-    <string name="act_clear_templates">清除所有樣版</string>
-    <string name="msg_common_finished">\' %1$s\'被完成了</string>
-    <string name="qmsg_common_confirm">您想要執行\'%1$s\'嗎?</string>
-
-    <string name="act_apply">套用</string>
-
-    <!-- 20180523-->
-    <string name="act_more">更多</string>
-    <string name="act_arrange_desktop">安排桌面</string>
-    <string name="act_edit_title">編輯標題</string>
-    <string name="act_move_up">上移</string>
-    <string name="act_move_down">下移</string>
-    <string name="label_mode_display_title">顯示標題</string>
-
-    <string name="card_nav_page">功能頁面</string>
-    <string name="card_info_expense">支出資訊</string>
-    <string name="card_pie_weekly_expense">本週支出</string>
-    <string name="card_pie_monthly_expense">本月支出</string>
-    <string name="msg_edit_desktop_title">編輯桌面標題</string>
-    <string name="msg_edit_card_title">編輯卡片標題</string>
-    <string name="act_add_card">新增卡片</string>
-    <string name="act_move">移動</string>
-    <string name="msg_press_long_move">長按後利用拖拉來移動</string>
-
-    <string name="act_edit_args">編輯參數</string>
-    <string name="msg_edit_nav_pages_args">選擇您要顯示的頁面, 順序由你選擇的先後決定</string>
-    <string name="msg_n_items">%1$s 項目</string>
-    <string name="msg_not_available_for">無法對 %1$s 提供</string>
-    <string name="msg_select_cards">選擇要加入桌面的卡片</string>
-    <string name="msg_field_empty_selection">選擇 %1$s 是空的</string>
-    <string name="label_card_type">卡片類型</string>
-
-    <string name="label_prefs_enable_desktop2">啟用桌面2</string>
-    <string name="label_prefs_enable_desktop3">啟用桌面3</string>
-    <string name="label_prefs_enable_desktop4">啟用桌面4</string>
-
-    <!-- 20180529 -->
-    <string name="card_line_monthly_expense">本月各項支出</string>
-    <string name="card_line_monthly_expense_aggregate">本月集合支出</string>
-
-    <string name="msg_edit_card_arg">編輯卡片參數</string>
-
-    <string name="chart_arg_calculation_mode_individual">個自的</string>
-    <string name="chart_arg_calculation_mode_cumulative">累加的</string>
-    <string name="label_previous_period">上一個區間</string>
-    <string name="msg_edit_line_monthly_expense_args">選擇卡片的計算模式</string>
-    <string name="label_yearly_value">每年 : %1$s</string>
-    <string name="label_monthly_value">每月 : %1$s</string>
-    <string name="label_weekly_value">每週 : %1$s</string>
-
-    <!-- 20180605, 0.10.2 -->
-    <string name="label_today">今天</string>
-    <string name="label_tomorrow">明天</string>
-    <string name="label_yesterday">昨天</string>
-    <string name="label_future">未來</string>
-
-    <!-- 20180606 -->
-    <string name="label_search">搜尋</string>
-    <string name="msg_no_condition">您沒有提供任何條件</string>
-    <string name="msg_search_provide_condition">請提供條件以進行搜尋</string>
-
-    <!-- 20180611 -->
-    <string name="act_slide_hint">滑動提示</string>
-    <string name="msg_slide_hint">您可以向右或向左滑動來變更頁面到上一頁或下一頁</string>
-
-    <string name="label_chart_account_aggregate_line">集合折線圖</string>
-    <string name="label_chart_account_aggregate_cumulative_line">集合折線圖(累加)</string>
-
-    <!--20180614-->
-    <string name="msg_data_loading">資料載入中...</string>
-
-    <string name="label_yearly">每年</string>
-    <string name="label_monthly">每月</string>
-    <string name="label_weekly">每週</string>
-    <string name="label_cash">現金</string>
-    <string name="label_prefs_group_records_by_date">群組明細</string>
-    <string name="label_prefs_group_records_by_date_sum">依日期群組明細</string>
-
-    <string name="label_format">格式</string>
-
-    <!--20180628 -->
-    <string name="label_to_book">到帳本</string>
-    <string name="label_new_book">新帳本</string>
-    <string name="label_migrate">遷移</string>
-    <string name="label_preview">預覽</string>
-    <string name="msg_record_migrate_provide_condition">請供一些條件來進行遷移預覽</string>
-    <string name="label_migrate_records">遷移明細</string>
-    <string name="label_records">明細</string>
-    <string name="label_record_migrate_create_accounts">帳戶</string>
-    <string name="label_record_migrate_update_accounts">更新</string>
-    <string name="msg_record_migrate_new_record_info">將移動 %1$s (%2$s) 筆明細到 %3$s</string>
-    <string name="msg_record_migrate_new_account_info">將新增 %1$s (%2$s) 筆帳戶到%3$s</string>
-    <string name="msg_record_migrate_update_account_info">將更新 %1$s (%2$s) 筆現行帳本的帳戶</string>
-    <string name="msg_record_migrate_done">明細遷移完成</string>
-    <string name="qmsg_record_migrate">您想要遷移明細嗎?</string>
-    <string name="msg_record_migrate_note">請記得先備份, 並且在工作處理時請勿離開程式</string>
-    <string name="label_zone_ring">指環專區</string>
-    <string name="label_start">開始</string>
-    <string name="label_by_date">到這一天</string>
 </resources>
