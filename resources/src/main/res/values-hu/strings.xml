@@ -371,4 +371,7 @@
     <string name="title_receditor_update">Tétel módosítása</string>
     <string name="title_reclist">Tétel lista</string>
     <string name="title_recmgnt">Tétel kezelő</string>
+
+    <!-- 20180729-->
+    <string name="label_theme_lavender">Lavender</string>
 </resources>

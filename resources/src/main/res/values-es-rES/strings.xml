@@ -371,4 +371,7 @@
     <string name="title_receditor_update">Actualizar Movimiento</string>
     <string name="title_reclist">Lista de Movimientos</string>
     <string name="title_recmgnt">Administrador de Movimientos</string>
+
+    <!-- 20180729-->
+    <string name="label_theme_lavender">Lavender</string>
 </resources>

@@ -371,4 +371,7 @@
     <string name="title_receditor_update">Eintrag bearbeiten</string>
     <string name="title_reclist">Eintragsliste</string>
     <string name="title_recmgnt">Einträge verwalten</string>
+
+    <!-- 20180729-->
+    <string name="label_theme_lavender">Lavender</string>
 </resources>

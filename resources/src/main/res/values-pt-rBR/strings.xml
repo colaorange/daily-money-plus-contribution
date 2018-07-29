@@ -371,4 +371,7 @@
     <string name="title_receditor_update">Atualizar Detalhe</string>
     <string name="title_reclist">Lista de Detalhes</string>
     <string name="title_recmgnt">Gerente de Detalhes</string>
+
+    <!-- 20180729-->
+    <string name="label_theme_lavender">Lavender</string>
 </resources>

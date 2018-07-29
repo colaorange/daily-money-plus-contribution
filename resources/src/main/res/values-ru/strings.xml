@@ -371,4 +371,7 @@
     <string name="title_receditor_update">Обновить описание</string>
     <string name="title_reclist">Список описаний</string>
     <string name="title_recmgnt">Менеджер описаний</string>
+
+    <!-- 20180729-->
+    <string name="label_theme_lavender">Lavender</string>
 </resources>
