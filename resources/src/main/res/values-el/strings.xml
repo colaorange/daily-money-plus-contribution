@@ -374,4 +374,7 @@
 
     <!-- 20180729-->
     <string name="label_theme_lavender">Lavender</string>
+
+    <string name="label_copy_current_accounts">Copy current accounts</string>
+    <string name="label_create_default_accounts">Create default accounts</string>
 </resources>

@@ -382,4 +382,6 @@
     <!-- 20180729-->
     <string name="label_theme_lavender">薰衣草</string>
 
+    <string name="label_copy_current_accounts">复制现行账户</string>
+    <string name="label_create_default_accounts">建立预设账户</string>
 </resources>
