@@ -1,7 +1,7 @@
-# Title:
+# Title: (keep the original name)
     Daily Money+
 
-# Description:
+# Description: (have to limit in 80 character)
     Free, No Ads, daily income, expense, asset and liability balance tracker
 
 # Detail:
