@@ -377,4 +377,8 @@
 
     <string name="label_copy_current_accounts">Kullanılan Hesapları Kopyala</string>
     <string name="label_create_default_accounts">Varsayılan Hesapları Oluştur</string>
+
+    <!-- 20180829-->
+    <string name="label_export_excel">Export to Excel file</string>
+    <string name="msg_excel_exported">Data has been exported to %1$s</string>
 </resources>

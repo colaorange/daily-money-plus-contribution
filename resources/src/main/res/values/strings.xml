@@ -379,6 +379,6 @@
     <string name="label_create_default_accounts">Create default accounts</string>
 
     <!-- 20180829-->
-    <string name="label_export_excel">Export Excel</string>
-    <string name="msg_excel_exported">Excel has been exported to %1$s</string>
+    <string name="label_export_excel">Export to Excel file</string>
+    <string name="msg_excel_exported">Data has been exported to %1$s</string>
 </resources>

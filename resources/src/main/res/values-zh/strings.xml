@@ -384,4 +384,8 @@
 
     <string name="label_copy_current_accounts">複製現行帳戶</string>
     <string name="label_create_default_accounts">建立預設帳戶</string>
+
+    <!-- 20180829-->
+    <string name="label_export_excel">匯出到Excel檔</string>
+    <string name="msg_excel_exported">資料已經被匯出到%1$s</string>
 </resources>
