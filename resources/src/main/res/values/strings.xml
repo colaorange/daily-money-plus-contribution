@@ -283,7 +283,7 @@
     <string name="msg_common_finished">\'%1$s\' has finsihed</string>
     <string name="msg_created_account">Created %1$s accounts</string>
     <string name="msg_created_record">Created %1$s record</string>
-    <string name="msg_csv_exported">Data (%1$s) was all exported to %2$s, </string>
+    <string name="msg_csv_exported">Data (%1$s) was all exported to %2$s</string>
     <string name="msg_csv_imported">Data was imported from %2$s (%1$s)</string>
     <string name="msg_data_loading">Data loading...</string>
     <string name="msg_db_backuped">%1$s files backup to %2$s</string>
@@ -377,4 +377,8 @@
 
     <string name="label_copy_current_accounts">Copy current accounts</string>
     <string name="label_create_default_accounts">Create default accounts</string>
+
+    <!-- 20180829-->
+    <string name="label_export_excel">Export to Excel file</string>
+    <string name="msg_excel_exported">Data has been exported to %1$s</string>
 </resources>
