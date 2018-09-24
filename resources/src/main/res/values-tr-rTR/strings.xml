@@ -381,4 +381,12 @@
     <!-- 20180829-->
     <string name="label_export_excel">Export to Excel file</string>
     <string name="msg_excel_exported">Data has been exported to %1$s</string>
+
+    <!--20180924-->
+    <string name="title_log_viewer">Log Viewer</string>
+    <string name="label_prefs_log_viewer_sum">Open log viewer</string>
+    <string name="label_prefs_log_max_line_sum">Maximum lines of log to keep in memory</string>
+    <string name="label_prefs_log_max_line">Max lines of log</string>
+    <string name="label_prefs_log_on_sum">Keep log in memory</string>
+    <string name="label_prefs_log_on">Log on</string>
 </resources>

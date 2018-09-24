@@ -388,4 +388,12 @@
     <!-- 20180829-->
     <string name="label_export_excel">匯出到Excel檔</string>
     <string name="msg_excel_exported">資料已經被匯出到%1$s</string>
+
+    <!--20180924-->
+    <string name="title_log_viewer">日誌檢視器</string>
+    <string name="label_prefs_log_viewer_sum">開啟日誌檢視器</string>
+    <string name="label_prefs_log_max_line_sum">最大保留在記憶體內的日誌行數</string>
+    <string name="label_prefs_log_max_line">最大保留的日誌行數</string>
+    <string name="label_prefs_log_on_sum">保留日誌在記憶體內</string>
+    <string name="label_prefs_log_on">保留日誌</string>
 </resources>

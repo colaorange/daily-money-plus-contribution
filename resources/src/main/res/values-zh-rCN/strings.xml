@@ -389,4 +389,12 @@
     <string name="label_export_excel">汇出到Excel檔</string>
     <string name="msg_excel_exported">资料已经被导出到%1$s</string>
 
+    <!--20180924-->
+    <string name="title_log_viewer">日志查看器</string>
+    <string name="label_prefs_log_viewer_sum">开启日志查看器</string>
+    <string name="label_prefs_log_max_line_sum">最大保留在内存内的日志行数</string>
+    <string name="label_prefs_log_max_line">最大保留的日志行数</string>
+    <string name="label_prefs_log_on_sum">保留日志在内存内</string>
+    <string name="label_prefs_log_on">保留日志</string>
+
 </resources>
