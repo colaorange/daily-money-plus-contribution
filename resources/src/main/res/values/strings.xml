@@ -389,4 +389,8 @@
     <string name="label_prefs_log_max_line">Max lines of log</string>
     <string name="label_prefs_log_on_sum">Keep log in memory</string>
     <string name="label_prefs_log_on">Log on</string>
+
+    <!--20181007-->
+    <string name="label_channel_default">Common</string>
+    <string name="label_channel_backup">Backup</string>
 </resources>
