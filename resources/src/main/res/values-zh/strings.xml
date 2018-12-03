@@ -396,4 +396,25 @@
     <string name="label_prefs_log_max_line">最大保留的日誌行數</string>
     <string name="label_prefs_log_on_sum">保留日誌在記憶體內</string>
     <string name="label_prefs_log_on">保留日誌</string>
+
+    <!--20181007-->
+    <string name="label_channel_default">一般</string>
+    <string name="label_channel_backup">備份</string>
+
+    <!--20181201-->
+    <string name="label_google_drive">Google雲端硬碟</string>
+    <string name="label_signin_as">登入為 %1$s</string>
+    <string name="label_not_signin">尚未登入</string>
+    <string name="label_select_backup_file">請選擇一個備份檔案</string>
+    <string name="msg_signin_fail">登入失敗, 原因: %1$s</string>
+    <string name="label_signin">登入</string>
+    <string name="label_signout">登出</string>
+    <string name="label_backup_to_drive">備份到雲端硬碟</string>
+    <string name="label_restore_from_drive">從雲端硬碟還原</string>
+    <string name="qmsg_backup_data_to_drive">您確定要備份資料並儲存在雲端硬碟?</string>
+    <string name="label_clean_drive">清除尚未更名的備份</string>
+    <string name="qmsg_clean_drive_data">您確定要清楚尚未更名的舊備份?</string>
+    <string name="msg_drive_cleaned">%1$s 個備份已經被清除</string>
+    <string name="label_channel_drive">雲端硬碟</string>
+    <string name="label_prefs_auto_backup_to_google_drive">自動備份到Google雲端硬碟</string>
 </resources>

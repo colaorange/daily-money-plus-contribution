@@ -150,7 +150,7 @@
     <string name="label_position_after">Μετά</string>
     <string name="label_position_front">Πριν</string>
     <string name="label_position_none">Χωρίς εμφάνιση συμβόλου</string>
-    <string name="label_prefs_allow_analytics">Στείλτε google analytics</string>
+    <string name="label_prefs_allow_analytics">Στείλτε Google analytics</string>
     <string name="label_prefs_allow_analytics_sum">[Δεν θα στείλω άλλα δεδομένα] Αποστολή χρήσης για να βελτιώσω την εφαρμογή</string>
     <string name="label_prefs_auto_backup">Αυτόματο backup</string>
     <string name="label_prefs_auto_backup_at_hours">Ώρα αυτόματου backup</string>
@@ -389,4 +389,25 @@
     <string name="label_prefs_log_max_line">Max lines of log</string>
     <string name="label_prefs_log_on_sum">Keep log in memory</string>
     <string name="label_prefs_log_on">Log on</string>
+
+    <!--20181007-->
+    <string name="label_channel_default">Common</string>
+    <string name="label_channel_backup">Backup</string>
+
+    <!--20181201-->
+    <string name="label_google_drive">Google Drive</string>
+    <string name="label_signin_as">Signed in as %1$s</string>
+    <string name="label_not_signin">Haven\'t signed in yet</string>
+    <string name="label_select_backup_file">Select a backup file</string>
+    <string name="msg_signin_fail">Sign in fail, reason: %1$s</string>
+    <string name="label_signin">Sign in</string>
+    <string name="label_signout">Sign out</string>
+    <string name="label_backup_to_drive">Backup to drive</string>
+    <string name="label_restore_from_drive">Restore from drive</string>
+    <string name="qmsg_backup_data_to_drive">Do you want to backup data and store at drive?</string>
+    <string name="label_clean_drive">Clean un-renamed backup</string>
+    <string name="qmsg_clean_drive_data">Do you want to clean backup that are old and un-renamed?</string>
+    <string name="msg_drive_cleaned">%1$s backup cleaned</string>
+    <string name="label_channel_drive">Drive</string>
+    <string name="label_prefs_auto_backup_to_google_drive">Auto backup to Google Drive</string>
 </resources>
