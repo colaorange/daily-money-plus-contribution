@@ -397,4 +397,27 @@
     <string name="label_prefs_log_on_sum">保留日志在内存内</string>
     <string name="label_prefs_log_on">保留日志</string>
 
+    <!--20181007-->
+    <string name="label_channel_default">一般</string>
+    <string name="label_channel_backup">备份</string>
+
+    <!--20181201-->
+    <string name="label_google_drive">Google云端硬盘</string>
+    <string name="label_signin_as">登入为 %1$s</string>
+    <string name="label_not_signin">尚未登入</string>
+    <string name="label_select_backup_file">请选择一个备份文件</string>
+    <string name="msg_signin_fail">登入失败, 原因: %1$s</string>
+    <string name="label_signin">登入</string>
+    <string name="label_signout">注销</string>
+    <string name="label_backup_to_drive">备份到云端硬盘</string>
+    <string name="label_restore_from_drive">从云端硬盘还原</string>
+    <string name="qmsg_backup_data_to_drive">您确定要备份数据并储存在云端硬盘?</string>
+    <string name="label_clean_drive">清除尚未更名的备份</string>
+    <string name="qmsg_clean_drive_data">您确定要清楚尚未更名的旧备份?</string>
+    <string name="msg_drive_cleaned">%1$s 个备份已经被清除</string>
+    <string name="label_channel_drive">云端硬盘</string>
+    <string name="label_prefs_auto_backup_to_google_drive">自动备份到Google云端硬盘</string>
+
+
+
 </resources>

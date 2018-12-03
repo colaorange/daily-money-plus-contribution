@@ -399,7 +399,7 @@
     <string name="label_signin_as">Signed in as %1$s</string>
     <string name="label_not_signin">Haven\'t signed in yet</string>
     <string name="label_select_backup_file">Select a backup file</string>
-    <string name="msg_login_fail">Log in fail, reason: %1$s</string>
+    <string name="msg_signin_fail">Sign in fail, reason: %1$s</string>
     <string name="label_signin">Sign in</string>
     <string name="label_signout">Sign out</string>
     <string name="label_backup_to_drive">Backup to drive</string>
@@ -409,5 +409,5 @@
     <string name="qmsg_clean_drive_data">Do you want to clean backup that are old and un-renamed?</string>
     <string name="msg_drive_cleaned">%1$s backup cleaned</string>
     <string name="label_channel_drive">Drive</string>
-    <string name="label_prefs_backup_to_google_drive">Backup to google drive</string>
+    <string name="label_prefs_auto_backup_to_google_drive">Auto backup to google drive</string>
 </resources>
