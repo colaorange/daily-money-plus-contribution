@@ -409,5 +409,5 @@
     <string name="qmsg_clean_drive_data">Do you want to clean backup that are old and un-renamed?</string>
     <string name="msg_drive_cleaned">%1$s backup cleaned</string>
     <string name="label_channel_drive">Drive</string>
-    <string name="label_prefs_auto_backup_to_google_drive">Auto backup to google drive</string>
+    <string name="label_prefs_auto_backup_to_google_drive">Auto backup to Google Drive</string>
 </resources>

@@ -150,7 +150,7 @@
     <string name="label_position_after">Μετά</string>
     <string name="label_position_front">Πριν</string>
     <string name="label_position_none">Χωρίς εμφάνιση συμβόλου</string>
-    <string name="label_prefs_allow_analytics">Στείλτε google analytics</string>
+    <string name="label_prefs_allow_analytics">Στείλτε Google analytics</string>
     <string name="label_prefs_allow_analytics_sum">[Δεν θα στείλω άλλα δεδομένα] Αποστολή χρήσης για να βελτιώσω την εφαρμογή</string>
     <string name="label_prefs_auto_backup">Αυτόματο backup</string>
     <string name="label_prefs_auto_backup_at_hours">Ώρα αυτόματου backup</string>
@@ -409,5 +409,5 @@
     <string name="qmsg_clean_drive_data">Do you want to clean backup that are old and un-renamed?</string>
     <string name="msg_drive_cleaned">%1$s backup cleaned</string>
     <string name="label_channel_drive">Drive</string>
-    <string name="label_prefs_auto_backup_to_google_drive">Auto backup to google drive</string>
+    <string name="label_prefs_auto_backup_to_google_drive">Auto backup to Google Drive</string>
 </resources>

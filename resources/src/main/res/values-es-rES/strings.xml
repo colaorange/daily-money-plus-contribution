@@ -150,7 +150,7 @@
     <string name="label_position_after">Detrás</string>
     <string name="label_position_front">Delante</string>
     <string name="label_position_none">No Mostrar</string>
-    <string name="label_prefs_allow_analytics">Enviar datos a google analytics</string>
+    <string name="label_prefs_allow_analytics">Enviar datos a Google analytics</string>
     <string name="label_prefs_allow_analytics_sum">[No se enviarán otros datos]Las estadísticas se usarán para mejorar la aplicación</string>
     <string name="label_prefs_auto_backup">Auto backup</string>
     <string name="label_prefs_auto_backup_at_hours">Auto backup at hours in a day</string>
@@ -409,5 +409,5 @@
     <string name="qmsg_clean_drive_data">Do you want to clean backup that are old and un-renamed?</string>
     <string name="msg_drive_cleaned">%1$s backup cleaned</string>
     <string name="label_channel_drive">Drive</string>
-    <string name="label_prefs_auto_backup_to_google_drive">Auto backup to google drive</string>
+    <string name="label_prefs_auto_backup_to_google_drive">Auto backup to Google Drive</string>
 </resources>
