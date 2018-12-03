@@ -22,6 +22,7 @@ Features:
  * Customizable start day of week, month, year.
  * Asset and liability balance.
  * Data backup and restore, manually and automatically
+ * Data backup and restore from Google Drive, manually and automatically
  * Export to CSV, Import for CSV
  * Balance pie chart & time chart.
  * Password protection.
