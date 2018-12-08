@@ -406,7 +406,7 @@
     <string name="label_restore_from_drive">Restore from drive</string>
     <string name="qmsg_backup_data_to_drive">Do you want to backup data and store at drive?</string>
     <string name="label_clean_drive">Clean non-renamed backup</string>
-    <string name="qmsg_clean_drive_data">Do you want to clean backup that are old and non-renamed?</string>
+    <string name="qmsg_clean_drive_data">Do you want to clean backups that are non-renamed?</string>
     <string name="msg_drive_cleaned">%1$s backup cleaned</string>
     <string name="label_channel_drive">Drive</string>
     <string name="label_prefs_auto_backup_to_google_drive">Auto backup to Google Drive</string>
