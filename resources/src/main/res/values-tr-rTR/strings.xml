@@ -153,11 +153,7 @@
     <string name="label_prefs_allow_analytics">Google analizleri gönder</string>
     <string name="label_prefs_allow_analytics_sum">[Başka hiçbir veri gönderilmeyecek]Uygulamayı geliştirmeye yardımcı kullanım bilgileri gönderiliyor</string>
     <string name="label_prefs_auto_backup">Otomatik Yedekle</string>
-    <string name="label_prefs_auto_backup_at_hours">Hergün Şu Saatte Yedekle</string>
-    <string name="label_prefs_auto_backup_at_hours_sum">Otomatik Yedeklemeyi Çalıştırmak İstediğiniz Saati Ayarlayın</string>
     <string name="label_prefs_auto_backup_sum">Enables auto-backup at week days and hours</string>
-    <string name="label_prefs_auto_backup_weekdays">Otomatik Yedeklemenin Çalışacağı Günler</string>
-    <string name="label_prefs_auto_backup_weekdays_sum">Seçilmiş Yedekleme Günleri</string>
     <string name="label_prefs_backup_with_timestamp">Yedeğe Saat Etiketi Ekle</string>
     <string name="label_prefs_backup_with_timestamp_sum">Dosyaları Zaman Etiketli Klasöre Taşır (Hafizada Daha Çok Yer Kaplar)</string>
     <string name="label_prefs_csv_encoding">CSV Kodlama</string>
@@ -413,4 +409,7 @@
 
     <!--20190207-->
     <string name="act_reorder">Reorder</string>
+
+    <string name="label_prefs_auto_backup_due_days">Auto backup on due days after</string>
+    <string name="label_prefs_auto_backup_due_days_sum">Select a due day that you want to run backup</string>
 </resources>

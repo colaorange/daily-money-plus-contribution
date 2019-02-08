@@ -153,11 +153,7 @@
     <string name="label_prefs_allow_analytics">Στείλτε Google analytics</string>
     <string name="label_prefs_allow_analytics_sum">[Δεν θα στείλω άλλα δεδομένα] Αποστολή χρήσης για να βελτιώσω την εφαρμογή</string>
     <string name="label_prefs_auto_backup">Αυτόματο backup</string>
-    <string name="label_prefs_auto_backup_at_hours">Ώρα αυτόματου backup</string>
-    <string name="label_prefs_auto_backup_at_hours_sum">Επιλέξτε την ώρα που θέλετε να πάρετε backup</string>
     <string name="label_prefs_auto_backup_sum">Επιτρέπει το αυτόματο backup τις ημέρες και ώρες της εβδομάδας</string>
-    <string name="label_prefs_auto_backup_weekdays">Αυτόματο backup σε μέρες της εβδομάδας</string>
-    <string name="label_prefs_auto_backup_weekdays_sum">Επιλέξτε τις ημέρες που θέλετε να πάρετε backup</string>
     <string name="label_prefs_backup_with_timestamp">Backup με χρονική σήμανση</string>
     <string name="label_prefs_backup_with_timestamp_sum">Αντιγράψτε τα αρχεία σε ένα φάκελο timestamp, κοστίζει επιπλέον μέγεθος αποθήκευσης</string>
     <string name="label_prefs_csv_encoding">Κωδικοποίηση CSV</string>
@@ -413,4 +409,7 @@
 
     <!--20190207-->
     <string name="act_reorder">Reorder</string>
+
+    <string name="label_prefs_auto_backup_due_days">Auto backup on due days after</string>
+    <string name="label_prefs_auto_backup_due_days_sum">Select a due day that you want to run backup</string>
 </resources>

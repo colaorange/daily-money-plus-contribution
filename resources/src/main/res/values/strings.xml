@@ -153,11 +153,7 @@
     <string name="label_prefs_allow_analytics">Send Google analytics</string>
     <string name="label_prefs_allow_analytics_sum">[Will not send any other data] Sending usage to help me improve application</string>
     <string name="label_prefs_auto_backup">Auto backup</string>
-    <string name="label_prefs_auto_backup_at_hours">Auto backup at hours in a day</string>
-    <string name="label_prefs_auto_backup_at_hours_sum">Select hours that you want to run backup</string>
     <string name="label_prefs_auto_backup_sum">Enables auto-backup at week days and hours</string>
-    <string name="label_prefs_auto_backup_weekdays">Auto backup on days in a week</string>
-    <string name="label_prefs_auto_backup_weekdays_sum">Select days that you want to run backup</string>
     <string name="label_prefs_backup_with_timestamp">Backup with timestamp</string>
     <string name="label_prefs_backup_with_timestamp_sum">Also copy files to a timestamp folder, it cost extra storage size</string>
     <string name="label_prefs_csv_encoding">CSV Encoding</string>
@@ -413,4 +409,7 @@
 
     <!--20190207-->
     <string name="act_reorder">Reorder</string>
+
+    <string name="label_prefs_auto_backup_due_days">Auto backup on due days after</string>
+    <string name="label_prefs_auto_backup_due_days_sum">Select a due day that you want to run backup</string>
 </resources>

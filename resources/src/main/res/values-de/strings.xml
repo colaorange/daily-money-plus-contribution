@@ -153,11 +153,7 @@
     <string name="label_prefs_allow_analytics">Daten an Google Analytics senden</string>
     <string name="label_prefs_allow_analytics_sum">[Es werden keine weiteren Daten versendet]Das versenden der Daten hilft mir das Programm zu verbessern</string>
     <string name="label_prefs_auto_backup">Automatisches Backup</string>
-    <string name="label_prefs_auto_backup_at_hours">Automatisches Backup zu Stunden am Tag</string>
-    <string name="label_prefs_auto_backup_at_hours_sum">Zeit für Backup auswählen</string>
     <string name="label_prefs_auto_backup_sum">Auto-Backup an Wochentagen erlauben</string>
-    <string name="label_prefs_auto_backup_weekdays">Auto backup on days in a week</string>
-    <string name="label_prefs_auto_backup_weekdays_sum">Tage für Backup auswählen</string>
     <string name="label_prefs_backup_with_timestamp">Backup mit Zeitangabe</string>
     <string name="label_prefs_backup_with_timestamp_sum">Dokumente in einen Ordner mit Zeitangabe kopieren (extra Speicherplatz erforderlich)</string>
     <string name="label_prefs_csv_encoding">CSV verschlüsseln</string>
@@ -413,4 +409,7 @@
 
     <!--20190207-->
     <string name="act_reorder">Reorder</string>
+
+    <string name="label_prefs_auto_backup_due_days">Auto backup on due days after</string>
+    <string name="label_prefs_auto_backup_due_days_sum">Select a due day that you want to run backup</string>
 </resources>
