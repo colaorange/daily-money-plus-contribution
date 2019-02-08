@@ -417,4 +417,7 @@
     <string name="msg_drive_cleaned">%1$s 個備份已經被清除</string>
     <string name="label_channel_drive">雲端硬碟</string>
     <string name="label_prefs_auto_backup_to_google_drive">自動備份到Google雲端硬碟</string>
+
+    <!--20190207-->
+    <string name="act_reorder">排序</string>
 </resources>

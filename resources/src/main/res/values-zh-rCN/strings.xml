@@ -418,6 +418,7 @@
     <string name="label_channel_drive">云端硬盘</string>
     <string name="label_prefs_auto_backup_to_google_drive">自动备份到Google云端硬盘</string>
 
-
+    <!--20190207-->
+    <string name="act_reorder">排序</string>
 
 </resources>
